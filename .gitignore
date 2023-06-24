@@ -1,3 +1,4 @@
 .env
-# dependencies
-node_modules/
+
+# Database creds
+timescale-db-51063-credentials.sql
