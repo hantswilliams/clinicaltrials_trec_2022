@@ -1,0 +1,212 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT05389722",
+        "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html",
+        "https://www.bmsstudyconnect.com/s/US/English/USenHome",
+        "https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm"
+    ],
+    "org_study_id": [
+        "CA057-002"
+    ],
+    "nct_id": [
+        "NCT05389722"
+    ],
+    "brief_title": [
+        "A Study to Assess the Drug Levels of CC-92480 After Coadministration With Rifampin and Itraconazole, and the Drug Levels of Digoxin and Rosuvastatin After Coadministration With CC-92480 in Healthy Participants"
+    ],
+    "official_title": [
+        "A Phase 1, Parallel-group, 3-part, 2-period, Fixed-sequence, Crossover, Open-label, Nonrandomized, Drug-drug Interaction Study to Assess the Pharmacokinetics of CC-92480 (BMS-986348) After Coadministration With Rifampin and Itraconazole, and Pharmacokinetics of Digoxin and Rosuvastatin After Coadministration With CC-92480 in Healthy Participants"
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "Bristol-Myers Squibb"
+    ],
+    "has_dmc": [
+        "No"
+    ],
+    "is_fda_regulated_drug": [
+        "Yes"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "textblock": [
+        "The purpose of this study is to evaluate the drug levels of CC-92480 after coadministration\r\n      with rifampin and itraconazole and the drug levels of digoxin and rosuvastatin after\r\n      coadministration with CC-92480 in healthy participants."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual"
+    ],
+    "start_date": [
+        "June 9, 2022"
+    ],
+    "completion_date": [
+        "November 12, 2022"
+    ],
+    "primary_completion_date": [
+        "November 12, 2022"
+    ],
+    "phase": [
+        "Phase 1"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Non-Randomized"
+    ],
+    "intervention_model": [
+        "Parallel Assignment"
+    ],
+    "primary_purpose": [
+        "Treatment"
+    ],
+    "masking": [
+        "None (Open Label)"
+    ],
+    "measure": [
+        "Maximum observed plasma concentration (Cmax)",
+        "Time of maximum observed plasma concentration (Tmax)",
+        "Area under the plasma concentration-time curve from time zero to the time of the last quantifiable concentration (AUC(0-T))",
+        "Number of participants with adverse events (AEs)",
+        "Number of participants with physical examination findings",
+        "Number of participants with vital sign abnormalities",
+        "Number of participants with 12-lead electrocardiogram (ECG) abnormalities",
+        "Number of participants with clinical laboratory abnormalities"
+    ],
+    "time_frame": [
+        "Up to 2 months",
+        "Up to 2 months",
+        "Up to 2 months",
+        "Up to 3 months",
+        "Up to 3 months",
+        "Up to 3 months",
+        "Up to 3 months",
+        "Up to 3 months"
+    ],
+    "number_of_arms": [
+        3.0
+    ],
+    "enrollment": [
+        24.0
+    ],
+    "condition": [
+        "Healthy Volunteers"
+    ],
+    "arm_group_label": [
+        "Part 1",
+        "Part 2",
+        "Part 3",
+        "Part 3",
+        "Part 1",
+        "Part 2",
+        "Part 3",
+        "Part 3"
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Experimental",
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug",
+        "Drug",
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "CC-92480",
+        "Rifampin",
+        "Itraconazole",
+        "Digoxin",
+        "Rosuvastatin"
+    ],
+    "description": [
+        "Specified dose on specified days",
+        "Specified dose on specified days",
+        "Specified dose on specified days",
+        "Specified dose on specified days",
+        "Specified dose on specified days",
+        "BMS Clinical Trial Information",
+        "BMS Clinical Trial Patient Recruiting",
+        "FDA Safety Alerts and Recalls"
+    ],
+    "other_name": [
+        "BMS-986348"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [
+        "55 Years"
+    ],
+    "healthy_volunteers": [
+        "Accepts Healthy Volunteers"
+    ],
+    "last_name": [
+        "Bristol-Myers Squibb"
+    ],
+    "role": [
+        "Study Director"
+    ],
+    "affiliation": [
+        "Bristol-Myers Squibb"
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "verification_date": [
+        "April 2023"
+    ],
+    "study_first_submitted": [
+        "May 20, 2022"
+    ],
+    "study_first_submitted_qc": [
+        "May 20, 2022"
+    ],
+    "study_first_posted": [
+        "May 25, 2022"
+    ],
+    "last_update_submitted": [
+        "April 18, 2023"
+    ],
+    "last_update_submitted_qc": [
+        "April 18, 2023"
+    ],
+    "last_update_posted": [
+        "April 19, 2023"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "CC-92480",
+        "Healthy Volunteer",
+        "Pharmacokinetic"
+    ],
+    "mesh_term": [
+        "Rosuvastatin Calcium"
+    ]
+}

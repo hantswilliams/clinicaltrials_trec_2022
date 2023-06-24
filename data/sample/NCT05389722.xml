@@ -1,0 +1,208 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05389722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CA057-002</org_study_id>
+    <nct_id>NCT05389722</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Drug Levels of CC-92480 After Coadministration With Rifampin and Itraconazole, and the Drug Levels of Digoxin and Rosuvastatin After Coadministration With CC-92480 in Healthy Participants</brief_title>
+  <official_title>A Phase 1, Parallel-group, 3-part, 2-period, Fixed-sequence, Crossover, Open-label, Nonrandomized, Drug-drug Interaction Study to Assess the Pharmacokinetics of CC-92480 (BMS-986348) After Coadministration With Rifampin and Itraconazole, and Pharmacokinetics of Digoxin and Rosuvastatin After Coadministration With CC-92480 in Healthy Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bristol-Myers Squibb</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the drug levels of CC-92480 after coadministration&#xD;
+      with rifampin and itraconazole and the drug levels of digoxin and rosuvastatin after&#xD;
+      coadministration with CC-92480 in healthy participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 9, 2022</start_date>
+  <completion_date type="Actual">November 12, 2022</completion_date>
+  <primary_completion_date type="Actual">November 12, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Up to 2 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of maximum observed plasma concentration (Tmax)</measure>
+    <time_frame>Up to 2 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the plasma concentration-time curve from time zero to the time of the last quantifiable concentration (AUC(0-T))</measure>
+    <time_frame>Up to 2 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with adverse events (AEs)</measure>
+    <time_frame>Up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with physical examination findings</measure>
+    <time_frame>Up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with vital sign abnormalities</measure>
+    <time_frame>Up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with 12-lead electrocardiogram (ECG) abnormalities</measure>
+    <time_frame>Up to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with clinical laboratory abnormalities</measure>
+    <time_frame>Up to 3 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Part 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CC-92480</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Part 1</arm_group_label>
+    <arm_group_label>Part 2</arm_group_label>
+    <arm_group_label>Part 3</arm_group_label>
+    <other_name>BMS-986348</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rifampin</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Part 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Itraconazole</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Part 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Digoxin</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Part 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rosuvastatin</intervention_name>
+    <description>Specified dose on specified days</description>
+    <arm_group_label>Part 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Must have a body mass index between 18 and 33 kg/m2 (inclusive)&#xD;
+&#xD;
+          -  Adult female of nonchildbearing potential or male, any race or ethnicity, and in good&#xD;
+             health as determined by the medical history, physical exam, vital signs, 12-lead&#xD;
+             electrocardiogram, and clinical laboratory assessments&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any surgical or medical condition possibly affecting drug absorption, distribution,&#xD;
+             metabolism, and excretion&#xD;
+&#xD;
+          -  Any major surgery within 4 weeks of the first dose administration&#xD;
+&#xD;
+          -  History of drug abuse within 2 years of the first dose administration&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bristol-Myers Squibb</last_name>
+    <role>Study Director</role>
+    <affiliation>Bristol-Myers Squibb</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Covance Clinical Research Unit - Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75247-4968</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html</url>
+    <description>BMS Clinical Trial Information</description>
+  </link>
+  <link>
+    <url>https://www.bmsstudyconnect.com/s/US/English/USenHome</url>
+    <description>BMS Clinical Trial Patient Recruiting</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>May 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 25, 2022</study_first_posted>
+  <last_update_submitted>April 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CC-92480</keyword>
+  <keyword>Healthy Volunteer</keyword>
+  <keyword>Pharmacokinetic</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Itraconazole</mesh_term>
+    <mesh_term>Rifampin</mesh_term>
+    <mesh_term>Digoxin</mesh_term>
+    <mesh_term>Rosuvastatin Calcium</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

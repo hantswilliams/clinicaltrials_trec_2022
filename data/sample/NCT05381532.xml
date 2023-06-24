@@ -1,0 +1,222 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381532</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021P002586</org_study_id>
+    <secondary_id>R01HL162102</secondary_id>
+    <nct_id>NCT05381532</nct_id>
+  </id_info>
+  <brief_title>Menstrual-phase-dependent Differences in Response to Sleep Loss</brief_title>
+  <official_title>Menstrual-phase-dependent Differences in Response to Sleep Loss</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to assess how healthy premenopausal women respond to different&#xD;
+      patterns of sleep loss at different times in the menstrual cycle.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During a 1.5-week inpatient laboratory protocol, participants will undergo one of two&#xD;
+      parallel sleep conditions during either the follicular or luteal phase of the menstrual cycle&#xD;
+      (4 study arms total). Subjects will be randomly assigned to each study arm. During their time&#xD;
+      in the laboratory, biological samples (e.g., blood) will be collected for assessment of sex&#xD;
+      steroid hormones and other analyses. Sleep quantity and quality will be monitored and&#xD;
+      responses on neurobehavioral tests and surveys will be monitored for differences across&#xD;
+      conditions.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 17, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants may not know to which study arm they are assigned.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PVT mean reaction time</measure>
+    <time_frame>The PVT will be administered at frequent intervals over 11 days in a sleep laboratory. Subjects will be in a time-free environment, and not told the sampling frequency.</time_frame>
+    <description>The mean reaction time will be calculated across each Psychomotor Vigilance Task (PVT) session. A linear mixed model analysis will be conducted to compare PVT mean reaction time at each time point (multiple points across the study) across all 4 study arms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PVT lapses in attention</measure>
+    <time_frame>The PVT will be administered at frequent intervals over 11 days in a sleep laboratory. Subjects will be in a time-free environment, and not told the sampling frequency.</time_frame>
+    <description>The number of lapses in attention will be counted across each Psychomotor Vigilance Task (PVT) session. A linear mixed model analysis will be conducted to compare PVT lapses in attention at each time point (multiple points across the study) across all 4 study arms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>KSS score</measure>
+    <time_frame>The KSS will be administered at frequent intervals over 11 days in a sleep laboratory. Subjects will be in a time-free environment, and not told the sampling frequency.</time_frame>
+    <description>The Karolinska Sleepiness Score (KSS) measures level of sleepiness on a 9-point Likert scale with 1 = Extremely Alert and 9 = Extremely Sleepy. A linear mixed model analysis will be conducted to compare KSS score at each time point (multiple points across the study) across all 4 study arms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>P4/E2 ratio</measure>
+    <time_frame>Biological samples will be collected at frequent intervals over 11 days in a sleep laboratory. Subjects will be in a time-free environment, and not told the sampling frequency.</time_frame>
+    <description>The ratio of progesterone (P4) and estradiol (E2) in each sample will be calculated as (P4 ng/ml x 1000)/E2 pg/ml. A linear mixed model analysis will be conducted to compare the P4/E2 ratio at each time point (multiple points across the study) across all 4 study arms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Core body temperature</measure>
+    <time_frame>Core body temperature will be collected at frequent intervals over 11 days in a sleep laboratory. Subjects will be in a time-free environment, and not told the sampling frequency.</time_frame>
+    <description>Core body temperature is measured via rectal thermistor. A linear mixed model analysis will be conducted to compare the core body temperature at each time point (multiple points across the study) across all 4 study arms.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Sleep Deprivation</condition>
+  <arm_group>
+    <arm_group_label>Chronic variable sleep deficiency - follicular phase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This will be the first of four arms of controlled sleep manipulation. Participants randomized to this arm will be studied on a chronic variable sleep deficiency schedule during the follicular phase of their menstrual cycle. The exact sleep schedule is not provided in order to keep participants blinded to sleep conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chronic variable sleep deficiency - luteal phase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This will be the second of four arms of controlled sleep manipulation. Participants randomized to this arm will be studied on a chronic variable sleep deficiency schedule during the luteal phase of their menstrual cycle. The exact sleep schedule is not provided in order to keep participants blinded to sleep conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control sleep - follicular phase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This will be the third of four arms of controlled sleep manipulation. Participants randomized to this arm will be studied on a control sleep schedule during the follicular phase of their menstrual cycle. The exact sleep schedule is not provided in order to keep participants blinded to sleep conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control sleep - luteal phase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This will be the fourth of four arms of controlled sleep manipulation. Participants randomized to this arm will be studied on a control sleep schedule during the luteal phase of their menstrual cycle. The exact sleep schedule is not provided in order to keep participants blinded to sleep conditions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Controlled sleep</intervention_name>
+    <description>Duration and timing of sleep will be assigned and monitored in a controlled laboratory environment.</description>
+    <arm_group_label>Chronic variable sleep deficiency - follicular phase</arm_group_label>
+    <arm_group_label>Chronic variable sleep deficiency - luteal phase</arm_group_label>
+    <arm_group_label>Control sleep - follicular phase</arm_group_label>
+    <arm_group_label>Control sleep - luteal phase</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  18-35 years old&#xD;
+&#xD;
+          -  Regular menstrual cycle between 26-35 days in duration&#xD;
+&#xD;
+          -  Not using any form of hormonal contraception for at least the prior 3 months&#xD;
+&#xD;
+          -  Regular sleep patterns (7-9 hours/night)&#xD;
+&#xD;
+          -  Not taking any medications or supplements&#xD;
+&#xD;
+          -  Weight &gt;110 lb&#xD;
+&#xD;
+          -  BMI between 18.5 and 29.5 kg/m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Primary sleep disorder&#xD;
+&#xD;
+          -  History of shift work&#xD;
+&#xD;
+          -  Transmeridian travel in the previous 3 months&#xD;
+&#xD;
+          -  Presence of acute or chronic disease, including but not limited to: diabetes,&#xD;
+             metabolic disorders, psychiatric illness, reproductive disorders&#xD;
+&#xD;
+          -  Current pregnancy, &lt; 6 months postpartum, and/or breastfeeding&#xD;
+&#xD;
+          -  Blood donation in the past 8 weeks&#xD;
+&#xD;
+          -  Extreme morning or evening chronotype&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Melissa A St. Hilaire, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Melissa A St. Hilaire, PhD</last_name>
+    <phone>6172780620</phone>
+    <email>msthilaire@rics.bwh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa A St Hilaire, Ph.D.</last_name>
+      <phone>617-278-0620</phone>
+      <email>msthilaire@rics.bwh.harvard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>April 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>November 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Melissa A. St. Hilaire, Ph.D</investigator_full_name>
+    <investigator_title>Associate Biostatistician</investigator_title>
+  </responsible_party>
+  <keyword>Sleep Restriction</keyword>
+  <keyword>Women's Health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sleep Deprivation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data that form the basis of a peer-reviewed manuscript will be made available after publication.</ipd_description>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Release of data forming the basis of a peer-reviewed manuscript will be made available after publication. Release will be consistent with Institutional Review Board, journal, and federal requirements.</ipd_time_frame>
+    <ipd_access_criteria>Access may be controlled, e.g., in accordance with the National Institutes of Health.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

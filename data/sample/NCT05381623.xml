@@ -1,0 +1,260 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381623</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22/244-EC_X</org_study_id>
+    <nct_id>NCT05381623</nct_id>
+  </id_info>
+  <brief_title>Harvest of Free Gingival Grafts With or Without the Application of Hemostatic Sutures</brief_title>
+  <official_title>Microvascular Response to the Harvest of Free Gingival Grafts With or Without the Application of Hemostatic Sutures: a Randomized Controlled Clinical Trial Assessing Palatal Blood Flow by Laser Speckle Contrast Imaging</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Complutense de Madrid</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Complutense de Madrid</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, single-center trial with 2 parallel arms and a 1:1 allocation ratio, with the aim&#xD;
+      of comparing clinical and microvascular healing and patients related outcomes, which follow&#xD;
+      the harvest of a free gingival graft, where hemostasis has been achieved with either&#xD;
+      compressive sutures and homeostatic sponges (control) or with a simplified suture-less&#xD;
+      approach (test).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized two parallel arms controlled clinical trial aims to establish the early&#xD;
+      microvascular healing, clinical healing, and patients related outcomes, which follow the&#xD;
+      harvest of a free gingival graft, where hemostasis has been achieved with either compressive&#xD;
+      sutures and homeostatic sponges (control) or with a simplified suture-less approach (test).&#xD;
+      The primary outcome is the microvascular healing of the palate14 days after surgery, assessed&#xD;
+      by measuring the palatal blood flow with a Laser Speckle Contrast Imaging (LSI), expressed in&#xD;
+      Laser Speckle Perfusion Units (LSPU). Secondary outcomes include the palatal blood flow at 3,&#xD;
+      7 and 30 days after surgery, the clinical healing of the palate, the occurrence of&#xD;
+      postoperative bleeding and patients related outcome measures assessed 14 postoperative days.&#xD;
+      A figure of 15 subjects per group was obtained based on an expected difference of 7 LSPU,&#xD;
+      considering a SD of 6.3 SLPU, 80% power, alpha 0.05, and assuming a foreseen drop-out rate of&#xD;
+      10%. Patients will be randomly allocated to two groups: test (simplified suture-less&#xD;
+      approach) and control (compressive sutures and homeostatic sponges). Patients will be the&#xD;
+      unit of analysis and T-student (normal distribution) or U Mann Whitney (non normal&#xD;
+      distribution or non parametric variables) will be performed setting the significance level at&#xD;
+      p &lt; 0.05.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 9, 2022</start_date>
+  <completion_date type="Actual">July 14, 2022</completion_date>
+  <primary_completion_date type="Actual">June 14, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Care Provider)</masking>
+    <masking_description>Allocation to the test or control group will be revealed to the surgeon only after completing the harvest of the free gingival graft.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Palatal microvascular healing</measure>
+    <time_frame>before surgery, 3 days after surgery, 7 days after surgery, 14 days after surgery, 30 days after surgery</time_frame>
+    <description>Changes in the palatal blood flow measured with Laser Speckle Contrast Imaging (LSI), expressed in Laser Speckle Perfusion Units (LSPU)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Postoperative bleeding</measure>
+    <time_frame>14 days after surgery</time_frame>
+    <description>Occurrence of postoperative bleeding during the first two postoperative weeks reported by the patients through a dedicated questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients related outcomes measures (PROMS)</measure>
+    <time_frame>14 days after surgery</time_frame>
+    <description>Patients pain and discomfort with respect to the procedure will be evaluated during the first 2 postoperative weeks with a dedicated questionnaire, utilising VAS scales ranging from 0 (no pain) to 10 (maximum pain).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients consumption of analgesic rescue medication</measure>
+    <time_frame>14 days after surgery</time_frame>
+    <description>Patients will be asked to report the amount of rescue medication (ibuprofen 600mg) that have assumed for pain control every day during the first 2 postoperative weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wound healing index at the donor site</measure>
+    <time_frame>7 days after surgery, 14 days after surgery, 30 days after surgery</time_frame>
+    <description>Healing at the donor site will be evaluated at 7, 14 and 30 days after the surgery with the wound healing index (WHI) (Huang et al. 2005), using the following criteria: score 1 = uneventful healing with no gingival edema, erythema, suppuration, patient discomfort, or flap dehiscence; score 2 = uneventful healing with slight gingival edema, erythema, patient discomfort, or flap dehiscence, but no suppuration; and score 3 = poor wound healing with significant gingival edema, erythema, patient discomfort, flap dehiscence, or any suppuration. Scoring will be performed by two independent investigators (DP &amp; AD) over clinical pictures.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Wound healing VAS at the donor site</measure>
+    <time_frame>7 days after surgery, 14 days after surgery, 30 days after surgery</time_frame>
+    <description>Healing will be assessed with a VAS scale, scoring 0 in case of evident tissue necrosis and 10 in case of uneventful healing with no signs of edema or erythema.&#xD;
+Scoring will be performed by two independent investigators (DP &amp; AD) over clinical pictures.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Thin-gingiva</condition>
+  <condition>Mucogingival Deformity on Edentulous Ridge</condition>
+  <condition>Gingival Recession</condition>
+  <arm_group>
+    <arm_group_label>Simplified suture-less approach</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infiltration of local anesthetic (articaine 4% 1:100.000 epinephrine) around the harvesting site and attendance for the establishment of a competent coagulum.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional approach</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Application of hemostatic sponges over the donor site and placement of tooth-suspended compressive sutures over the area.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Simplified suture-less approach</intervention_name>
+    <description>Immediately after the harvest of a free gingival graft from hard palate, at least a half carpule of local anesthetic (articaine 4% 1:100.000 epinephrine) will be infiltrated within the apical border of the harvesting site and another half apically and distally to the harvesting site, in the region corresponding to the emergence of the great palatine artery. Finger pressure will then be applied over the donor site using a gauze soaked in saline solution, for a couple of minutes. At the end of the mucogingival procedure, the donor site will be evaluated to inquire regarding the presence of a competent coagulum over the wound area. In such a case, no additional procedure will be performed at the recipient site.</description>
+    <arm_group_label>Simplified suture-less approach</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Application of hemostatic sponges and compressive sutures</intervention_name>
+    <description>Immediately after the harvest of a free gingival graft from hard palate, hemostatic collagen sponges will be applied over the harvesting site and a series of tooth suspended external mattress sutures (PGA 5/0) will be applied over the area, in order to provide a compressive effect.</description>
+    <arm_group_label>Conventional approach</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Any adult (≥ 18 year old), male or female patient from the University Complutense of&#xD;
+             Madrid, being able to sign an informed consent form, presenting any mucogingival&#xD;
+             condition requiring the placement of a free gingival graft or a connective tissue&#xD;
+             graft obtained through the extra oral de-epithelialization of a free gingival graft.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients fitting to all the above inclusion criteria will be excluded from the study&#xD;
+             if unable to attend to the study-related procedures (including the follow-up visits)&#xD;
+             or if one or more of the following systemic or local exclusion criteria will be found&#xD;
+             at any time through the study:&#xD;
+&#xD;
+        Systemic primary exclusion criteria:&#xD;
+&#xD;
+          1. Compromised general health status contraindicating the study procedures (≥ASA IV);&#xD;
+&#xD;
+          2. Drug abuse, alcohol abuse, or smoking &gt; 10 cigarettes a day;&#xD;
+&#xD;
+          3. Chronic use of corticosteroids, NSAIDs, or immune-modulators (any type, any dose);&#xD;
+&#xD;
+          4. Use of anti-aggregant or anti-coagulant drugs;&#xD;
+&#xD;
+          5. Pregnant or nursing women;&#xD;
+&#xD;
+          6. Hypersensitivity to ibuprofen.&#xD;
+&#xD;
+        Local primary exclusion criteria:&#xD;
+&#xD;
+          1. History of previous soft tissue surgeries in the area of the harvest;&#xD;
+&#xD;
+          2. Preoperative evidence of a palate thickness &lt; 2mm in the area of interest;&#xD;
+&#xD;
+          3. Intraoperative evidence of active bleeding from the harvesting site at the end of&#xD;
+             surgery, which impedes the stabilisation of a good coagulum over the harvesting area;&#xD;
+&#xD;
+        Secondary exclusion criteria:&#xD;
+&#xD;
+        a. Non compliant patients: poor oral hygiene (FMPS &gt;20%) at 2 consecutive visits.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mariano Sanz Alonso</last_name>
+    <role>Study Chair</role>
+    <affiliation>Faculty of Odontology, University Complutense, Madrid, Spain</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Palombo</last_name>
+    <role>Study Director</role>
+    <affiliation>Faculty of Odontology, University Complutense, Madrid, Spain</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Periodontology, University Complutense Madrid, Spain</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <results_reference>
+    <citation>Dellavia C, Ricci G, Pettinari L, Allievi C, Grizzi F, Gagliano N. Human palatal and tuberosity mucosa as donor sites for ridge augmentation. Int J Periodontics Restorative Dent. 2014 Mar-Apr;34(2):179-86. doi: 10.11607/prd.1929.</citation>
+    <PMID>24600654</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang LH, Neiva RE, Wang HL. Factors affecting the outcomes of coronally advanced flap root coverage procedure. J Periodontol. 2005 Oct;76(10):1729-34. doi: 10.1902/jop.2005.76.10.1729.</citation>
+    <PMID>16253095</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Molnar E, Fazekas R, Lohinai Z, Toth Z, Vag J. Assessment of the test-retest reliability of human gingival blood flow measurements by Laser Speckle Contrast Imaging in a healthy cohort. Microcirculation. 2018 Feb;25(2). doi: 10.1111/micc.12420.</citation>
+    <PMID>28976050</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sanz-Martin I, Rojo E, Maldonado E, Stroppa G, Nart J, Sanz M. Structural and histological differences between connective tissue grafts harvested from the lateral palatal mucosa or from the tuberosity area. Clin Oral Investig. 2019 Feb;23(2):957-964. doi: 10.1007/s00784-018-2516-9. Epub 2018 Jun 18.</citation>
+    <PMID>29915931</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tavelli L, Barootchi S, Ravida A, Oh TJ, Wang HL. What Is the Safety Zone for Palatal Soft Tissue Graft Harvesting Based on the Locations of the Greater Palatine Artery and Foramen? A Systematic Review. J Oral Maxillofac Surg. 2019 Feb;77(2):271.e1-271.e9. doi: 10.1016/j.joms.2018.10.002. Epub 2018 Oct 11.</citation>
+    <PMID>30395825</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tavelli L, Barootchi S, Greenwell H, Wang HL. Is a soft tissue graft harvested from the maxillary tuberosity the approach of choice in an isolated site? J Periodontol. 2019 Aug;90(8):821-825. doi: 10.1002/JPER.18-0615. Epub 2019 Feb 12.</citation>
+    <PMID>30690733</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zucchelli G, Mele M, Stefanini M, Mazzotti C, Marzadori M, Montebugnoli L, de Sanctis M. Patient morbidity and root coverage outcome after subepithelial connective tissue and de-epithelialized grafts: a comparative randomized-controlled clinical trial. J Clin Periodontol. 2010 Aug 1;37(8):728-38. doi: 10.1111/j.1600-051X.2010.01550.x. Epub 2010 Jun 24.</citation>
+    <PMID>20590963</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zucchelli G, Tavelli L, McGuire MK, Rasperini G, Feinberg SE, Wang HL, Giannobile WV. Autogenous soft tissue grafting for periodontal and peri-implant plastic surgical reconstruction. J Periodontol. 2020 Jan;91(1):9-16. doi: 10.1002/JPER.19-0350. Epub 2019 Oct 6.</citation>
+    <PMID>31461778</PMID>
+  </results_reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>November 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Connective tissue graft</keyword>
+  <keyword>Free gingival graft</keyword>
+  <keyword>Mucogingival surgery</keyword>
+  <keyword>Mucogingival conditions</keyword>
+  <keyword>Gingival Recession</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gingival Recession</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hemostatics</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

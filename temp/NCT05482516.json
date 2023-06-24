@@ -1,0 +1,217 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT05482516"
+    ],
+    "org_study_id": [
+        "STUDY00005282"
+    ],
+    "secondary_id": [
+        "ML43975"
+    ],
+    "nct_id": [
+        "NCT05482516"
+    ],
+    "brief_title": [
+        "Evaluating Novel Therapies in ctDNA Positive GI Cancers"
+    ],
+    "acronym": [
+        "MRD-GI"
+    ],
+    "official_title": [
+        "Evaluating Novel Therapies and ctDNA as a Marker in Curatively-Treated Gastrointestinal Cancers With Microscopic Residual Disease"
+    ],
+    "lead_sponsor": [],
+    "collaborator": [],
+    "source": [
+        "Georgetown University"
+    ],
+    "has_dmc": [
+        "Yes"
+    ],
+    "is_fda_regulated_drug": [
+        "Yes"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "is_us_export": [
+        "No"
+    ],
+    "textblock": [
+        "This study is a non-randomized, open-label, multi-cohort, multi-site, pilot feasibility\r\n      therapeutic trial. The study will enroll 20 patients across 4 cohorts (CRC, gastric, PDAC,\r\n      and HCC/intra-hepatic-/extra-hepatic-, gall bladder adenocarcinomas) diagnosed with\r\n      histologically confirmed GI cancers. These patients will have already completed all Standard\r\n      of Care (SOC) treatments (including neoadjuvant, surgery, local therapies, and/or adjuvant\r\n      therapy as applicable), as defined by the treating primary physician or research team, with\r\n      curative intent but have a positive SignateraTM tumor-informed ctDNA test and NED\r\n      radiographically by standard imaging within 28 days prior to enrollment and within 1 year of\r\n      completing all curative-intent therapy. All patients will be treated with intravenous (IV)\r\n      atezolizumab 1200 mg IV and bevacizumab 15 mg/kg on Day 1 of 21-day cycles until disease\r\n      recurrence, ctDNA POD, unacceptable toxicity, or subject withdrawal of consent with a maximum\r\n      12 month total duration of study therapy. Atezolizumab and bevacizumab drug will be provided."
+    ],
+    "overall_status": [
+        "Recruiting"
+    ],
+    "type": [
+        "Anticipated",
+        "Anticipated",
+        "Anticipated",
+        "Anticipated",
+        "Actual",
+        "Actual"
+    ],
+    "start_date": [
+        "March 2023"
+    ],
+    "completion_date": [
+        "December 2028"
+    ],
+    "primary_completion_date": [
+        "December 2026"
+    ],
+    "phase": [
+        "Phase 3"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [],
+    "intervention_model": [
+        "Single Group Assignment"
+    ],
+    "primary_purpose": [
+        "Treatment"
+    ],
+    "masking": [
+        "None (Open Label)"
+    ],
+    "measure": [
+        "Rates of SignateraTM ctDNA positive Patient identification",
+        "Rate of Enrollment",
+        "Rate of ctDNA Complete Response (CR)",
+        "Rate of ctDNA Partial Response (PR)",
+        "Rate of ctDNA Progression of Disease (POD) or Clinical/radiographic Relapse",
+        "Toxicity by CTCAE v5.0 criteria",
+        "Reasons for failure of enrollment"
+    ],
+    "time_frame": [
+        "12 months",
+        "12 months",
+        "12 weeks from start of treatment",
+        "12 weeks from start of treatment",
+        "12 weeks from start of treatment",
+        "12 months",
+        "12 months"
+    ],
+    "description": [
+        "The number of local and regional SignateraTM ctDNA positive patients identified over 12 months in the setting of NED after all SOC definitive therapies (identified patients). This data will be obtained on a local and regional level through the SignateraTM company, Natera.",
+        "Percentage and absolute number of contacted patients who ultimately enrolled on trial (enrolled patients)",
+        "Percentage of patients in each cohort (and collectively) who achieve ctDNA CR (defined as ctDNA clearance on two sequential tests compared to baseline ctDNA and ongoing NED clinically/radiographically) within 12 weeks \u00b1 14 days of study therapy.",
+        "Percentage of patients in each cohort (and collectively) who achieve ctDNA PR (ctDNA does not clear on two sequential tests, ctDNA does not double on each of two consecutive tests, does not increase on each of three consecutive tests, and ongoing NED clinically/radiographically) within 12 weeks \u00b1 14 days of study therapy.",
+        "Rate of ctDNA POD or clinical/radiographic relapse is defined as the percentage of patients in each cohort (and collectively) who experience ctDNA doubling (at least) on each of two consecutive, sequential tests using the prior ctDNA value as the reference point for doubling for each test, ctDNA rise on each of three consecutive ctDNA tests using the prior ctDNA value as the reference point for each test (ctDNA POD), or clinical/radiographic relapse within 12 weeks \u00b1 14 days of study therapy.",
+        "Toxicity and safety analysis will occur in patients who received at least one full or partial dose of study treatment. Adverse events will be graded per NCI CTCAE v.5.0.",
+        "Reasons for failure of enrollment characterized as patient preference, physician preference, or ineligibility, among others of identified and contacted patients will be reported",
+        "atezolizumab 1200 mg and bevacizumab 15 mg/kg given intravenously on Day 1 of each 21-day cycle (every 3 weeks [Q3W]) for a maximum of 12 months.",
+        "Atezolizumab is a monoclonal antibody that belongs to a class of drugs that bind to either the programmed death-receptor 1 (PD-1) or the PD-ligand 1 (PD-L1), blocking the PD-1/PD-L1 pathway,",
+        "Bevacizumab is a tumor-starving (anti-angiogenic) therapy. Avastin is designed to block a protein called vascular endothelial growth factor, or VEGF."
+    ],
+    "number_of_arms": [
+        1.0
+    ],
+    "enrollment": [
+        20.0
+    ],
+    "condition": [
+        "Colon Adenocarcinoma",
+        "Rectal Adenocarcinoma",
+        "Gastric Adenocarcinoma",
+        "Pancreatic Adenocarcinoma",
+        "Hepatocellular Carcinoma",
+        "Adenocarcinoma of Biliary Tract",
+        "Gallbladder Adenocarcinoma"
+    ],
+    "arm_group_label": [
+        "Atezolizumab plus Bevacizumab",
+        "Atezolizumab plus Bevacizumab",
+        "Atezolizumab plus Bevacizumab"
+    ],
+    "arm_group_type": [
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "Atezolizumab",
+        "Bevacizumab"
+    ],
+    "other_name": [
+        "TECENTRIQ",
+        "Avastin"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [],
+    "healthy_volunteers": [
+        "No"
+    ],
+    "last_name": [
+        "John L. Marshall, MD",
+        "Nicole Swanson"
+    ],
+    "role": [
+        "Principal Investigator"
+    ],
+    "affiliation": [
+        "Georgetown University"
+    ],
+    "phone": [
+        12026879194.0
+    ],
+    "email": [
+        "ns1209@georgetown.edu"
+    ],
+    "facility": [],
+    "status": [
+        "Recruiting"
+    ],
+    "contact": [],
+    "investigator": [],
+    "country": [
+        "United States"
+    ],
+    "verification_date": [
+        "February 2023"
+    ],
+    "study_first_submitted": [
+        "July 26, 2022"
+    ],
+    "study_first_submitted_qc": [
+        "July 28, 2022"
+    ],
+    "study_first_posted": [
+        "August 1, 2022"
+    ],
+    "last_update_submitted": [
+        "February 23, 2023"
+    ],
+    "last_update_submitted_qc": [
+        "February 23, 2023"
+    ],
+    "last_update_posted": [
+        "February 24, 2023"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "mesh_term": [
+        "Adenocarcinoma",
+        "Atezolizumab"
+    ]
+}

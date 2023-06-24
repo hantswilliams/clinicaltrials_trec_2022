@@ -1,0 +1,180 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05380336</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RC21_0371</org_study_id>
+    <nct_id>NCT05380336</nct_id>
+  </id_info>
+  <brief_title>Medico-economic Evaluation Comparing the Impact of the New Fixed-dose Nivolumab Regimen With the Old mg/kg Regimen in the Management of Patients With Metastatic Cancer</brief_title>
+  <acronym>IMEPOCA</acronym>
+  <official_title>Medico-economic Evaluation Comparing the Impact of the New Fixed-dose Nivolumab Regimen With the Old mg/kg Regimen in the Management of Patients With Metastatic Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nantes University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nantes University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Nivolumab is a selective monoclonal antibody that binds to the Programmed cell Death 1 (PD-1)&#xD;
+      receptor and causes reduced tumor growth. It is currently approved in France in many&#xD;
+      indications. The firsts therapeutics indications validated by the French health authorities&#xD;
+      from 2015 - metastatic melanoma2, squamous and non-squamous NSCLC, Kidney cells carcinoma -&#xD;
+      were based on clinical trials demonstrating a clinical advantage over standard nivolumab&#xD;
+      treatment at a dose of 3mg/kg every two weeks.&#xD;
+&#xD;
+      By comparing the results predicted by simulation based on a pharmacokinetic model with those&#xD;
+      obtained in clinical trials, the manufacturer of nivolumab concluded that a fixed dose of 240&#xD;
+      mg was equivalent to that calculated based on the weight of the patients, and the European&#xD;
+      and then French health authorities have validated this change in clinical practice The&#xD;
+      objective of the IMEPOCA study is to assess in real life the economic and clinical impact of&#xD;
+      the dose modification of nivolumab that occurred in December 2018 in France.&#xD;
+&#xD;
+      In order to assess the economic efficiency of the change in dose strategy at the national&#xD;
+      level, 2 cohorts of patients from the National Health Data System (SNDS), treated for&#xD;
+      metastatic cancer and followed up over 1 year will be compared: one having benefited from the&#xD;
+      weight-dependent dosage and the other having benefited from the fixed dosage&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2014</start_date>
+  <completion_date type="Actual">December 31, 2021</completion_date>
+  <primary_completion_date type="Actual">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cost-effectiveness analysis of the new nivolumab fixed-dose regimen of 240 mg every 2 weeks or 480 mg every 4 weeks compared to the old regimen of 3 mg/kg every 2 weeks in the management of patients with metastatic cancers.</measure>
+    <time_frame>1 year</time_frame>
+    <description>Incremental cost effectiveness ratio (in cost per year of life alive) according to a collective perspective and a time horizon of one year, according to the type of cancer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of the patients characteristics between the 2015-2017 &quot;de novo&quot; cohort in mg/kg dosage and the 2019-2020 de novo cohort in fixed dosage by type of cancer</measure>
+    <time_frame>baseline</time_frame>
+    <description>Initial characteristics of patients treated with nivolumab (age, sex, average weight, medical history, previous treatments)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of nivolumab length of treatment between the 2015-2017 &quot;de novo&quot; cohort in mg/kg dosage and the 2019-2020 de novo cohort in fixed dosage by type of cancer</measure>
+    <time_frame>1 year</time_frame>
+    <description>treatment time frame, including interruption or suspension periods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of nivolumab treatment dosage between the 2015-2017 &quot;de novo&quot; cohort in mg/kg dosage and the 2019-2020 de novo cohort in fixed dosage by type of cancer</measure>
+    <time_frame>1 year</time_frame>
+    <description>Average dosage of nivolumab per patient hospitalisation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of number of hospitalisations for nivolumab treatment between the 2015-2017 &quot;de novo&quot; cohort in mg/kg dosage and the 2019-2020 de novo cohort in fixed dosage by type of cancer</measure>
+    <time_frame>1 year</time_frame>
+    <description>Average number of hospitalisations for nivolumab treatment, per patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of complications related to nivolumab between the 2015-2017 &quot;de novo&quot; cohort in mg/kg dosage and the 2019-2020 de novo cohort in fixed dosage by type of cancer</measure>
+    <time_frame>1 year</time_frame>
+    <description>number of complications related to nivolumab, identified through the health care consumptions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient survival analysis</measure>
+    <time_frame>6 years</time_frame>
+    <description>patients date of death, by cancer type</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of treatment response</measure>
+    <time_frame>6 years</time_frame>
+    <description>Duration of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Budget impact analysis of the nivolumab fixed-dose regimen of 240 mg every 2 weeks or 480 mg every 4 weeks compared to the old regimen of 3 mg/kg every 2 weeks</measure>
+    <time_frame>7 years (2015-2022)</time_frame>
+    <description>Comparison of the costs of nivolumab fixed-dose regimen of 240 mg every 2 weeks or 480 mg every 4 weeks compared to the old regimen of 3 mg/kg every 2 weeks</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">40000</enrollment>
+  <condition>Metastatic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients with the Nivolumab weight-dependent dosage</arm_group_label>
+    <description>Patients treated for their metastatic cancer with Nivolumab, with a dosage calculated upon their weight (3mg/kg every two weeks).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with the Nivolumab fixed dosage</arm_group_label>
+    <description>Patients treated for their metastatic cancer with Nivolumab, with a fixed-dose regimen of 240 mg every 2 weeks or 480 mg every 4 weeks</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study includes patients with metastatic cancers treated with nivolumab: lung cancer,&#xD;
+        melanoma and kidney cancer.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with metastatic melanoma, non-small cell lung cancer (NSCLC) and renal cell&#xD;
+             carcinoma treated with nivolumab monotherapy&#xD;
+&#xD;
+          -  Patients whose nivolumab treatment was initiated between 2015 and 2020&#xD;
+&#xD;
+          -  Patients with health insurance&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients whose nivolumab treatment initiated in 2017 in mg/kg has progressed to a&#xD;
+             fixed dose in the 1st year of treatment&#xD;
+&#xD;
+          -  Patients treated with nivolumab in the adjuvant setting for melanoma with lymph node&#xD;
+             involvement or metastatic disease and who have undergone complete resection (Approval&#xD;
+             in 2018 for this indication)&#xD;
+&#xD;
+          -  Patients whose nivolumab treatment has been initiated in 2018&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicolas CORMIER, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nantes University Hospital</affiliation>
+  </overall_official>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 5, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2022</study_first_posted>
+  <last_update_submitted>May 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nivolumab</keyword>
+  <keyword>lung</keyword>
+  <keyword>kidney cancer</keyword>
+  <keyword>melanoma</keyword>
+  <keyword>cost-effectiveness</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

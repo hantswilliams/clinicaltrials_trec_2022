@@ -1,0 +1,265 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381090</url>
+  </required_header>
+  <id_info>
+    <org_study_id>288862</org_study_id>
+    <nct_id>NCT05381090</nct_id>
+  </id_info>
+  <brief_title>Circulating Ghrelin as a Biomarker for Dementia</brief_title>
+  <acronym>GDEM3</acronym>
+  <official_title>Circulating Ghrelin as a Biomarker for Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Swansea University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Newcastle University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Swansea University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study will explore whether circulating acyl-ghrelin (AG) and&#xD;
+      unacylated-ghrelin (UAG) are reduced in neurodegenerative disease associated with cognitive&#xD;
+      impairment. It will focus on validating pilot data generated following the analysis of&#xD;
+      Parkinson's disease (PD), Parkinson's disease dementia (PDD) and healthy cohorts (IRAS&#xD;
+      project ID: 250933). In addition to the advantages of study replication we will extend the&#xD;
+      analysis to include two further patient groups that are associated with cognitive&#xD;
+      impairments, namely, Alzheimer's dementia (AD) and dementia with Lewy bodies (DLB). This&#xD;
+      study will increase confidence in the replication of our findings.&#xD;
+&#xD;
+      This will be a cross-sectional study using peripheral venous blood.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2022</start_date>
+  <completion_date type="Anticipated">September 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ghrelin ratio in PD and PDD</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Quantification of circulating ghrelin peptides</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ghrelin ratio in AD and DLB</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Quantification of circulating ghrelin peptides</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Venous blood collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Parkinson's disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venous blood collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Parkinson's disease dementia</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venous blood collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia with Lewy Bodies</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venous blood collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Venous blood collection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Venous blood collection</intervention_name>
+    <description>Participants will undergo venous blood collection following an overnight fast and 5, 60 and 180 minutes following food intake.</description>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <arm_group_label>Dementia with Lewy Bodies</arm_group_label>
+    <arm_group_label>Healthy control</arm_group_label>
+    <arm_group_label>Parkinson's disease</arm_group_label>
+    <arm_group_label>Parkinson's disease dementia</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 60 years&#xD;
+&#xD;
+          -  Subject or carer / legal representative is willing to sign consent document&#xD;
+&#xD;
+        Specific criteria for each group;&#xD;
+&#xD;
+        Parkinson's Disease&#xD;
+&#xD;
+          -  PD diagnosed by a movement disorder specialist and meets the diagnosis of PD&#xD;
+&#xD;
+          -  MoCA &gt; 26/30&#xD;
+&#xD;
+          -  No evidence of cognitive symptoms causing functional impairment&#xD;
+&#xD;
+        Parkinson's Disease Dementia&#xD;
+&#xD;
+          -  PD diagnosed by a movement disorder specialist&#xD;
+&#xD;
+          -  Duration of motor symptoms &gt; 1 year&#xD;
+&#xD;
+          -  Meets MDS task force criteria for PDD&#xD;
+&#xD;
+          -  MoCA &lt; 21/30&#xD;
+&#xD;
+        Dementia with Lewy Bodies&#xD;
+&#xD;
+          -  Meets criteria for probable DLB as defined by the 4th report of the DLB consortium&#xD;
+&#xD;
+        Alzheimer's Disease&#xD;
+&#xD;
+          -  Meets criteria for probable AD dementia (consistent with NIA/AA core clinical criteria&#xD;
+             for probable AD dementia)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt; 60 years&#xD;
+&#xD;
+          -  Current major depression&#xD;
+&#xD;
+          -  Use of anti-psychotic medication&#xD;
+&#xD;
+          -  Type I or Type II diabetes mellitus (DM) (excluding diet-controlled DM)&#xD;
+&#xD;
+          -  Tobacco use&#xD;
+&#xD;
+          -  BMI &lt;15.0 kg/m2&#xD;
+&#xD;
+          -  BMI &gt; 30 kg/m2&#xD;
+&#xD;
+          -  Comorbid gastrointestinal disease i.e. includes Coeliac, active Inflammatory Bowel&#xD;
+             Disease (Colitis), evidence for active gastric ulcers within the last 12 months, but&#xD;
+             excludes gastroesophageal reflux and hiatus hernia.&#xD;
+&#xD;
+          -  &gt;5 kg weight change over the preceding 3 months (determined by researcher from&#xD;
+             previous clinic visit and discussion with partner/carer)&#xD;
+&#xD;
+          -  Significant active comorbidity&#xD;
+&#xD;
+          -  Difficult venous access&#xD;
+&#xD;
+          -  Vagotomy&#xD;
+&#xD;
+        Additional disease specific exclusions;&#xD;
+&#xD;
+          -  Parkinson's Disease exclusion criteria&#xD;
+&#xD;
+          -  Evidence of dementia or mild cognitive impairment&#xD;
+&#xD;
+          -  Deep brain stimulation (DBS)&#xD;
+&#xD;
+          -  Use of Duodopa&#xD;
+&#xD;
+        Parkinson's Disease Dementia exclusion criteria&#xD;
+&#xD;
+          -  Dementia within 12 months of diagnosis of PD&#xD;
+&#xD;
+          -  DBS&#xD;
+&#xD;
+        Dementia with Lewy bodies exclusion criteria&#xD;
+&#xD;
+          -  Onset of motor Parkinsonism symptoms greater than 12 months prior to dementia&#xD;
+             diagnosis&#xD;
+&#xD;
+        Alzheimer's dementia exclusion criteria&#xD;
+&#xD;
+          -  Presence of PD, PDD, DLB, or Frontotemporal Dementia (FTD)&#xD;
+&#xD;
+        Controls exclusion criteria&#xD;
+&#xD;
+          -  Evidence of parkinsonism&#xD;
+&#xD;
+          -  Evidence of dementia or mild cognitive impairment&#xD;
+&#xD;
+          -  MoCA &lt;26/30&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey S Davies, BSc, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Swansea University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paola A Griffiths</last_name>
+    <phone>0179260</phone>
+    <phone_ext>3849</phone_ext>
+    <email>resgov@swansea.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kathie Wareham</last_name>
+    <email>kathie.wareham@wales.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Swansea University</name>
+      <address>
+        <city>Swansea</city>
+        <zip>sa2 8pp</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathie Wareham</last_name>
+      <email>kathie.wareham@wales.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>May 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>September 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

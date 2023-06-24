@@ -1,0 +1,202 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT05381025"
+    ],
+    "org_study_id": [
+        "THT002-PFKV01"
+    ],
+    "nct_id": [
+        "NCT05381025"
+    ],
+    "brief_title": [
+        "Kavalactones on Sleep and Cortisol in Healthy Special Forces Trainees"
+    ],
+    "official_title": [
+        "The Effect of Oral Kavalactones on Sleep and Cortisol in a Cohort of Healthy Adult Males Preparing for Military Special Forces Training"
+    ],
+    "lead_sponsor": [],
+    "collaborator": [],
+    "source": [
+        "Thorne HealthTech, Inc"
+    ],
+    "has_dmc": [
+        "No"
+    ],
+    "is_fda_regulated_drug": [
+        "No"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "textblock": [
+        "This research study is being done to better understand the effects of kava supplementation on\r\n      sleep quality and salivary cortisol in the context of the acute physical and psychological\r\n      stress of military special forces preparation training. Kava is a botanical dietary\r\n      supplement derived from the plant Piper methysticum. Cortisol is a hormone associated with\r\n      stress.",
+        "Acute physical and behavioral stress can interfere with sleep quality and cause cortisol to\r\n      increase. This can have a negative impact on quality of life and the ability to perform\r\n      optimally.\r\n\r\n      Kava, derived from the rootstumps of the Piper methysticum plant, has been utilized\r\n      traditionally, socially, and for its calmative properties by the peoples of Oceania for\r\n      millennia. Kava has been available as a dietary supplement for decades.\r\n\r\n      Participants in this placebo-controlled cross-over study will be enrolled concurrently with a\r\n      special operations prep class during which they will be experiencing significant physical and\r\n      mental stressors. Participants will be divided into two arms - one taking kava and the other\r\n      taking placebo for the first two-week phase of the study. Following a washout and cross-over,\r\n      participants will switch what they are taking for the second two-week phase."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual"
+    ],
+    "start_date": [
+        "May 11, 2022"
+    ],
+    "completion_date": [
+        "October 9, 2022"
+    ],
+    "primary_completion_date": [
+        "July 1, 2022"
+    ],
+    "phase": [],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Randomized"
+    ],
+    "intervention_model": [
+        "Crossover Assignment"
+    ],
+    "intervention_model_description": [
+        "Participants will be divided into two arms which will cross-over during a washout period such that each participant will take the active and the placebo in one phase of the two-phase study."
+    ],
+    "primary_purpose": [
+        "Other"
+    ],
+    "masking": [
+        "Double (Participant, Investigator)"
+    ],
+    "masking_description": [
+        "Participants will be aware of the contents of the active material but will not be informed as to whether they will begin or end the study with the active vs the placebo. Study Managers will also not be aware of what an individual participant is taking during the study."
+    ],
+    "measure": [
+        "Change in Salivary Cortisol - Phase 1",
+        "Change in Salivary Cortisol - Phase 2",
+        "Change in Sleep Latency, Duration, and Quality - Phase 1",
+        "Change in Sleep Latency, Duration, and Quality - Phase 2",
+        "Change in General Mood - Phase 1",
+        "Change in General Mood - Phase 2",
+        "Change in Motivation and Volition - Phase 1",
+        "Change in Motivation and Volition - Phase 2"
+    ],
+    "time_frame": [
+        "Day 1 and 15",
+        "Day 1 and 15",
+        "Day 1, 8, and 15",
+        "Day 1, 8, and 15",
+        "Day 1, 8, and 15",
+        "Day 1, 8, and 15",
+        "Day 1, 8, and 15",
+        "Day 1, 8, and 15"
+    ],
+    "description": [
+        "Diurnal salivary samples will be collected and tested for cortisol levels [ng/ml].",
+        "Diurnal salivary samples will be collected and tested for cortisol levels [ng/ml].",
+        "Data from the Restorative Sleep Questionnaire-Weekly (RSQ-W) [Total score 0-100; higher indicates better restorative sleep] plus other selected sleep questions will be combined to assess participant sleep during the study.",
+        "Data from the Restorative Sleep Questionnaire-Weekly (RSQ-W) [Total score 0-100; higher indicates better restorative sleep] plus other selected sleep questions will be combined to assess participant sleep during the study.",
+        "Data from the Depression, Anxiety, and Stress Scale-21 (DASS-21) [Total score 0-63; higher is more distressed] will be used non-diagnostically to generate comparative scores which will be analyzed against the cortisol findings to assist in the interpretation of the kava-related outcomes.",
+        "Data from the Depression, Anxiety, and Stress Scale-21 (DASS-21) [Total score 0-63; higher is more distressed] will be used non-diagnostically to generate comparative scores which will be analyzed against the cortisol findings to assist in the interpretation of the kava-related outcomes.",
+        "Data from the Cravings for Rest and Volitional Energy Expenditure Scale (CRAVE) [Total score 0-50; higher is more motivated] will be used to assess participant motivation to perform in the context of the strenuous and demanding training schedule of this Prep Class.",
+        "Data from the Cravings for Rest and Volitional Energy Expenditure Scale (CRAVE) [Total score 0-50; higher is more motivated] will be used to assess participant motivation to perform in the context of the strenuous and demanding training schedule of this Prep Class.",
+        "Participants randomly allocated to Cohort 1 for Phase 1 will begin the study taking the active ingredient and will cross-over to taking placebo in Phase 2 of the study after a washout period.",
+        "Participants randomly allocated to Cohort 2 for Phase 1 will begin the study taking the placebo and will cross-over to taking the active ingredient in Phase 2 of the study after a washout period.",
+        "Each dose (3 capsules) contains kavalactones (225 mg) and silicified microcrystalline cellulose."
+    ],
+    "number_of_arms": [
+        2.0
+    ],
+    "enrollment": [
+        15.0
+    ],
+    "condition": [
+        "Sleep"
+    ],
+    "arm_group_label": [
+        "Active to Placebo (Cohort 1)",
+        "Placebo to Active (Cohort 2)",
+        "Placebo to Active (Cohort 2)"
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Dietary Supplement"
+    ],
+    "intervention_name": [
+        "Kava (Piper methysticum) extract"
+    ],
+    "criteria": [],
+    "gender": [
+        "Male"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [],
+    "healthy_volunteers": [
+        "Accepts Healthy Volunteers"
+    ],
+    "last_name": [
+        "Michael A Schmidt, PhD, MPhil"
+    ],
+    "role": [
+        "Principal Investigator"
+    ],
+    "affiliation": [
+        "Advanced Pattern Analysis & Countermeasures Group"
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "verification_date": [
+        "October 2022"
+    ],
+    "study_first_submitted": [
+        "May 9, 2022"
+    ],
+    "study_first_submitted_qc": [
+        "May 14, 2022"
+    ],
+    "study_first_posted": [
+        "May 19, 2022"
+    ],
+    "last_update_submitted": [
+        "October 11, 2022"
+    ],
+    "last_update_submitted_qc": [
+        "October 11, 2022"
+    ],
+    "last_update_posted": [
+        "October 13, 2022"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "Sleep",
+        "Kava",
+        "Piper methysticum",
+        "Stress",
+        "Cortisol",
+        "Special Operations"
+    ],
+    "sharing_ipd": [
+        "No"
+    ]
+}

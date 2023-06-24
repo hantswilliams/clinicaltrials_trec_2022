@@ -1,0 +1,341 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00055575</url>
+  </required_header>
+  <id_info>
+    <org_study_id>030108</org_study_id>
+    <secondary_id>03-M-0108</secondary_id>
+    <nct_id>NCT00055575</nct_id>
+  </id_info>
+  <brief_title>Cholinergic Modulation of Condition and Emotion in Mood Disorders: Functional Neuroimaging Studies</brief_title>
+  <official_title>Cholinergic Modulation of Cognition and Emotion in Mood Disorders: Functional Neuroimaging Studies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at the role of a specific brain chemical system in the mood and attention&#xD;
+      symptoms seen in major depression and bipolar disorders using functional brain imaging.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Objective&#xD;
+&#xD;
+           The goal of this research project is to evaluate the role of the cholinergic system in&#xD;
+           behavioral and cognitive symptoms observed in mood disorders in humans, using functional&#xD;
+           brain neuroimaging techniques. Specific aspects of behavior and cognition are impaired&#xD;
+           in mood disorders, including selective attention, set-shifting and memory; and there is&#xD;
+           also evidence that depressed subjects exhibit a mood congruent processing bias whereby&#xD;
+           they more readily process negatively toned information as compared to positively toned&#xD;
+           information. This cognitive pattern lends itself to evaluation with functional brain&#xD;
+           imaging, both in terms of identifying the anatomical correlates of the specific&#xD;
+           behavioral and cognitive deficits as well as characterizing the effects of&#xD;
+           pharmacological manipulation.&#xD;
+&#xD;
+           Attention and memory functions are closely tied to the cholinergic neurotransmitter&#xD;
+           system. The cholinergic system is one of the neurotransmitter systems implicated in the&#xD;
+           pathophysiology of mood disorders. Evidence suggests that during major depressive&#xD;
+           episodes, the cholinergic system is hypersensitive to acetylcholine. Agents that enhance&#xD;
+           muscarinic cholinergic receptor function increase depressive symptoms in depressed&#xD;
+           subjects, and can produce symptoms of depression in healthy subjects. The preclinical&#xD;
+           literature more specifically implicates the muscarinic receptors and indicates that the&#xD;
+           use of muscarinic antagonists, in the context of animal models of depression, results in&#xD;
+           improvement in the behavioral analogs of depression.&#xD;
+&#xD;
+        2. Study Population&#xD;
+&#xD;
+           The accrual ceiling for this protocol is 388 participants. 143 currently depressed&#xD;
+           patients with major depressive disorder, 100 currently depressed patients with bipolar&#xD;
+           disorder, and 145 healthy controls will participate in this study.&#xD;
+&#xD;
+        3. Design&#xD;
+&#xD;
+           The antimuscarinic agent, scopolamine, will be administered in a double-blind, placebo&#xD;
+           controlled manner across all studies. Clinical ratings, cognitive tasks and neuroimaging&#xD;
+           will be conducted at various timepoints to evaluate the clinical effects of scopolamine&#xD;
+           on depression, to assess the acute mood response to scopolamine; and to study the&#xD;
+           neurobiological correlates of the clinical and behavioral drug effects.&#xD;
+&#xD;
+        4. Outcome Measures&#xD;
+&#xD;
+      The proposed inpatient or outpatient project investigates the role of cholinergic&#xD;
+      neurotransmission in the behavioral and cognitive symptoms observed in the depressed phase of&#xD;
+      both major depressive disorder (MDD) and bipolar disorder (BD). The studies proposed here&#xD;
+      will identify anatomical correlates of the mood congruent processing bias, working memory,&#xD;
+      attention and set-shifting deficits observed in depressed subjects. Further, these studies&#xD;
+      will evaluate the effects of the cholinergic antagonist, scopolamine, both on the performance&#xD;
+      deficits and on neural activity in brain regions recruited as subjects perform these tasks.&#xD;
+&#xD;
+      Dose escalation studies will be conducted to determine if higher doses of scopolamine will&#xD;
+      increase the antidepressant response rate in patients with major depressive disorder. Based&#xD;
+      on earlier work showing the predictive value in baseline neuroimaging data to predict&#xD;
+      treatment outcome, we will stratify participants at baseline into groups based on expected&#xD;
+      response to scopolamine treatment.&#xD;
+&#xD;
+      This approach is expected to reveal how neuromodulators influence processing in brain&#xD;
+      structures recruited to perform these tasks, both in healthy subjects and in major depressive&#xD;
+      disorders. The combined use of functional brain imaging and pharmacological manipulation to&#xD;
+      evaluate the role of neurotransmitter dysfunction in depression may direct us to potential&#xD;
+      therapeutic approaches.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>February 27, 2003</start_date>
+  <completion_date type="Actual">February 2, 2015</completion_date>
+  <primary_completion_date type="Actual">February 2, 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of the antidepressant effects of the antimuscarinic agent scopolamine</measure>
+    <time_frame>5 to 10 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">197</enrollment>
+  <condition>Mood Disorders</condition>
+  <condition>Healthy</condition>
+  <condition>Unipolar Depression</condition>
+  <condition>Bipolar Depression</condition>
+  <arm_group>
+    <arm_group_label>Depressed Patients with Major Depression DIsorder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Depressed Patients with Bipolar Disorder</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Scopolamine Nasal Spray</intervention_name>
+    <arm_group_label>Depressed Patients with Bipolar Disorder</arm_group_label>
+    <arm_group_label>Depressed Patients with Major Depression DIsorder</arm_group_label>
+    <arm_group_label>Healthy Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients with Major Depressive Disorder (MDD):&#xD;
+&#xD;
+          -  Age 18-55&#xD;
+&#xD;
+          -  Current diagnosis of MDD, as defined by DSM-IV criteria for recurrent MDD&#xD;
+&#xD;
+          -  Current depressive episode&#xD;
+&#xD;
+          -  Current IDS score in the moderately-to-severely depressed range&#xD;
+&#xD;
+          -  Right handed&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Patients with Bipolar Disorder (BD):&#xD;
+&#xD;
+          -  Age 18-55&#xD;
+&#xD;
+          -  Current diagnosis of bipolar disorder, as defined by DSM-IV&#xD;
+&#xD;
+          -  Current depressive episode&#xD;
+&#xD;
+          -  Current IDS score in the moderately-to-severely depressed range&#xD;
+&#xD;
+          -  Right handed&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Healthy Controls:&#xD;
+&#xD;
+          -  Age 18-55&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Medically healthy&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients MDD &amp; BD:&#xD;
+&#xD;
+          -  Serious suicidal ideation or behavior (with a current plan or intent), or current&#xD;
+             delusions or hallucinations&#xD;
+&#xD;
+          -  Medical or neurological illnesses likely to affect physiology or anatomy&#xD;
+&#xD;
+          -  History of drug or alcohol abuse within 1 year or a lifetime history of alcohol or&#xD;
+             drug dependence (DSM IV criteria)&#xD;
+&#xD;
+          -  Current or past history of other axis I disorders that preceded the onset of MDD or BD&#xD;
+&#xD;
+          -  Current pregnancy (documented by pregnancy testing within 24 hours prior to pilot&#xD;
+             studies and 24 hours prior to scanning)&#xD;
+&#xD;
+          -  Current breast feeding&#xD;
+&#xD;
+          -  General MRI exclusion criteria (including the presence of pacemakers, cochlear&#xD;
+             implants, surgical clips or metal fragments in their eyes or body parts)&#xD;
+&#xD;
+          -  Vision and/or hearing problems severe enough to interfere with testing&#xD;
+&#xD;
+          -  Electrocardiographic evidence of ischemia, arrhythmia, conduction defect, or&#xD;
+             myocardial infarction&#xD;
+&#xD;
+          -  Current blood pressure of &gt;140 mm Hg or &lt; 90 mm Hg systolic, or &gt; 90 mm Hg diastolic&#xD;
+             (due to the potential cardiovascular effects of scopolamine and physostigmine)&#xD;
+&#xD;
+          -  Clinically significant cerebrovascular or cardiovascular disease, hypertension,&#xD;
+             congestive heart disease, angina pectoris, advanced arteriosclerosis, gross&#xD;
+             neurological impairment, hyperthyroidism, known hypersensitivity or idiosyncrasy to&#xD;
+             anticholinergic agents, glaucoma, renal or hepatic impairment&#xD;
+&#xD;
+          -  Clinical history of glaucoma or narrow angle glaucoma (due to the possibility of&#xD;
+             exacerbation of this condition by scopolamine)&#xD;
+&#xD;
+          -  Age of onset greater than 45 years (to reduce the biological heterogeneity encompassed&#xD;
+             by the MDD and BD criteria, since subjects with a late age-at onset for depression&#xD;
+             have a far greater likelihood of having MRI correlates of cerebrovascular disease than&#xD;
+             age-matched, healthy controls or age-matched, early-onset depressives)&#xD;
+&#xD;
+          -  Exposure within two weeks to medications likely to effect cerebral blood flow and&#xD;
+             metabolism or likely to interact with anti-cholinergic medications (e.g. narcotics or&#xD;
+             anti-cholinergic agents)- as verified by history and urine drug screen&#xD;
+&#xD;
+          -  HIV positive status&#xD;
+&#xD;
+          -  Weight over 275 pounds&#xD;
+&#xD;
+        Healthy Controls:&#xD;
+&#xD;
+          -  Medical or neurological illness&#xD;
+&#xD;
+          -  Current pregnancy (documented by pregnancy testing within 24 hours prior to pilot&#xD;
+             studies and 24 hours prior to scanning)&#xD;
+&#xD;
+          -  Current breast feeding&#xD;
+&#xD;
+          -  General MRI exclusion criteria (including the presence of pacemakers, cochlear&#xD;
+             implants, surgical clips or metal fragments in their eyes or body parts)&#xD;
+&#xD;
+          -  Vision and/or hearing problems severe enough to interfere with testing&#xD;
+&#xD;
+          -  Electrocardiographic evidence of ischemia, arrhythmia, conduction defect, or&#xD;
+             myocardial infarction&#xD;
+&#xD;
+          -  Current blood pressure of &gt;140 mm Hg or &lt; 90 mm Hg systolic, or &gt; 90 mm Hg diastolic&#xD;
+             (due to the potential cardiovascular effects of scopolamine and physostigmine)&#xD;
+&#xD;
+          -  Clinically significant cerebrovascular or cardiovascular disease, hypertension,&#xD;
+             congestive heart disease, angina pectoris, advanced arteriosclerosis, gross&#xD;
+             neurological impairment, hyperthyroidism, known hypersensitivity or idiosyncrasy to&#xD;
+             anticholinergic agents, glaucoma, renal or hepatic impairment&#xD;
+&#xD;
+          -  Clinical history of glaucoma or narrow angle glaucoma (due to the possibility of&#xD;
+             exacerbation of this condition by scopolamine)&#xD;
+&#xD;
+          -  HIV positive status&#xD;
+&#xD;
+          -  Weight over 275 pounds&#xD;
+&#xD;
+        For BD patients being recruited for the scopolamine efficacy trial, they may forgo imaging&#xD;
+        and thus will not be excluded for imaging related exclusion criteria (including general MRI&#xD;
+        exclusion criteria and vision and/or hearing problems).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlos A Zarate, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Mental Health (NIMH)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Elliott R, Rubinsztein JS, Sahakian BJ, Dolan RJ. Selective attention to emotional stimuli in a verbal go/no-go task: an fMRI study. Neuroreport. 2000 Jun 5;11(8):1739-44. doi: 10.1097/00001756-200006050-00028.</citation>
+    <PMID>10852235</PMID>
+  </reference>
+  <reference>
+    <citation>Murphy FC, Sahakian BJ, Rubinsztein JS, Michael A, Rogers RD, Robbins TW, Paykel ES. Emotional bias and inhibitory control processes in mania and depression. Psychol Med. 1999 Nov;29(6):1307-21. doi: 10.1017/s0033291799001233.</citation>
+    <PMID>10616937</PMID>
+  </reference>
+  <reference>
+    <citation>Murray LA, Whitehouse WG, Alloy LB. Mood congruence and depressive deficits in memory: a forced-recall analysis. Memory. 1999 Mar;7(2):175-96. doi: 10.1080/741944068.</citation>
+    <PMID>10645378</PMID>
+  </reference>
+  <verification_date>February 2, 2015</verification_date>
+  <study_first_submitted>March 6, 2003</study_first_submitted>
+  <study_first_submitted_qc>March 5, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 6, 2003</study_first_posted>
+  <disposition_first_submitted>September 3, 2020</disposition_first_submitted>
+  <disposition_first_submitted_qc>March 17, 2021</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">March 22, 2021</disposition_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Scopolamine</keyword>
+  <keyword>Depression</keyword>
+  <keyword>fMRI</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>Emotion</keyword>
+  <keyword>Brain</keyword>
+  <keyword>Bipolar Disorder</keyword>
+  <keyword>Major Depressive Disorder</keyword>
+  <keyword>MDD</keyword>
+  <keyword>Healthy Volunteer</keyword>
+  <keyword>HV</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Mood Disorders</mesh_term>
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Scopolamine</mesh_term>
+    <mesh_term>Butylscopolammonium Bromide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted, but a results disposition has been submitted           -->
+</clinical_study>
+

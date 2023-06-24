@@ -1,0 +1,145 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT00739856"
+    ],
+    "org_study_id": [
+        "GMCPTSD_ECT2005"
+    ],
+    "nct_id": [
+        "NCT00739856"
+    ],
+    "brief_title": [
+        "Use of Electroconvulsive Therapy (ECT) in Chronic, Severe, Treatment Resistant Posttraumatic Stress Disorder"
+    ],
+    "official_title": [
+        "Efficacy of ECT in Chronic, Severe, Antidepressant- And CBT-Refractory Posttraumatic Stress Disorder: An Open, Prospective Study"
+    ],
+    "lead_sponsor": [],
+    "collaborator": [],
+    "source": [
+        "Government Medical College Srinagar"
+    ],
+    "has_dmc": [
+        "No"
+    ],
+    "textblock": [
+        "Post Traumatic Stress Disorder is a chronic debilitating illness and few treatment options\r\n      have demonstrated effectiveness. The study will look at the use of electroconvulsive therapy\r\n      for the treatment of Post Traumatic Stress disorder in patients who have not responded to\r\n      multiple antidepressants or cognitive behavioral therapy."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "start_date": [
+        "January 2005"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Estimate",
+        "Estimate"
+    ],
+    "primary_completion_date": [
+        "December 2005"
+    ],
+    "phase": [],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Non-Randomized"
+    ],
+    "intervention_model": [
+        "Single Group Assignment"
+    ],
+    "primary_purpose": [
+        "Treatment"
+    ],
+    "masking": [
+        "None (Open Label)"
+    ],
+    "measure": [
+        "Clinician-Administered Posttraumatic Stress Disorder Scale (CAPS) SCORE",
+        "Montgomery-Asberg Depression Rating Scale score"
+    ],
+    "time_frame": [
+        "baseline, 48 hrs post 3rd, 6th ECT"
+    ],
+    "enrollment": [
+        20.0
+    ],
+    "condition": [
+        "Posttraumatic Stress Disorder"
+    ],
+    "intervention_type": [
+        "Procedure"
+    ],
+    "intervention_name": [
+        "Electroconvulsive Therapy"
+    ],
+    "description": [
+        "ECT was administered using the MECTA-SR1 apparatus. The current amplitude was 800 mA, pulse width was 1.5 ms, and pulse frequency was 50 Hz. Stimulus duration was increased as required to elicit an adequate seizure, defined as at least 25 s with EEG monitoring. The ECT course was fixed, and comprised 6 treatments administered with bitemporal electrode placement at a twice-weekly frequency"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [
+        "65 Years"
+    ],
+    "healthy_volunteers": [
+        "No"
+    ],
+    "last_name": [
+        "Mushtaq Margoob, MD"
+    ],
+    "role": [
+        "Principal Investigator"
+    ],
+    "affiliation": [
+        "Government Medical College Srinagar"
+    ],
+    "facility": [],
+    "country": [
+        "India"
+    ],
+    "verification_date": [
+        "August 2008"
+    ],
+    "study_first_submitted": [
+        "August 20, 2008"
+    ],
+    "study_first_submitted_qc": [
+        "August 21, 2008"
+    ],
+    "study_first_posted": [
+        "August 22, 2008"
+    ],
+    "last_update_submitted": [
+        "August 21, 2008"
+    ],
+    "last_update_submitted_qc": [
+        "August 21, 2008"
+    ],
+    "last_update_posted": [
+        "August 22, 2008"
+    ],
+    "keyword": [
+        "posttraumatic stress disorder",
+        "electroconvulsive therapy",
+        "medication refractoriness"
+    ],
+    "mesh_term": [
+        "Stress Disorders, Post-Traumatic"
+    ]
+}

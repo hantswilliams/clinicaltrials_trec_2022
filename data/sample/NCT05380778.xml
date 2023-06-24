@@ -1,0 +1,149 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05380778</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TF-KliMa-2005-2</org_study_id>
+    <nct_id>NCT05380778</nct_id>
+  </id_info>
+  <brief_title>Depth of Anesthesia and Proteomics</brief_title>
+  <official_title>BIS Controlled Anesthesia Depth is Associated With Different Protein and Peptide Expression in the Cerebrospinal Fluid</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Heidelberg University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Heidelberg University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the study is to compare cellular activity of T-cells, NK-cells and&#xD;
+      monocytes after anesthesia. Phagocytosis and cellular lysis activity of neutrophils and&#xD;
+      monocytes are analyzed by flow cytometry. Secondly, we analyze anesthesia induced protein&#xD;
+      expresssion pattern in the blood. The proteome of monocytes is identified by&#xD;
+      3D-gel-chromatography and mass spectrometry (MALDI-TOF).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients undergoing shoulder surgery in the orthopedic center are screened and consented to&#xD;
+      the randomized controlled, blinded study. Patients, surgeons, and the study personell&#xD;
+      involved in data interpretation and management are blinded towards the randomly assigned&#xD;
+      computerized group allocation (SAS, Cary, NC). The study director informs the anesthesiology&#xD;
+      staff about the group allocation. Patients are randomized to deep vs. light general&#xD;
+      anesthesia guided using a bispectral index monitor (BIS Vista, Aspect) with BIS &lt; 45 in group&#xD;
+      1 (deep anesthesia) or BIS ≥ 55 in group 2 (light anesthesia). Anesthesia depth is recorded&#xD;
+      via USB port every minute.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2009</start_date>
+  <completion_date type="Actual">October 23, 2016</completion_date>
+  <primary_completion_date type="Actual">July 15, 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proteome: depression of immune stimulative proteins</measure>
+    <time_frame>70-90 min</time_frame>
+    <description>Primary Outcome Measure:&#xD;
+1.Depression of immune stimulating proteins in the proteom of maccrophages in in the 3-D- Gel electrophoresis as given in a percentage from before anesthesia before and following anesthesia period over 60 min</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proteome: overexpression of immune depressive proteins</measure>
+    <time_frame>70-90 min</time_frame>
+    <description>Primary Outcome Measure:&#xD;
+2.Overexpression of immune depressing proteins in the protein of maccrophages in in the 3-D- Gel electrophoresis as given in a percentage from before anesthesia before and following anesthesia period over 60 min</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">18</enrollment>
+  <condition>Anesthesia Complication</condition>
+  <condition>Immune Suppression</condition>
+  <arm_group>
+    <arm_group_label>Shallow Anesthesia</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental: Shallow Anesthesia Standard anesthesia with fentanyl, propofol for shoulder surgery together with an interscalene plexus block was performed. The anesthesiologist only was informed about the group allocation by the study director and tried to control best for maintenance on target anesthesia level BIS ≥ 55 (group 2, shallow anesthesia). Anesthesia depth as measured by BIS monitors (BIS Vista, Aspect) for every minute and the minutes above a BIS level of 45 were counted.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Deep Anesthesia</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental: Deep Anesthesia Standard anesthesia with fentanyl, propofol for shoulder surgery together with an interscalene plexus block was performed. The anesthesiologist only was informed about the group allocation by the study director and tried to control best for maintenance on target anesthesia level BIS &lt; 45 (group 1, deep anesthesia). Anesthesia depth as measured by BIS monitors (BIS Vista, Aspect) for every minute and the minutes below a BIS level of 45 were counted.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Deep anesthesia</intervention_name>
+    <description>Drug: High dose propofol, fentanyl and sevoflurane Deep Anesthesia&#xD;
+Other Names:&#xD;
+BIS lower than or equal to 45</description>
+    <arm_group_label>Deep Anesthesia</arm_group_label>
+    <other_name>Profound anesthesia</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Shallow anesthesia</intervention_name>
+    <description>Drug: Low dose propofol, fentanyl and sevoflurane Shallow Anesthesia&#xD;
+Other Names:&#xD;
+BIS above 45</description>
+    <arm_group_label>Shallow Anesthesia</arm_group_label>
+    <other_name>Light anesthesia</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        enrolment for longer shoulder surgery consent for the standard anesthesia form in&#xD;
+        combination with the interscalene plexus block ASA Status 1-3&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        sedative premedication severe immune deficiency (diabetes, steroid or antihistamine&#xD;
+        medication, cancer, chemotherapy, status post transplantation, drug and alcohol abuse),&#xD;
+        recent surgery (1 month) or blood transfusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Frietsch</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Heidelberg, Faculty Mannheim</affiliation>
+  </overall_official>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>May 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Heidelberg University</investigator_affiliation>
+    <investigator_full_name>Thomas Frietsch</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anesthetics</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

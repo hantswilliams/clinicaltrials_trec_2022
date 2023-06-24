@@ -1,0 +1,188 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT05381142",
+        "https://clinicaltrials.bayer.com/"
+    ],
+    "org_study_id": [
+        21756.0
+    ],
+    "nct_id": [
+        "NCT05381142"
+    ],
+    "brief_title": [
+        "A Study to Learn More About How the Study Treatment Elinzanetant (or BAY3427080) Moves Into, Through and Out of the Body, How Safe it is and How it Affects the Body After Taking Single and Multiple Doses in Healthy Women Aged 40 to 65 Years"
+    ],
+    "official_title": [
+        "A Randomized, Single-blind, Placebo-controlled Study to Investigate the Pharmacokinetics, Safety and Tolerability of Single and Multiple Doses of Elinzanetant in Chinese Healthy Female Participants 40 to 65 Years of Age"
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "Bayer"
+    ],
+    "has_dmc": [
+        "No"
+    ],
+    "is_fda_regulated_drug": [
+        "No"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "textblock": [
+        "Researchers are looking for a better way to treat men and women with vasomotor symptoms, a\r\n      condition of having hot flashes caused by hormonal changes.\r\n\r\n      In women, these hormonal changes happen in the time around their menopause, the last period\r\n      (menstrual cycle) a woman has. After the menopause, the ovaries produce less and less sex\r\n      hormones as a result of the natural ageing process and related hormonal adaptations. The\r\n      decrease in hormones produced can lead to various symptoms that may be troublesome. Vasomotor\r\n      symptoms are also seen in men.\r\n\r\n      The study treatment, elinzanetant, is under development to treat symptoms caused by hormonal\r\n      changes. It works by blocking a substance called neurokinin, which is thought to play a role\r\n      in starting hot flashes.\r\n\r\n      Previous studies have been done. This study will provide information on how to use\r\n      elinzanetant in Chinese people.\r\n\r\n      The main purpose of this study is to learn how much of the study treatment elinzanetant gets\r\n      into the participants' blood when a single dose is taken in healthy Chinese women.\r\n\r\n      To answer this question, the researchers will measure:\r\n\r\n        -  The (average) total level of elinzanetant in the blood (also called AUC)\r\n\r\n        -  The (average) highest level of elinzanetant in the blood (also called Cmax) The\r\n           researchers also want to learn how much elinzanetant gets into the blood when taken for\r\n           6 days in a row.\r\n\r\n      Dependent on the treatment group, the participants will either take elinzanetant or placebo.\r\n      First, a single dose of two capsules is taken by mouth and later multiple doses once a day\r\n      for another 6 days in a row are taken.\r\n\r\n      Each participant will be in the study for approximately 22 days including 7 treatment days in\r\n      total. Participants will stay in-house for 16 days. In addition, one visit to the study site\r\n      prior start and four visits after the in-house period are planned.\r\n\r\n      During the study, the study team will:\r\n\r\n        -  Do physical examinations\r\n\r\n        -  Take blood and urine samples\r\n\r\n        -  Check vital signs\r\n\r\n        -  Examine the participants' heart health using electrocardiogram (ECG)\r\n\r\n        -  Ask the participants questions about how they are feeling and what adverse events they\r\n           are having.\r\n\r\n      An adverse event is any medical problem that a participant has during a study. Doctors keep\r\n      track of all adverse events that happen in studies, even if they do not think the adverse\r\n      events might be related to the study treatments."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual"
+    ],
+    "start_date": [
+        "May 23, 2022"
+    ],
+    "completion_date": [
+        "July 11, 2022"
+    ],
+    "primary_completion_date": [
+        "July 11, 2022"
+    ],
+    "phase": [
+        "Phase 1"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Randomized"
+    ],
+    "intervention_model": [
+        "Parallel Assignment"
+    ],
+    "primary_purpose": [
+        "Basic Science"
+    ],
+    "masking": [
+        "Single (Participant)"
+    ],
+    "masking_description": [
+        "The study will be performed with a participant-blinded design."
+    ],
+    "measure": [
+        "Cmax: maximum observed drug concentration in measured matrix after single dose administration",
+        "AUC: area under the concentration vs. time curve from zero to infinity after single dose",
+        "Cmax,md: maximum observed drug concentration in measured matrix after multiple dose administration",
+        "AUC(0-24)md: AUC from time 0 to 24 hours for multiple dosing",
+        "Number of participants with and severity of treatment-emergent adverse events (TEAEs)"
+    ],
+    "time_frame": [
+        "From pre-dose up to 168 hours after first dosing",
+        "From pre-dose up to 168 hours after first dosing",
+        "From pre-dose up to 180 hours after last dosing",
+        "From pre-dose up to 180 hours after last dosing",
+        "From first dose of study intervention until follow-up visit on day 21"
+    ],
+    "description": [
+        "AUC(0-tlast) will be used as the main parameter if AUC cannot be reliably determined",
+        "Healthy female participants who meet all of the inclusion criteria and do not meet any of the exclusion criteria will be randomized to treatment with elinzanetant.",
+        "Healthy female participants who meet all of the inclusion criteria and do not meet any of the exclusion criteria will be randomized and assigned to treatment with placebo.",
+        "Elinzanetant will be administered as a single dose on Study Day 1 and a multiple dose once daily for another 6 consecutive days on Study Day 8 to Study Day 13.",
+        "Matching placebo will be administered the same as Elinzanetant (BAY3427080)",
+        "Click here to find information for studies related to Bayer products. To find this study enter the NCT number or Bayer Study ID in the search field."
+    ],
+    "number_of_arms": [
+        2.0
+    ],
+    "enrollment": [
+        16.0
+    ],
+    "condition": [
+        "Vasomotor Symptoms as a Sex Hormone-dependent Disorder in Women and Men",
+        "Hot Flashes",
+        "Healthy Volunteers"
+    ],
+    "arm_group_label": [
+        "Elinzanetant (BAY3427080)",
+        "Placebo",
+        "Elinzanetant (BAY3427080)",
+        "Placebo"
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Placebo Comparator"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "Elinzanetant (BAY3427080)",
+        "Placebo"
+    ],
+    "other_name": [
+        "NT-814"
+    ],
+    "criteria": [],
+    "gender": [
+        "Female"
+    ],
+    "minimum_age": [
+        "40 Years"
+    ],
+    "maximum_age": [
+        "65 Years"
+    ],
+    "healthy_volunteers": [
+        "Accepts Healthy Volunteers"
+    ],
+    "facility": [],
+    "country": [
+        "China"
+    ],
+    "verification_date": [
+        "July 2022"
+    ],
+    "study_first_submitted": [
+        "April 29, 2022"
+    ],
+    "study_first_submitted_qc": [
+        "May 16, 2022"
+    ],
+    "study_first_posted": [
+        "May 19, 2022"
+    ],
+    "last_update_submitted": [
+        "July 25, 2022"
+    ],
+    "last_update_submitted_qc": [
+        "July 25, 2022"
+    ],
+    "last_update_posted": [
+        "July 27, 2022"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "mesh_term": [
+        "Hot Flashes"
+    ],
+    "sharing_ipd": [
+        "No"
+    ],
+    "ipd_description": [
+        "Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA \"Principles for responsible clinical trial data sharing\". This pertains to scope, timepoint and process of data access. As such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014. Interested researchers can use www.clinicalstudydatarequest.com to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the Study sponsors section of the portal."
+    ]
+}

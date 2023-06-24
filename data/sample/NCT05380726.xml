@@ -1,0 +1,333 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05380726</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Moore4Medical</org_study_id>
+    <nct_id>NCT05380726</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of an E-health Intervention in Patients With Obstructive Sleep Apnoea</brief_title>
+  <official_title>Effectiveness of an E-health Intervention on Blood Pressure, Sleep Quality and Physical Activity in Patients With Obstructive Sleep Apnoea: A Sequential Exploratory Mixed-method Research Protocol With a Realist Evaluation Approach</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitat de Lleida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut de Recerca Biomèdica de Lleida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Horizon 2020 - European Commission</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universitat de Lleida</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Obstructive sleep apnoea is a highly burdensome condition that not only impairs function but&#xD;
+      also confers a risk of cardiovascular disease. This is particularly evident among those who&#xD;
+      are poorly compliant with continuous positive airway pressure ventilation therapy. In the&#xD;
+      management of a chronic and frequent pathology such as OSA, it is necessary to have&#xD;
+      personalized programs that implement new technology-based tools to improve the comprehensive&#xD;
+      management of the patient in order to reduce the morbidity associated with this disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objectives: The purpose of this study is to evaluate the effectiveness of eHealth tools in&#xD;
+      managing obstructive sleep apnoea pathophysiological consequences and how they impact the&#xD;
+      quality of life after 3 months of intervention in adults.Qual: To identify OSA patients'&#xD;
+      beliefs concerning their condition and its treatment. Connection: To construct the&#xD;
+      information resources that the mobile application will offer using the QUAL results. Quan:&#xD;
+      Objective sleep parameters, Subjective sleep quality , Daytime sleepiness Physical activity&#xD;
+      habits, Quality of life related to health, Self-efficacy and empowerment, Anthropometry,&#xD;
+      Adherence to the program/treatment, Cost / benefit.&#xD;
+&#xD;
+      Design: Mixed-method sequential exploratory design with realist evaluation approach.&#xD;
+&#xD;
+      Population and sample: Patients referred to the sleep unit of the Arnau de Vilanova - Santa&#xD;
+      María Hospital for a suspected diagnosis of obstructive sleep apnoea. For the qualitative&#xD;
+      phase, the subjects will be contacted and invited to participate in a semi-structured&#xD;
+      personal interview related to the gaps and knowledge needs that these types of patients have&#xD;
+      about the pathology itself and its management. The quantitative phase will be a randomized&#xD;
+      controlled trial. Subjects will be randomly assigned using a simple random technique. The&#xD;
+      experimental group will receive an eHealth intervention through an electronic wristband&#xD;
+      device and access to the eHealth tool (phone application) that will offer specific&#xD;
+      recommendations on health, physical activity and hygienic-dietary advice. All these&#xD;
+      recommendations will be based on the information obtained in the qualitative phase and the&#xD;
+      parameters mesured by the electronic wristband device in real time. Those in the control&#xD;
+      group will receive the same electronic wristband device and the same access to the ehealth&#xD;
+      tool, but the information received will be based on the general hygienic-dietary measures&#xD;
+      that the sleep unit provides to all patients.&#xD;
+&#xD;
+      This research belongs to Moore4Medical project. It has received funding within the Electronic&#xD;
+      Components and Systems for European Leadership Joint Undertaking (ECSEL JU) in collaboration&#xD;
+      with the European Union's H2020 Framework Programme (H2020/2014-2020) and National&#xD;
+      Authorities, under grant agreement H2020-ECSEL-2019-IA-876190.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2023</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>We will carry out a mixed-method exploratory sequential investigation with a realistic evaluation approach. The use of this mixed methodology allows us to use the strengths of the qualitative and quantitative phases while reducing their weaknesses. Specifically, the sequential exploratory design includes an initial qualitative phase followed by a quantitative phase, with the aim of developing an educational tool. In this project it is proposed that both phases should have the same relevance (QUAL-QUAN) for the development of the educational tool and the development of the study should be carried out in three stages. During all phases of the project, the realistic evaluation approach will be taken into account, especially after the intervention, carrying out different semi-structured interviews and focus groups to redefine the cycle and optimize future research.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>The study will be triple-blind since, due to its nature (intervention using an eHealth tool), it will be possible to blind both the participants, researchers and statisticians. All the subjects (experimental and control) will receive the same electronic wrist device and eHealth tool. While experimental group receive specific information related to the parameters assessed in real time by the wrist device, the control group will receive general information about obstructive sleep apnoea.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>Blood pressure: Blood pressure changes after 3 months of intervention, measured with a holter blood pressure recorder (Spacelabs 90217A, Hertford: UK).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Polysomnography</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>This will be performed in Arnau de Vilanova - Santa María Hospital in which the subject will have different functions recorded while attempting to sleep at specific times. Breathing movements, snoring, oxygen saturation levels, leg movements, and AHI will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective sleep quality</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>The SATED questionnaire is an easy-to-use tool that is designed to measure sleep quality, providing a broader perspective than just hours of sleep, such as aspects related to satisfaction, daytime alertness, schedule, and sleep efficiency. In addition, the SATED questionnaire is more accurate in predicting self-perceived health status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daytime sleepiness assessment</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>Subjective sleepiness will be assessed using the &quot;Epworth Sleepiness Scale (ESS)&quot; validated in Spanish. This is a questionnaire that contains eight items that indicate the probability of falling asleep during activities of daily living, ranging from 0 (never) to 3 (high probability). Normal values will be established between 2 and 10, with values greater than 10 indicating daytime sleepiness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>International Physical Activity Questionnaire (IPAQ) long form</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>Self-administered questionnaire that allows analyzing the levels of physical activity related to health in adults between 18 and 65 years of age. The long version consists of 27 questions that will collect information about the physical activity that was carried out during the last 7 days in home maintenance, gardening, occupational, transportation, leisure and sedentary activities. Three characteristics of physical activity will be evaluated: intensity (mild, moderate or vigorous), frequency (days per week) and duration (time per day). To obtain the data, an associated program will be used to extract them and analyze</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Empowerment and motivation for change</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>The Spanish version of the Health Empowerment Scale will be used to measure empowerment, while motivation will be measured using the Self-Efficacy Scale for Physical Activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related quality of life</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>This will be assessed using the EuroQol-5D (EQ-5D) questionnaire in its valid Spanish version</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry measurement 1</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>Body mass index (BMI) (kg / m 2). In order to calculate BMI, Weight (kg) and height (m) will be measured using a scale and a standard stadiometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anthropometry measurements 2</measure>
+    <time_frame>Pre-post (after 3 months of intervention)</time_frame>
+    <description>Waist-to-hip ratio. The waist, and hip circumferences, measured in triplicate and averaged, will be taken into consideration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to the program/treatment</measure>
+    <time_frame>Post intervention (after 3 months)</time_frame>
+    <description>Scale of adherence and number of entries to the telephone application.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost-benefit</measure>
+    <time_frame>Post intervention (after 3 months)</time_frame>
+    <description>Comparison through the final costs of the current project and the studied costs of conservative treatment according to the research by Tarraubella et al. (2018)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">260</enrollment>
+  <condition>Obstructive Sleep Apnea</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A pilot study will be conducted for 2 months with a sample of 10 participants, in order to gather initial data to test the algorithm from the eHealth tool. During the QUAN phase the algorithm will provide individualized feedback and responses to the patients based on their different variables analyzed in real-time by the wrist receiver device: cardiovascular parameters, sleep quality and structure of sleep, physical activity, oxygen saturation.&#xD;
+The eHealth tool will contain all the educational materials developed by the researchers of the study. Depending on the information received from the electronic wrist device the eHealth tool will make recommendations of educational topics as hygienic-dietary measures, sleep related habits, or physical activity. The information provided in this regard will be dependent upon the subjects' knowledge gaps/beliefs identified in the QUAL phase and the parameters measures by the electronic wrist device in each subject.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In the control group, the participants will be provided with the same electronic wrist device and access to the eHeatlh tool as the experimental group. However, the electronic wrist device will not provide feedback based on the parameters of each individual. The information provided by the eHealth tool will be general information from the sleep unit of the Arnau de Vilanova - Santa María Hospital instead of the materials developed from the QUAL phase.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Patient education</intervention_name>
+    <description>The intervention received will be a specific patient education for each subject depending on the parameters assessed by the electronic wrist device in real-time. The recommendation are related to different educational topics as hygienic-dietary measures and sleep related habits, or physical activity.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Experimental group</arm_group_label>
+    <other_name>hygienic-dietary measures</other_name>
+    <other_name>sleep related habits</other_name>
+    <other_name>physical activity</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Moderate OSA (apnoea-hypoapnoea index (AHI)) of 15-30&#xD;
+&#xD;
+          -  Hypertension diagnosed by 24h-ABPM&#xD;
+&#xD;
+          -  Men and women aged ≥ 18 years&#xD;
+&#xD;
+          -  Spanish and/or Catalan can be read, written, and spoken&#xD;
+&#xD;
+          -  Currently residing in Lleida (Spain)&#xD;
+&#xD;
+          -  Own or have access to mobile phone (Android and IOS)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous diagnosis of OSA / use of CPAP&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Body mass index (BMI) below 17&#xD;
+&#xD;
+          -  Subjects undergoing bariatric intervention or on the waiting list for it&#xD;
+&#xD;
+          -  Not being able to fill out questionnaires&#xD;
+&#xD;
+          -  Incapacity to handle technology&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fran Valenzuela-Pascual, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Biomedical Research Institute of Lleida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Oriol o Martínez-Navarro</last_name>
+    <phone>619562618</phone>
+    <phone_ext>+34</phone_ext>
+    <email>omartinez@irblleida.cat</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fran Valenzuela-Pascual</last_name>
+    <email>fran.valenzuela@udl.cat</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Biomedical Research Institure of Lleida</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Oriol Martínez-Navarro</last_name>
+      <phone>619562618</phone>
+      <phone_ext>+34</phone_ext>
+      <email>omartinez@irblleida.cat</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fran Valenzuela-Pascual</last_name>
+      <email>fran.valenzuela@udl.cat</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fran Valenzuela-Pascual, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Manuel Sánchez de la Torre, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Esther Rubinat Arnaldo, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joan Blanco Blanco, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>María Masbernat-Almenara, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francesc Rubí Carnacea, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Blanca Manuel Martí</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rabee Adel</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Xisco Verdejo Amengual</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Oriol Martínez-Navarro</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ferran Barbé Illa, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gerard Torres Cortada, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jordi de Batlle Garcia, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jessica Gonzalez Gutierrez</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>May 2023</verification_date>
+  <study_first_submitted>January 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>May 5, 2023</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 6, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universitat de Lleida</investigator_affiliation>
+    <investigator_full_name>Francesc Valenzuela Pascual</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>obstructive sleep apnoea</keyword>
+  <keyword>eHealth tools</keyword>
+  <keyword>patient education</keyword>
+  <keyword>blood pressure</keyword>
+  <keyword>therapeutic exercise</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Apnea</mesh_term>
+    <mesh_term>Sleep Apnea Syndromes</mesh_term>
+    <mesh_term>Sleep Apnea, Obstructive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

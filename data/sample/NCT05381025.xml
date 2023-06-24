@@ -1,0 +1,210 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>THT002-PFKV01</org_study_id>
+    <nct_id>NCT05381025</nct_id>
+  </id_info>
+  <brief_title>Kavalactones on Sleep and Cortisol in Healthy Special Forces Trainees</brief_title>
+  <official_title>The Effect of Oral Kavalactones on Sleep and Cortisol in a Cohort of Healthy Adult Males Preparing for Military Special Forces Training</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thorne HealthTech, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Performance First</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Thorne HealthTech, Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study is being done to better understand the effects of kava supplementation on&#xD;
+      sleep quality and salivary cortisol in the context of the acute physical and psychological&#xD;
+      stress of military special forces preparation training. Kava is a botanical dietary&#xD;
+      supplement derived from the plant Piper methysticum. Cortisol is a hormone associated with&#xD;
+      stress.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute physical and behavioral stress can interfere with sleep quality and cause cortisol to&#xD;
+      increase. This can have a negative impact on quality of life and the ability to perform&#xD;
+      optimally.&#xD;
+&#xD;
+      Kava, derived from the rootstumps of the Piper methysticum plant, has been utilized&#xD;
+      traditionally, socially, and for its calmative properties by the peoples of Oceania for&#xD;
+      millennia. Kava has been available as a dietary supplement for decades.&#xD;
+&#xD;
+      Participants in this placebo-controlled cross-over study will be enrolled concurrently with a&#xD;
+      special operations prep class during which they will be experiencing significant physical and&#xD;
+      mental stressors. Participants will be divided into two arms - one taking kava and the other&#xD;
+      taking placebo for the first two-week phase of the study. Following a washout and cross-over,&#xD;
+      participants will switch what they are taking for the second two-week phase.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 11, 2022</start_date>
+  <completion_date type="Actual">October 9, 2022</completion_date>
+  <primary_completion_date type="Actual">July 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Participants will be divided into two arms which will cross-over during a washout period such that each participant will take the active and the placebo in one phase of the two-phase study.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Participants will be aware of the contents of the active material but will not be informed as to whether they will begin or end the study with the active vs the placebo. Study Managers will also not be aware of what an individual participant is taking during the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Salivary Cortisol - Phase 1</measure>
+    <time_frame>Day 1 and 15</time_frame>
+    <description>Diurnal salivary samples will be collected and tested for cortisol levels [ng/ml].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Salivary Cortisol - Phase 2</measure>
+    <time_frame>Day 1 and 15</time_frame>
+    <description>Diurnal salivary samples will be collected and tested for cortisol levels [ng/ml].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Sleep Latency, Duration, and Quality - Phase 1</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Restorative Sleep Questionnaire-Weekly (RSQ-W) [Total score 0-100; higher indicates better restorative sleep] plus other selected sleep questions will be combined to assess participant sleep during the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Sleep Latency, Duration, and Quality - Phase 2</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Restorative Sleep Questionnaire-Weekly (RSQ-W) [Total score 0-100; higher indicates better restorative sleep] plus other selected sleep questions will be combined to assess participant sleep during the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in General Mood - Phase 1</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Depression, Anxiety, and Stress Scale-21 (DASS-21) [Total score 0-63; higher is more distressed] will be used non-diagnostically to generate comparative scores which will be analyzed against the cortisol findings to assist in the interpretation of the kava-related outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in General Mood - Phase 2</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Depression, Anxiety, and Stress Scale-21 (DASS-21) [Total score 0-63; higher is more distressed] will be used non-diagnostically to generate comparative scores which will be analyzed against the cortisol findings to assist in the interpretation of the kava-related outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Motivation and Volition - Phase 1</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Cravings for Rest and Volitional Energy Expenditure Scale (CRAVE) [Total score 0-50; higher is more motivated] will be used to assess participant motivation to perform in the context of the strenuous and demanding training schedule of this Prep Class.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Motivation and Volition - Phase 2</measure>
+    <time_frame>Day 1, 8, and 15</time_frame>
+    <description>Data from the Cravings for Rest and Volitional Energy Expenditure Scale (CRAVE) [Total score 0-50; higher is more motivated] will be used to assess participant motivation to perform in the context of the strenuous and demanding training schedule of this Prep Class.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Sleep</condition>
+  <arm_group>
+    <arm_group_label>Active to Placebo (Cohort 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomly allocated to Cohort 1 for Phase 1 will begin the study taking the active ingredient and will cross-over to taking placebo in Phase 2 of the study after a washout period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo to Active (Cohort 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomly allocated to Cohort 2 for Phase 1 will begin the study taking the placebo and will cross-over to taking the active ingredient in Phase 2 of the study after a washout period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Kava (Piper methysticum) extract</intervention_name>
+    <description>Each dose (3 capsules) contains kavalactones (225 mg) and silicified microcrystalline cellulose.</description>
+    <arm_group_label>Active to Placebo (Cohort 1)</arm_group_label>
+    <arm_group_label>Placebo to Active (Cohort 2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 or older&#xD;
+&#xD;
+          -  Provides consent to participate in the study&#xD;
+&#xD;
+          -  Understands and agrees to follow all study procedures and limitations&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Use of kava within the past 8 weeks&#xD;
+&#xD;
+          -  Use of over the counter or prescription sleep aids including dietary supplements&#xD;
+             within the past 8 weeks&#xD;
+&#xD;
+          -  Use of acetaminophen that cannot be discontinued or replaced with an NSAID during the&#xD;
+             study&#xD;
+&#xD;
+          -  Known liver disease or dysfunction&#xD;
+&#xD;
+          -  Known kidney disease or dysfunction&#xD;
+&#xD;
+          -  Any prior adverse reaction or known sensitivity or allergy to kava or related&#xD;
+             botanicals (peppers)&#xD;
+&#xD;
+          -  Recent history of clinical depression or anxiety diagnosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael A Schmidt, PhD, MPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Advanced Pattern Analysis &amp; Countermeasures Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Performance First</name>
+      <address>
+        <city>Virginia Beach</city>
+        <state>Virginia</state>
+        <zip>23453</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>May 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>October 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sleep</keyword>
+  <keyword>Kava</keyword>
+  <keyword>Piper methysticum</keyword>
+  <keyword>Stress</keyword>
+  <keyword>Cortisol</keyword>
+  <keyword>Special Operations</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

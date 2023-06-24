@@ -1,0 +1,243 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381142</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21756</org_study_id>
+    <nct_id>NCT05381142</nct_id>
+  </id_info>
+  <brief_title>A Study to Learn More About How the Study Treatment Elinzanetant (or BAY3427080) Moves Into, Through and Out of the Body, How Safe it is and How it Affects the Body After Taking Single and Multiple Doses in Healthy Women Aged 40 to 65 Years</brief_title>
+  <official_title>A Randomized, Single-blind, Placebo-controlled Study to Investigate the Pharmacokinetics, Safety and Tolerability of Single and Multiple Doses of Elinzanetant in Chinese Healthy Female Participants 40 to 65 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bayer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Researchers are looking for a better way to treat men and women with vasomotor symptoms, a&#xD;
+      condition of having hot flashes caused by hormonal changes.&#xD;
+&#xD;
+      In women, these hormonal changes happen in the time around their menopause, the last period&#xD;
+      (menstrual cycle) a woman has. After the menopause, the ovaries produce less and less sex&#xD;
+      hormones as a result of the natural ageing process and related hormonal adaptations. The&#xD;
+      decrease in hormones produced can lead to various symptoms that may be troublesome. Vasomotor&#xD;
+      symptoms are also seen in men.&#xD;
+&#xD;
+      The study treatment, elinzanetant, is under development to treat symptoms caused by hormonal&#xD;
+      changes. It works by blocking a substance called neurokinin, which is thought to play a role&#xD;
+      in starting hot flashes.&#xD;
+&#xD;
+      Previous studies have been done. This study will provide information on how to use&#xD;
+      elinzanetant in Chinese people.&#xD;
+&#xD;
+      The main purpose of this study is to learn how much of the study treatment elinzanetant gets&#xD;
+      into the participants' blood when a single dose is taken in healthy Chinese women.&#xD;
+&#xD;
+      To answer this question, the researchers will measure:&#xD;
+&#xD;
+        -  The (average) total level of elinzanetant in the blood (also called AUC)&#xD;
+&#xD;
+        -  The (average) highest level of elinzanetant in the blood (also called Cmax) The&#xD;
+           researchers also want to learn how much elinzanetant gets into the blood when taken for&#xD;
+           6 days in a row.&#xD;
+&#xD;
+      Dependent on the treatment group, the participants will either take elinzanetant or placebo.&#xD;
+      First, a single dose of two capsules is taken by mouth and later multiple doses once a day&#xD;
+      for another 6 days in a row are taken.&#xD;
+&#xD;
+      Each participant will be in the study for approximately 22 days including 7 treatment days in&#xD;
+      total. Participants will stay in-house for 16 days. In addition, one visit to the study site&#xD;
+      prior start and four visits after the in-house period are planned.&#xD;
+&#xD;
+      During the study, the study team will:&#xD;
+&#xD;
+        -  Do physical examinations&#xD;
+&#xD;
+        -  Take blood and urine samples&#xD;
+&#xD;
+        -  Check vital signs&#xD;
+&#xD;
+        -  Examine the participants' heart health using electrocardiogram (ECG)&#xD;
+&#xD;
+        -  Ask the participants questions about how they are feeling and what adverse events they&#xD;
+           are having.&#xD;
+&#xD;
+      An adverse event is any medical problem that a participant has during a study. Doctors keep&#xD;
+      track of all adverse events that happen in studies, even if they do not think the adverse&#xD;
+      events might be related to the study treatments.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 23, 2022</start_date>
+  <completion_date type="Actual">July 11, 2022</completion_date>
+  <primary_completion_date type="Actual">July 11, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>The study will be performed with a participant-blinded design.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cmax: maximum observed drug concentration in measured matrix after single dose administration</measure>
+    <time_frame>From pre-dose up to 168 hours after first dosing</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC: area under the concentration vs. time curve from zero to infinity after single dose</measure>
+    <time_frame>From pre-dose up to 168 hours after first dosing</time_frame>
+    <description>AUC(0-tlast) will be used as the main parameter if AUC cannot be reliably determined</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax,md: maximum observed drug concentration in measured matrix after multiple dose administration</measure>
+    <time_frame>From pre-dose up to 180 hours after last dosing</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC(0-24)md: AUC from time 0 to 24 hours for multiple dosing</measure>
+    <time_frame>From pre-dose up to 180 hours after last dosing</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with and severity of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>From first dose of study intervention until follow-up visit on day 21</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">16</enrollment>
+  <condition>Vasomotor Symptoms as a Sex Hormone-dependent Disorder in Women and Men</condition>
+  <condition>Hot Flashes</condition>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Elinzanetant (BAY3427080)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy female participants who meet all of the inclusion criteria and do not meet any of the exclusion criteria will be randomized to treatment with elinzanetant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Healthy female participants who meet all of the inclusion criteria and do not meet any of the exclusion criteria will be randomized and assigned to treatment with placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Elinzanetant (BAY3427080)</intervention_name>
+    <description>Elinzanetant will be administered as a single dose on Study Day 1 and a multiple dose once daily for another 6 consecutive days on Study Day 8 to Study Day 13.</description>
+    <arm_group_label>Elinzanetant (BAY3427080)</arm_group_label>
+    <other_name>NT-814</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo will be administered the same as Elinzanetant (BAY3427080)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant must be 40 to 65 years of age inclusive, at the time of signing the&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Participants who are overtly healthy as determined by medical evaluation including&#xD;
+             medical history, physical examination, vital signs, laboratory tests and&#xD;
+             electrocardiogram (ECG).&#xD;
+&#xD;
+          -  Race: Chinese in China mainland.&#xD;
+&#xD;
+          -  Body weight of at least 40 kg and body mass index (BMI) within the range 18.0 and 30.0&#xD;
+             kg/m^2 (inclusive) at screening.&#xD;
+&#xD;
+          -  Female:&#xD;
+&#xD;
+               -  Women of childbearing potential will have to use highly effective non-hormonal&#xD;
+                  contraception when having sexual intercourse with a male partner from signing the&#xD;
+                  informed consent form until 5 days after last dose of the study intervention.&#xD;
+&#xD;
+               -  Women of non-childbearing potential are not required to use contraception.&#xD;
+&#xD;
+          -  Capable of giving signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any clinically relevant abnormal findings in medical history and physical examination&#xD;
+             at screening or Day -1 which in the opinion of the investigators, may put the&#xD;
+             participant at risk because of her participation in the trial or provide difficulties&#xD;
+             in interpreting the trial data.&#xD;
+&#xD;
+          -  History or evidence of any clinically relevant cardiovascular, gastrointestinal,&#xD;
+             endocrine, hematologic, hepatic, immunologic, metabolic, urologic, pulmonary,&#xD;
+             neurologic, dermatologic, psychiatric, renal and/or other clinically relevant disease,&#xD;
+             as judged by the investigator.&#xD;
+&#xD;
+          -  Known hypersensitivity to the study interventions (active substances, or excipients of&#xD;
+             the preparations).&#xD;
+&#xD;
+          -  Use of any systemic or topical medicine or substance which oppose the study&#xD;
+             objectives, or which might influence them within 4 weeks before first administration&#xD;
+             of study intervention. This includes but is not limited to CYP P450&#xD;
+             inducers/inhibitors, OATP substrates or P-gp substrates with narrow therapeutic range&#xD;
+             (e.g. digoxin, dabigatran etc).&#xD;
+&#xD;
+          -  Regular use of therapeutic drugs or supplements, e.g., carnitine products, anabolics,&#xD;
+             high dose vitamins.&#xD;
+&#xD;
+          -  Use of herbal drugs or natural remedies, e.g. St. John's wort within 4 weeks before&#xD;
+             first study intervention administration.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>The First Affiliated Hospital of Guangzhou University of TCM</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510405</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <link>
+    <url>https://clinicaltrials.bayer.com/</url>
+    <description>Click here to find information for studies related to Bayer products. To find this study enter the NCT number or Bayer Study ID in the search field.</description>
+  </link>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>April 29, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>July 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hot Flashes</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Availability of this study's data will later be determined according to Bayer's commitment to the EFPIA/PhRMA &quot;Principles for responsible clinical trial data sharing&quot;. This pertains to scope, timepoint and process of data access. As such, Bayer commits to sharing upon request from qualified researchers patient-level clinical trial data, study-level clinical trial data, and protocols from clinical trials in patients for medicines and indications approved in the US and EU as necessary for conducting legitimate research. This applies to data on new medicines and indications that have been approved by the EU and US regulatory agencies on or after January 01, 2014. Interested researchers can use www.clinicalstudydatarequest.com to request access to anonymized patient-level data and supporting documents from clinical studies to conduct research. Information on the Bayer criteria for listing studies and other relevant information is provided in the Study sponsors section of the portal.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

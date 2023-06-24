@@ -1,0 +1,271 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381714</url>
+  </required_header>
+  <id_info>
+    <org_study_id>POST-COVID</org_study_id>
+    <nct_id>NCT05381714</nct_id>
+  </id_info>
+  <brief_title>Long-Term Respiratory Muscle Strength in Young COVID-19 Patients</brief_title>
+  <official_title>Long-Term Respiratory and Peripheral Muscle Strength and Respiratory Function in Young COVID-19 Patients: A Cross-Sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karabuk University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karabuk University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus disease 2019 (COVID-19) is a highly contagious disorder caused by the severe&#xD;
+      acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is a multisystem disease and&#xD;
+      therefore presents a variety of symptoms in the acute phase, such as fever, dry cough,&#xD;
+      fatigue, sore throat, loss of taste or smell, shortness of breath, nasal congestion, chest&#xD;
+      pain, muscle or joint pain, headache, and nausea.&#xD;
+&#xD;
+      COVID-19 primarily affects the respiratory functions of individuals. Although this situation&#xD;
+      is more difficult in hospitalized patients, it also causes severe effects in individuals who&#xD;
+      recover with home medication. It is thought that this damage caused by COVID-19 may cause&#xD;
+      permanent effects on individuals in the long term. During the COVID-19 period, individuals&#xD;
+      also had to maintain an inactive lifestyle due to quarantine. This decrease in physical&#xD;
+      activity capacity also causes permanent damage to the respiratory functions of individuals.&#xD;
+      In addition, studies have focused on this population, as COVID-19 usually affects older&#xD;
+      individuals. However, considering that young people are also exposed to the COVID-19 virus,&#xD;
+      the effect on respiratory functions in these individuals should also be examined. Combined&#xD;
+      with the available information on pulmonary functions, there is insufficient evidence about&#xD;
+      extrapulmonary features in post-COVID-19 patients who survive mild illness in the long term.&#xD;
+      It is also necessary to examine whether there is permanent damage to extrapulmonary features&#xD;
+      such as peripheral muscle strength in these individuals.&#xD;
+&#xD;
+      Therefore, in our study, it is aimed to examine the long-term results of respiratory&#xD;
+      functions, respiratory muscle strength and peripheral muscle strength of young individuals&#xD;
+      who recovered from COVID-19 and recovered from mild disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Actual">April 21, 2023</completion_date>
+  <primary_completion_date type="Actual">June 1, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Respiratory Muscle Strength</measure>
+    <time_frame>First Day</time_frame>
+    <description>Maximal inspiratory and expiratory muscle strength will be evaluated using portable mouth pressure device.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function (Forced vital capacity (FVC))</measure>
+    <time_frame>First Day</time_frame>
+    <description>Pulmonary function will be evaluated with the spirometry. Dynamic lung volume measurements will be made according to American Thoracic Society and European Respiratory Society criteria. With the device, forced vital capacity (FVC) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function (Forced vital capacity (FEV1))</measure>
+    <time_frame>First Day</time_frame>
+    <description>Pulmonary function (Forced expiratory volume in the first second (FEV1)) [ Time Frame: First Day ] Pulmonary function will be evaluated with the spirometry. Dynamic lung volume measurements will be made according to American Thoracic Society and European Respiratory Society criteria. With the device, forced expiratory volume in the first second (FEV1) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function (FEV1 / FVC)</measure>
+    <time_frame>First Day</time_frame>
+    <description>Pulmonary function will be evaluated with the spirometry. Dynamic lung volume measurements will be made according to American Thoracic Society and European Respiratory Society criteria. With the device, FEV1 / FVC will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function (Flow rate 25-75% of forced expiratory volume (FEF 25-75%))</measure>
+    <time_frame>First Day</time_frame>
+    <description>Pulmonary function will be evaluated with the spirometry. Dynamic lung volume measurements will be made according to American Thoracic Society and European Respiratory Society criteria. With the device, flow rate 25-75% of forced expiratory volume (FEF 25-75%) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function (Peak flow rate (PEF))</measure>
+    <time_frame>First Day</time_frame>
+    <description>Pulmonary function will be evaluated with the spirometry. Dynamic lung volume measurements will be made according to American Thoracic Society and European Respiratory Society criteria. With the device, peak flow rate (PEF) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral Muscle Strength</measure>
+    <time_frame>Second Day</time_frame>
+    <description>Knee extensor muscle strength using portable hand held dynamometer will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral Muscle Strength</measure>
+    <time_frame>Second Day</time_frame>
+    <description>Shoulder abductors muscle strength using portable hand held dynamometer will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-COVID-19 Functional Status</measure>
+    <time_frame>First Day</time_frame>
+    <description>The post-COVID functional status of individuals recovering from COVID-19 will be evaluated with the Post-COVID-19 Functional Status Scale (PCFS). A minimum of 0 (no functional limitations) and a maximum of 5 (death) points are taken from this scale, and as the score increases, the functional status worsens.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shortness of breath</measure>
+    <time_frame>First Day</time_frame>
+    <description>The Modified Borg Scale will be used to determine dyspnea perception during rest and activity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>First Day</time_frame>
+    <description>The Modified Borg Scale will be used to assess fatigue. The lowest 0 points are &quot;not at all&quot; and the highest 10 points are &quot;very severe&quot; denoting fatigue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Activity</measure>
+    <time_frame>Second Day</time_frame>
+    <description>Physical activity levels will be used assessed using International Physical Activity Questionnaire. Physical activity levels are classified as physically inactive (&lt;600 MET min/week), low physical activity level (600-3000 MET min/week), and adequate physical activity level (&gt;3000 MET min/week).</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">100</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Patients</arm_group_label>
+    <description>Post-COVID-19 Functional Status (Post-COVID-19 Functional Status Scale), respiratory functions (spirometer), respiratory muscle strength (mouth pressure measurement), peripheral muscle strength (dynamometer), physical activity level (International Physical Activity Questionnaire), fatigue (Modified Borg Scale), shortness of breath (Modified Borg Scale) will be evaluated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Respiratory functions (spirometer), respiratory muscle strength (mouth pressure measurement), peripheral muscle strength (dynamometer), physical activity level (International Physical Activity Questionnaire), fatigue (Modified Borg Scale), shortness of breath (Modified Borg Scale) will be evaluated.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        54 patients with post-COVID-19 and 54 healthy individuals will be included.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients:&#xD;
+&#xD;
+          -  diagnosed with COVID-19, with a positive polymerase chain reaction (PCR) test&#xD;
+&#xD;
+          -  at least six months ago (long term)&#xD;
+&#xD;
+          -  non-hospitalization due to COVID-19&#xD;
+&#xD;
+          -  non-smoker / for ex-smokers with 10 pack x years or less of smoking&#xD;
+&#xD;
+          -  not continuing any regular physical activity program&#xD;
+&#xD;
+        Controls:&#xD;
+&#xD;
+          -  non-smoker / for ex-smokers with 10 pack x years or less of smoking,&#xD;
+&#xD;
+          -  not continuing any regular physical activity program&#xD;
+&#xD;
+          -  willing to participate to the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  receiving inpatient or intensive care treatment due to COVID-19&#xD;
+&#xD;
+          -  having acute infection&#xD;
+&#xD;
+          -  previous pulmonary resection or cardiac surgery&#xD;
+&#xD;
+          -  having lung or heart comorbidities such as asthma&#xD;
+&#xD;
+          -  chronic obstructive pulmonary disease (COPD) and heart failure&#xD;
+&#xD;
+          -  uncontrolled hypertension&#xD;
+&#xD;
+          -  history of malignancy&#xD;
+&#xD;
+          -  neurological disease (e.g., Alzheimer, Multiple Sclerosis, Parkinson)&#xD;
+&#xD;
+          -  rheumatologic diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>25 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Musa GÜNEŞ, MsC</last_name>
+    <role>Study Chair</role>
+    <affiliation>Karabuk University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Metehan YANA, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karabuk University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Meral BOŞNAK GÜÇLÜ, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Karabuk University</name>
+      <address>
+        <city>Karabük</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Boutou AK, Georgopoulou A, Pitsiou G, Stanopoulos I, Kontakiotis T, Kioumis I. Changes in the respiratory function of COVID-19 survivors during follow-up: A novel respiratory disorder on the rise? Int J Clin Pract. 2021 Oct;75(10):e14301. doi: 10.1111/ijcp.14301. Epub 2021 May 17.</citation>
+    <PMID>33932073</PMID>
+  </reference>
+  <reference>
+    <citation>van Kessel SAM, Olde Hartman TC, Lucassen PLBJ, van Jaarsveld CHM. Post-acute and long-COVID-19 symptoms in patients with mild diseases: a systematic review. Fam Pract. 2022 Jan 19;39(1):159-167. doi: 10.1093/fampra/cmab076.</citation>
+    <PMID>34268556</PMID>
+  </reference>
+  <reference>
+    <citation>Guler SA, Ebner L, Aubry-Beigelman C, Bridevaux PO, Brutsche M, Clarenbach C, Garzoni C, Geiser TK, Lenoir A, Mancinetti M, Naccini B, Ott SR, Piquilloud L, Prella M, Que YA, Soccal PM, von Garnier C, Funke-Chambour M. Pulmonary function and radiological features 4 months after COVID-19: first results from the national prospective observational Swiss COVID-19 lung study. Eur Respir J. 2021 Apr 29;57(4):2003690. doi: 10.1183/13993003.03690-2020. Print 2021 Apr.</citation>
+    <PMID>33419891</PMID>
+  </reference>
+  <reference>
+    <citation>Plaza M, Sevilla GGP. Respiratory muscle sequelae in young university students infected by coronavirus disease 2019: an observational study. Rev Assoc Med Bras (1992). 2022 Feb;68(2):245-249. doi: 10.1590/1806-9282.20211040.</citation>
+    <PMID>35239890</PMID>
+  </reference>
+  <reference>
+    <citation>Tanriverdi A, Savci S, Kahraman BO, Ozpelit E. Extrapulmonary features of post-COVID-19 patients: muscle function, physical activity, mood, and sleep quality. Ir J Med Sci. 2022 Jun;191(3):969-975. doi: 10.1007/s11845-021-02667-3. Epub 2021 Jun 2.</citation>
+    <PMID>34080125</PMID>
+  </reference>
+  <reference>
+    <citation>Lund Berven L, Selvakumar J, Havdal L, Stiansen-Sonerud T, Einvik G, Leegaard TM, Tjade T, Michelsen AE, Mollnes TE, Wyller VBB. Inflammatory Markers, Pulmonary Function, and Clinical Symptoms in Acute COVID-19 Among Non-Hospitalized Adolescents and Young Adults. Front Immunol. 2022 Feb 9;13:837288. doi: 10.3389/fimmu.2022.837288. eCollection 2022.</citation>
+    <PMID>35222429</PMID>
+  </reference>
+  <verification_date>April 2023</verification_date>
+  <study_first_submitted>May 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>April 23, 2023</last_update_submitted>
+  <last_update_submitted_qc>April 23, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karabuk University</investigator_affiliation>
+    <investigator_full_name>Musa Güneş</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Muscle Strength</keyword>
+  <keyword>pulmonary function</keyword>
+  <keyword>Physical activity</keyword>
+  <keyword>Dyspnea</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

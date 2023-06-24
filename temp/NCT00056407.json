@@ -1,0 +1,317 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT00056407",
+        "https://www.clinicalstudydatarequest.com"
+    ],
+    "org_study_id": [
+        "ARI40006"
+    ],
+    "nct_id": [
+        "NCT00056407"
+    ],
+    "brief_title": [
+        "\"REDUCE\" - A Clinical Research Study To Reduce The Incidence Of Prostate Cancer In Men Who Are At Increased Risk"
+    ],
+    "acronym": [
+        "REDUCE"
+    ],
+    "official_title": [
+        "A Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study of the Efficacy and Safety of Dutasteride 0.5 mg Administered Orally Once Daily for Four Years to Reduce the Risk of Biopsy-Detectable Prostate Cancer"
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "GlaxoSmithKline"
+    ],
+    "textblock": [
+        "This 4-year study will compare how safe and effective an oral investigational medicine is\r\n      (compared to placebo) in preventing the development of prostate cancer in men that are\r\n      defined by the study entrance criteria as being at an increased risk for prostate cancer.\r\n      Study visits to the clinic will occur every 6 months for up to 4 years (10 clinic visits),\r\n      and a prostate biopsy will be performed at 2 and 4 years of treatment."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "start_date": [
+        "March 2003"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Estimate",
+        "Estimate",
+        "Estimate"
+    ],
+    "completion_date": [
+        "April 2009"
+    ],
+    "primary_completion_date": [
+        "January 2009"
+    ],
+    "phase": [
+        "Phase 3"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Randomized"
+    ],
+    "intervention_model": [
+        "Parallel Assignment"
+    ],
+    "primary_purpose": [
+        "Prevention"
+    ],
+    "masking": [
+        "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    ],
+    "measure": [
+        "Number of Participants With Biopsy-detectable Prostate Cancer at Years 2 and 4 (Crude Rate Approach)",
+        "Number of Participants With Biopsy-detectable Prostate Cancer at Years 2 and 4 (Modified Crude Rate Approach)",
+        "Number of Participants With Biopsy-detectable Prostate Cancer at Years 2 and 4 (Restricted Crude Rate Approach)",
+        "Number of Participants With the Indicated Gleason Score at Diagnosis",
+        "Number of Participants With HGPIN, ASAP, and Prostate Cancer at Biopsy",
+        "Volume of HGPIN at Biopsy",
+        "Percentage of Core Involved at Diagnosis",
+        "Number of Cancer-positive Cores",
+        "Treatment Alteration Score",
+        "Number of Participants Undergoing Intervention (Surgical and Non-surgical) for Prostate Cancer Treatment",
+        "Adjusted Mean Change From Baseline in the International Prostate Symptom Score (IPSS) at Month 48",
+        "Adjusted Mean Percentage Change From Baseline in Prostate Volume at Months 24 and 48",
+        "Adjusted Mean Change From Baseline in Maximum Urinary Flow (Qmax) at Months 12, 24, 36, and 48",
+        "Number of Participants Starting Alpha Blockers to Control Benign Prostatic Hyperplasia (BPH) Symptoms",
+        "Number of Participants With at Least One Event of Acute Urinary Retention (AUR)",
+        "Number of Participants With at Least One Urinary Tract Infection (UTI)",
+        "Number of Participants With Post-biopsy Macroscopic Hematuria",
+        "Number of Participants With Post-biopsy Macroscopic Hematospermia",
+        "Overall Survival",
+        "Adjusted Mean Change From Baseline in the Benign Prostatic Hypertrophy (BPH) Impact Index (BII) at Month 48",
+        "Adjusted Mean Change From Baseline in The Medical Outcomes Study Sleep Problems Index 6-item Standard Version (MOS Sleep-6S) at Month 48",
+        "Adjusted Mean Change From Baseline in the National Institutes of Health Chronic Prostatitis Symptom Index (NIH CPSI) at Month 48",
+        "Adjusted Mean Change From Baseline in Quality of Life Question 8 (QOL Q8) at Month 48",
+        "Adjusted Mean Change From Baseline in the Problem Assessment Scale of the Sexual Function Index (PASSFI) at Month 48",
+        "Number of Participants With the Indicated Serum Dihydrotestosterone (DHT) Concentration at Month 48",
+        "Mean Change From Baseline in Testosterone at Month 48"
+    ],
+    "time_frame": [
+        "Years 1-2, Years 3-4, and Overall (Years 1-4)",
+        "Years 1-2, Years 3-4, and Overall (Years 1-4)",
+        "Years 1-2, Years 3-4, and Overall (Years 1-4)",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4",
+        "Baseline to Year 4 (Month 48)",
+        "Baseline, Month 24, and Month 48",
+        "Baseline and Months 12, 24, 36, and 48",
+        "Years 1-2, Overall (Years 1-4)",
+        "Years 1-2 and Overall (Years 1-4)",
+        "Years 1-2, Years 3-4, and Overall (Years 1-4)",
+        "Baseline to Year 4",
+        "Baseline through Year 4",
+        "From time informed consent is signed to 4-month Safety Follow-Up period",
+        "Baseline and Month 48",
+        "Baseline and Month 48",
+        "Baseline and Month 48",
+        "Baseline and Month 48",
+        "Baseline and Month 48",
+        "Month 48",
+        "Baseline and Month 48"
+    ],
+    "description": [
+        "Study biopsies consisted of 10 biopsy samples (cores) in a pre-defined pattern. Biopsies were read at the central pathology laboratory (CPL, which processed the majority, 94%, of biopsies). Biopsy cases that were positive for prostate cancer or precancerous lesions (high-grade prostatic intraepithelial neoplasia[HGPIN] or typical small acinar proliferation [ASAP]) and prostate surgeries were reviewed by the lead pathologist.",
+        "Study biopsies (biop.) consisted of 10 biop. samples (cores) in a pre-defined pattern and were read at the central pathology laboratory. Biop. cases that were positive for prostate cancer or precancerous lesions (HGPIN or ASAP) and prostate surgeries were reviewed by the lead pathologist. Participants included in the risk sets at Years 1-2 and Years 3-4 included those with a positive biop. at Years 1-2 or a biop. after Months 18-24, and those with a positive biop. at Years 3-4 or a biop. after Month 42, respectively. Overall included participants with a positive biop. or biop. after Month 42.",
+        "Study biopsies consisted of 10 biopsy samples (cores) in a pre-defined pattern. Biopsies were read at the central pathology laboratory (which processed the majority, 94%, of biopsies). Biopsy cases that were positive for prostate cancer or precancerous lesions (HGPIN or ASAP) and prostate surgeries were reviewed by the lead pathologist. Participants included in the risk set at Years 1-2, Years 3-4, and Overall (Years 1-4) were those who had a biopsy during the specified time period.",
+        "Gleason score was determined by examining prostate biopsies and surgical samples. The Gleason scoring system sums the two most common Gleason grade patterns in order to predict the likelihood of a participant doing well or badly with their cancer. Gleason grades range from 1 (normal) to 5 (advanced cancer). The lowest Gleason score is 2 (1+1), and the highest Gleason score is 10 (5+5). A Gleason score of 2-6 is a low-grade cancer; a Gleason score of 7-10 is high-grade cancer. The most severe high-grade cancers are the subset of Gleason scores 8-10.",
+        "The occurrence and quantity of high-grade prostatic intraepithelial neoplasia (HGPIN) and atypical small acinar proliferation (ASAP) at biopsy were measured. HGPIN and ASAP are considered precancerous conditions. A participant diagnosed with prostate cancer only (i.e., no HGPIN or ASAP) was counted in both the first category (\"HGPIN or prostate cancer diagnosis\") and again in the last category (\"HGPIN, ASAP, or prostate cancer diagnosis\").",
+        "The amount of prostate biopsy tissue with HGPIN was measured.",
+        "The average amount of cancer seen by the pathologist in the prostate tissue samples taken during the biopsy was measured. A core is a prostate biopsy sample.",
+        "The average number of prostate biopsy samples (cores) determined to be cancerous by the pathologist was measured. Normally, 10 cores were taken per biopsy for each participant.",
+        "The treatment alteration score is a measure of the cellular changes due to treatment (effect of male hormone withdrawal) on the nucleus and cytoplasm of the prostate cancer cell. The treatment alteration score is the sum of two scores (the nuclear alteration score and the cytoplasmic architectural score), each ranging from 0 to 3, with 0 indicating no change and 3 indicating severe changes.",
+        "The number of participants who received treatment for prostate cancer was measured. Prostate cancer interventions included surgical interventions (e.g., prostatectomy, adenomectomy, transurethral resection) and non-surgical interventions (e.g., chemotherapy, hormone therapy, radiation therapy).",
+        "The IPSS is a 7-item questionnaire that measures urinary symptoms. It measures the level of urinary symptoms (including incomplete emptying, frequency, intermittency, urgency, weak stream, straining, and nocturia) reported as the total IPSS score. Each of the 7 questions has a 6-point response scale (0=none/not at all to 5=almost always) with a total score that can range from 0-35: mild (0-7), moderate (8-19), or severe (20-35). Estimates are based on adjusted means from the general linear model: change from baseline = baseline value and cluster and treatment.",
+        "Prostate volume was measured by transrectal ultrasound (TRUS) when biopsies were performed at Year 2 and Year 4. The investigator calculated the prostate volume using three prostate measurements (anteroposterior, cephalocaudal, and transverse diameters). Estimates are based on the adjusted means from the general linear model: log(Post-Baseline/Baseline value) = treatment and cluster and log (baseline value).",
+        "Maximum urinary flow was measured at selected sites using a Dantec Uroflow meter with a Thompson filter. Change from baseline was calculated as Month 12, 24, 36, and 48 values minus the baseline value. Estimates are based on the adjusted means from the general linear model: change from baseline = baseline Qmax and treatment. This measurement was performed at selected centers.",
+        "Medication taken during the study, including alpha blockers, was recorded at each 6-month study visit and during phone calls that occurred 3 months after each visit.",
+        "A participant was considered to have AUR when he reported being unable to urinate and required catherization. Participants were asked to report any events of AUR during the study.",
+        "A participant was considered to have a UTI if the investigator noted that the participant had UTI symptoms and had been prescribed antibiotics. Participants were asked to report any events of UTI during the study.",
+        "Participants reported events of macroscopic hematuria (visible blood in the urine) throughout the study.",
+        "Participants reported events of macroscopic hematospermia (visible blood in semen) throughout the study.",
+        "Overall survival is assessed as the number of deaths reported throughout the study.",
+        "The BII is a 4-item questionnaire that rates the level of BPH-related physical discomfort, worry, and interference with normal activities the participant has experienced. The total BII score ranges from 1 (no impact on symptoms) to 13 (major impact on symptoms). Participants completed the questionnaire at Baseline and at each 6-month visit. Participants whose language did not have a validated translation of the questionnaire did not participate. Estimates are based on the adjusted means from the general linear model:change from baseline = baseline value and cluster and treatment.",
+        "The MOS Sleep-6S is a 6-item questionnaire measuring quality of sleep. Scores range from 1 (all of the time) to 6 (none of the time) and are converted to a 1-100 scale and then averaged; a higher score indicates greater negative impact, which indicates more sleep disturbance. Participants completed the questionnaire at Baseline and at each 6-month visit. Participants whose language did not have a validated translation of the questionnaire did not participate. Estimates are based on the adjusted means from the general linear model: change from baseline=baseline value and cluster and treatment.",
+        "The NIH CSPI is a 9-item questionnaire that measures chronic prostatitis symptoms. The total score ranges from 0 to 43. A higher score indicates greater negative impact of prostatitis. Participants completed the questionnaire at Baseline and at each 6-month visit. Participants whose language did not have a validated translation of the questionnaire did not participate. Estimates are based on the adjusted means from the general linear model: change from Baseline = Baseline Value and Cluster and Treatment.",
+        "The QOL Q8 is the last question of the IPSS Questionnaire. It is a question about the participant's quality of life as it relates to prostate symptoms. Responses range from 0 (most positive) to 6 (most negative). A higher score indicates worse quality of life. Participants completed the questionnaire at Screening, Baseline, and at each 6-month visit. Estimates are based on the adjusted means from the general linear model: change from baseline = baseline value and cluster and treatment.",
+        "The PASSFI is a 3-item questionnaire that measures sexual function. Responses range from 0 (big problem) to 4 (no problem), with a total score of 12. A higher score indicates fewer problems with sexual functioning. Participants completed the questionnaire at Baseline and then yearly . Participants whose language did not have a validated translation of the questionnaire did not participate. Estimates are based on the adjusted means from the general linear model: change from baseline = baseline value and cluster and treatment.",
+        "Number of participants whose DHT, the active form of the male sex hormone testosterone, was less than 0.555 nanomoles/liter and below the level of detection at Month 48 was measured. It was measured by taking blood samples at screening and yearly thereafter.",
+        "Testosterone, a male sex hormone, was measured by taking blood samples at screening and yearly thereafter.",
+        "Eligible subjects will complete a 4-week placebo run-in followed by randomization to matched placebo in a 1:1 ratio.",
+        "Eligible subjects will complete a 4-week placebo run-in followed by randomization to 0.5mg dutasteride in a 1:1 ratio. Randomization will be stratified by center.",
+        "After successful completion of the placebo run-in phase, subjects who continue to meet eligibility requirements will be randomized into the double-blind phase of the study and issued a 6-month supply of study drug. Subjects will self-administer study drug once daily dosing of 0.5mg of dutasteride orally for up to 4 years.",
+        "After successful completion of the placebo run-in phase, subjects who continue to meet eligibility requirements will be randomized into the double-blind phase of the study and issued a 6-month supply of study drug. Subjects will self-administer study drug once daily orally for up to 4 years.",
+        "Researchers can use this site to request access to anonymised patient level data and/or supporting documents from clinical studies to conduct further research."
+    ],
+    "number_of_arms": [
+        2.0
+    ],
+    "enrollment": [
+        8231.0
+    ],
+    "condition": [
+        "Neoplasms, Prostate"
+    ],
+    "arm_group_label": [
+        "Placebo Arm",
+        "dustasteride arm",
+        "dustasteride arm",
+        "Placebo Arm"
+    ],
+    "arm_group_type": [
+        "Placebo Comparator",
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "Dutasteride",
+        "Placebo"
+    ],
+    "criteria": [],
+    "gender": [
+        "Male"
+    ],
+    "minimum_age": [
+        "50 Years"
+    ],
+    "maximum_age": [
+        "75 Years"
+    ],
+    "healthy_volunteers": [
+        "No"
+    ],
+    "last_name": [
+        "GSK Clinical Trials"
+    ],
+    "role": [
+        "Study Director"
+    ],
+    "affiliation": [
+        "GlaxoSmithKline"
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "citation": [
+        "Kader AK, Sun J, Reck BH, Newcombe PJ, Kim ST, Hsu FC, D'Agostino RB Jr, Tao S, Zhang Z, Turner AR, Platek GT, Spraggs CF, Whittaker JC, Lane BR, Isaacs WB, Meyers DA, Bleecker ER, Torti FM, Trent JM, McConnell JD, Zheng SL, Condreay LD, Rittmaster RS, Xu J. Potential impact of adding genetic markers to clinical parameters in predicting prostate biopsy outcomes in men following an initial negative biopsy: findings from the REDUCE trial. Eur Urol. 2012 Dec;62(6):953-61. doi: 10.1016/j.eururo.2012.05.006. Epub 2012 May 12.",
+        "Aubin SM, Reid J, Sarno MJ, Blase A, Aussie J, Rittenhouse H, Rittmaster R, Andriole GL, Groskopf J. PCA3 molecular urine test for predicting repeat prostate biopsy outcome in populations at risk: validation in the placebo arm of the dutasteride REDUCE trial. J Urol. 2010 Nov;184(5):1947-52. doi: 10.1016/j.juro.2010.06.098. Epub 2010 Sep 17.",
+        "Wu C, Moreira DM, Gerber L, Rittmaster RS, Andriole GL, Freedland SJ. Diabetes and prostate cancer risk in the REDUCE trial. Prostate Cancer Prostatic Dis. 2011 Dec;14(4):326-31. doi: 10.1038/pcan.2011.28. Epub 2011 Jun 28.",
+        "Roehrborn CG, Nickel JC, Andriole GL, Gagnier RP, Black L, Wilson TH, Rittmaster RS. Dutasteride improves outcomes of benign prostatic hyperplasia when evaluated for prostate cancer risk reduction: secondary analysis of the REduction by DUtasteride of prostate Cancer Events (REDUCE) trial. Urology. 2011 Sep;78(3):641-6. doi: 10.1016/j.urology.2011.03.063. Epub 2011 Jul 20.",
+        "Bostwick DG, Qian J, Drewnowska K, Varvel S, Bostwick KC, Marberger M, Rittmaster RS. Prostate needle biopsy quality in reduction by dutasteride of prostate cancer events study: worldwide comparison of improvement with investigator training and centralized laboratory processing. Urology. 2010 Jun;75(6):1406-10. doi: 10.1016/j.urology.2009.07.1348. Epub 2009 Nov 25.",
+        "Crawford ED, Andriole GL, Marberger M, Rittmaster RS. Reduction in the risk of prostate cancer: future directions after the Prostate Cancer Prevention Trial. Urology. 2010 Mar;75(3):502-9. doi: 10.1016/j.urology.2009.05.099. Epub 2009 Dec 29.",
+        "G Andriole, D Bostwick, O Brawley, L Gomella, M Marberger, F Montorsi, C Pettaway, T Tammela, C Teloken, D Tindall, M Somerville, I Fowler and R Rittmaster on behalf of the REDUCE Study Group. Risk reduction in men at increased risk: outcomes of the REduction by Dutasteride of prostate Cancer Events (REDUCE) trial. [N Engl J Med]. 2010;362(13):1192-202.",
+        "Andriole GL, Bostwick D, Brawley OW, Gomella L, Marberger M, Montorsi F, Pettaway C, Tammela TL, Teloken C, Tindall D, Freedland SJ, Somerville MC, Wilson TH, Fowler I, Castro R, Rittmaster RS; REDUCE Study Group. The effect of dutasteride on the usefulness of prostate specific antigen for the diagnosis of high grade and clinically relevant prostate cancer in men with a previous negative biopsy: results from the REDUCE study. J Urol. 2011 Jan;185(1):126-31. doi: 10.1016/j.juro.2010.09.011. Epub 2010 Nov 12.",
+        "Andriole GL, Bostwick DG, Brawley OW, Gomella LG, Marberger M, Montorsi F, Pettaway CA, Tammela TL, Teloken C, Tindall DJ, Somerville MC, Wilson TH, Fowler IL, Rittmaster RS; REDUCE Study Group. Effect of dutasteride on the risk of prostate cancer. N Engl J Med. 2010 Apr 1;362(13):1192-202. doi: 10.1056/NEJMoa0908127.",
+        "Nickel JC, Roehrborn C, Montorsi F, Wilson TH, Rittmaster RS. Dutasteride reduces prostatitis symptoms compared with placebo in men enrolled in the REDUCE study. J Urol. 2011 Oct;186(4):1313-8. doi: 10.1016/j.juro.2011.05.071. Epub 2011 Aug 17.",
+        "Thomas JA 2nd, Gerber L, Moreira DM, Hamilton RJ, Banez LL, Castro-Santamaria R, Andriole GL, Isaacs WB, Xu J, Freedland SJ. Prostate cancer risk in men with prostate and breast cancer family history: results from the REDUCE study (R1). J Intern Med. 2012 Jul;272(1):85-92. doi: 10.1111/j.1365-2796.2011.02504.x. Epub 2012 Jan 16.",
+        "Marberger M, McConnell JD, Fowler I, Andriole GL, Bostwick DG, Somerville MC, Rittmaster RS. Biopsy misidentification identified by DNA profiling in a large multicenter trial. J Clin Oncol. 2011 May 1;29(13):1744-9. doi: 10.1200/JCO.2010.32.1646. Epub 2011 Mar 28.",
+        "Marberger M, Freedland SJ, Andriole GL, Emberton M, Pettaway C, Montorsi F, Teloken C, Rittmaster RS, Somerville MC, Castro R. Usefulness of prostate-specific antigen (PSA) rise as a marker of prostate cancer in men treated with dutasteride: lessons from the REDUCE study. BJU Int. 2012 Apr;109(8):1162-9. doi: 10.1111/j.1464-410X.2011.10373.x. Epub 2011 Jun 23.",
+        "Marberger M, Wilson TH, Rittmaster RS. Low serum testosterone levels are poor predictors of sexual dysfunction. BJU Int. 2011 Jul;108(2):256-62. doi: 10.1111/j.1464-410X.2010.09766.x. Epub 2010 Oct 18.",
+        "Kattan MW, Earnshaw SR, McDade CL, Black LK, Andriole GL. Cost effectiveness of chemoprevention for prostate cancer with dutasteride in a high-risk population based on results from the REDUCE clinical trial. Appl Health Econ Health Policy. 2011 Sep 1;9(5):305-15. doi: 10.2165/11592200-000000000-00000.",
+        "Muller RL, Gerber L, Moreira DM, Andriole G, Castro-Santamaria R, Freedland SJ. Serum testosterone and dihydrotestosterone and prostate cancer risk in the placebo arm of the Reduction by Dutasteride of Prostate Cancer Events trial. Eur Urol. 2012 Nov;62(5):757-64. doi: 10.1016/j.eururo.2012.05.025. Epub 2012 May 18.",
+        "Newcombe PJ, Reck BH, Sun J, Platek GT, Verzilli C, Kader AK, Kim ST, Hsu FC, Zhang Z, Zheng SL, Mooser VE, Condreay LD, Spraggs CF, Whittaker JC, Rittmaster RS, Xu J. A comparison of Bayesian and frequentist approaches to incorporating external information for the prediction of prostate cancer risk. Genet Epidemiol. 2012 Jan;36(1):71-83. doi: 10.1002/gepi.21600.",
+        "Aubin SM, Reid J, Sarno MJ, Blase A, Aussie J, Rittenhouse H, Rittmaster RS, Andriole GL, Groskopf J. Prostate cancer gene 3 score predicts prostate biopsy outcome in men receiving dutasteride for prevention of prostate cancer: results from the REDUCE trial. Urology. 2011 Aug;78(2):380-5. doi: 10.1016/j.urology.2011.03.033.",
+        "Stephen J. Freedland, Leah Gerber, Lionel Banez, Daniel Moreira, Gerald L. Andriole, and Roger S. Rittmaster on behalf of the REDUCE Study Group. Statin Use and the Risk of Prostate Cancer and High-grade Prostate Cancer: Results from the REDUCE study. [AUA 2011 Annual Meeting]. 2011;185(4 Suppl):e135.",
+        "Thomas JA 2nd, Gerber L, Banez LL, Moreira DM, Rittmaster RS, Andriole GL, Freedland SJ. Prostate cancer risk in men with baseline history of coronary artery disease: results from the REDUCE Study. Cancer Epidemiol Biomarkers Prev. 2012 Apr;21(4):576-81. doi: 10.1158/1055-9965.EPI-11-1017. Epub 2012 Feb 7."
+    ],
+    "PMID": [
+        22652152.0,
+        20850153.0,
+        21709690.0,
+        21764428.0,
+        19942263.0,
+        20035983.0,
+        21074214.0,
+        20357281.0,
+        21849186.0,
+        22211699.0,
+        21444877.0,
+        21699645.0,
+        20955266.0,
+        21875161.0,
+        22658758.0,
+        22890972.0,
+        21820580.0,
+        22315364.0
+    ],
+    "verification_date": [
+        "August 2016"
+    ],
+    "study_first_submitted": [
+        "March 11, 2003"
+    ],
+    "study_first_submitted_qc": [
+        "March 12, 2003"
+    ],
+    "study_first_posted": [
+        "March 13, 2003"
+    ],
+    "results_first_submitted": [
+        "February 1, 2010"
+    ],
+    "results_first_submitted_qc": [
+        "February 1, 2010"
+    ],
+    "results_first_posted": [
+        "March 5, 2010"
+    ],
+    "last_update_submitted": [
+        "August 17, 2016"
+    ],
+    "last_update_submitted_qc": [
+        "August 17, 2016"
+    ],
+    "last_update_posted": [
+        "September 23, 2016"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "Prostate cancer prevention",
+        "prostate",
+        "BPH",
+        "enlarged prostate",
+        "PSA",
+        "prostate cancer"
+    ],
+    "mesh_term": [
+        "Prostatic Neoplasms",
+        "Dutasteride"
+    ],
+    "sharing_ipd": [
+        "Yes"
+    ],
+    "ipd_description": [
+        "Patient-level data for this study will be made available through www.clinicalstudydatarequest.com following the timelines and process described on this site."
+    ],
+    "study_doc": [],
+    "participant_flow": [],
+    "baseline": [],
+    "outcome_list": [],
+    "reported_events": [],
+    "certain_agreements": [],
+    "point_of_contact": []
+}

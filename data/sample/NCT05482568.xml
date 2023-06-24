@@ -1,0 +1,314 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05482568</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHR-A1811-II-203</org_study_id>
+    <nct_id>NCT05482568</nct_id>
+  </id_info>
+  <brief_title>A Trial of Injectable SHR-A1811 in Combination With Pyrotinib or SHR-1316 in Subjects With Advanced Non-small Cell Lung Cancer</brief_title>
+  <official_title>Phase IB/II Clinical Study of the Safety, Tolerability, Pharmacokinetics, and Efficacy of Injectable SHR-A1811 in Combination With Pyrotinib or SHR-1316 in Subjects With Advanced Non-small Cell Lung Cancer With HER2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu HengRui Medicine Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jiangsu HengRui Medicine Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study was an open, multicenter, dose-increasing/investigational Phase IB/II clinical&#xD;
+      trial to evaluate the efficacy of SHR-A1811 in combination with other antitumor therapies in&#xD;
+      subjects with advanced non-small cell lung cancer with HER2 . It can be divided into two&#xD;
+      parts, Part A is the dose escalation and efficacy exploration study of SHR-A1811 combined&#xD;
+      with Pyrotinib, and Part B is the dose escalation and efficacy exploration study of SHR-A1811&#xD;
+      combined with SHR-1316.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 20, 2022</start_date>
+  <completion_date type="Anticipated">December 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>An open, multicenter, dose-increasing/investigational Phase IB/II clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>DLT(Phase I (dose exploration phase) main study endpoint)</measure>
+    <time_frame>21 days after the first administration of each subject</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AE(Phase I (dose exploration phase) main study endpoint)</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence and severity of serious adverse events (SAE)(Phase I (dose exploration phase) main study endpoint)</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Objective response rate(The main end points of the second stage (efficacy expansion stage))</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxin binding antibody to shr-a1811（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibody to shr-a1811（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of free toxin shr169265（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of pyrroltinib（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of SHR-1316（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti shr-a1811 antibody positive（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive status of neutralizing antibody against shr-a1811（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti shr-1316 antibody positive（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive status of neutralizing antibody against shr-1316（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response Rate（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival（Phase I secondary endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AE（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of serious adverse events (SAE)（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxin binding antibody to shr-a1811（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibody to shr-a1811（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of free toxin shr169265（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of pyrroltinib（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of SHR-1316（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti shr-a1811 antibody positive（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive status of neutralizing antibody against shr-a1811（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti shr-1316 antibody positive（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive status of neutralizing antibody against shr-1316（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival（Phase II secondary study endpoint）</measure>
+    <time_frame>Two years after the last subject was enrolled in the group</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">324</enrollment>
+  <condition>Advanced Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>SHR-A1811 combined with Pyrotinib/SHR-A1811 combined with SHR-1316</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SHR-A1811 &amp; Pyrotinib/SHR-A1811 &amp; SHR-1316</intervention_name>
+    <description>Drug: SHR-A1811 &amp; Pyrotinib&#xD;
+SHR-A1811： intravenous Pyrotinib：oral&#xD;
+Drug: SHR-A1811 &amp; SHR-1316&#xD;
+SHR-A1811： intravenous SHR-1316： intravenous</description>
+    <arm_group_label>SHR-A1811 combined with Pyrotinib/SHR-A1811 combined with SHR-1316</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ability to give informed consent, signed and dated IRB/EC approved informed consent,&#xD;
+             willing and able to comply with treatment planning visits, tests and other procedural&#xD;
+             requirements&#xD;
+&#xD;
+          2. When signing the informed consent, the age is 18-75 years old (including both ends),&#xD;
+             and there is no gender limitation&#xD;
+&#xD;
+          3. The ECOG score is 0 or 1&#xD;
+&#xD;
+          4. The expected survival is ≥12 weeks&#xD;
+&#xD;
+          5. Subjects with advanced or metastatic non-small cell lung cancer&#xD;
+&#xD;
+          6. Formalin fixed, paraffin-embedded tumor tissue blocks or sections of unstained tumor&#xD;
+             specimens are provided&#xD;
+&#xD;
+          7. Subjects who have failed prior standard care or are intolerant to standard care&#xD;
+&#xD;
+          8. There is at least one measurable lesion&#xD;
+&#xD;
+          9. Vital organs are functioning well&#xD;
+&#xD;
+         10. Heart function is good&#xD;
+&#xD;
+         11. Agree to birth control&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. There are untreated or active central nervous system (CNS) tumor metastases&#xD;
+&#xD;
+          2. Pleural, ascites, or pericardial effusion requiring intervention occurred within 7&#xD;
+             days prior to initial administration&#xD;
+&#xD;
+          3. Systemic antitumor therapy was performed 4 weeks prior to study initiation&#xD;
+&#xD;
+          4. Prior treatment with antibody-conjugated drugs&#xD;
+&#xD;
+          5. Received &gt;30 Gy chest radiation within 6 months prior to initial administration&#xD;
+&#xD;
+          6. Palliative radiotherapy was completed within 7 days prior to initial administration&#xD;
+&#xD;
+          7. Failure to recover from toxicity and/or complications of previous interventions to&#xD;
+             nCI-CTCAE ≤1&#xD;
+&#xD;
+          8. The half-life of CYP3A4 suppressor, moderate inhibitor or strong inducer or moderate&#xD;
+             inducer is less than 3 or less than 14 days from the date of first drug use, and the&#xD;
+             shorter is selected&#xD;
+&#xD;
+          9. Received systemic immunosuppressant therapy within 14 days prior to the first study&#xD;
+&#xD;
+         10. Subjects with known or suspected interstitial pneumonia&#xD;
+&#xD;
+         11. In the first study, failure to swallow, chronic diarrhea, gastroenteritis, intestinal&#xD;
+             obstruction, gastrointestinal perforation, postgastrectomy, or colitis, or other&#xD;
+             medical conditions or special conditions affecting drug administration and absorption&#xD;
+             occurred within 28 days prior to administration&#xD;
+&#xD;
+         12. Presence of any active, known or suspected autoimmune disease&#xD;
+&#xD;
+         13. Have poorly controlled or severe cardiovascular disease&#xD;
+&#xD;
+         14. Previous or concurrent malignancy&#xD;
+&#xD;
+         15. Subjects who developed a severe infection within 28 days prior to the first dose&#xD;
+&#xD;
+         16. Active hepatitis B&#xD;
+&#xD;
+         17. There were active tuberculosis patients within 1 year before enrollment&#xD;
+&#xD;
+         18. There is a history of immunodeficiency&#xD;
+&#xD;
+         19. Live attenuated vaccine was administered within 28 days prior to initial study&#xD;
+             administration or is expected to be administered during study treatment&#xD;
+&#xD;
+         20. Subjects who are participating in another clinical study or who have had their first&#xD;
+             dose less than 4 weeks since the end of the previous clinical study (last dose) or 5&#xD;
+             half-lives of the study drug, whichever is shorter&#xD;
+&#xD;
+         21. Major surgery other than diagnosis or biopsy was performed within 28 days prior to&#xD;
+             initial administration&#xD;
+&#xD;
+         22. People who are known to be allergic to sir-A1811, pyrrolitinib, or any of the&#xD;
+             components of SIR-1316&#xD;
+&#xD;
+         23. History of severe allergic reactions to other monoclonal antibody/fusion protein drugs&#xD;
+&#xD;
+         24. Female subjects who are pregnant, breast-feeding, or planning to become pregnant&#xD;
+             during the study&#xD;
+&#xD;
+         25. Uncontrolled mental illness and other conditions known to affect the completion of the&#xD;
+             study process, such as alcohol, drug or substance abuse and detention&#xD;
+&#xD;
+         26. Any other conditions that, in the investigator's judgment, may increase the risk of&#xD;
+             study participation, interfere with study results, or make study participation&#xD;
+             unsuitable&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Suqiang Yu</last_name>
+    <phone>+0518-82342973</phone>
+    <email>suqiang.yu@hengrui.com</email>
+  </overall_contact>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>July 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 1, 2022</study_first_posted>
+  <last_update_submitted>July 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

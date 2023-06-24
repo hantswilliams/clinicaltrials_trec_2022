@@ -1,0 +1,179 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05380804</url>
+  </required_header>
+  <id_info>
+    <org_study_id>09.2021.111</org_study_id>
+    <nct_id>NCT05380804</nct_id>
+  </id_info>
+  <brief_title>Cutaneous Silent Period Assessment in Primary Sjögren's Syndrome</brief_title>
+  <official_title>Comparison of Cutaneous Silent Period Parameters in Patients With Primary Sjögren's Syndrome With the Healthy Population and Determination of Its Relationship With Clinical Parameters</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Marmara University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Marmara University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Sjögren's syndrome (pSS) is a chronic, immune-mediated inflammatory disease mainly&#xD;
+      characterized by exocrine gland involvement. Beyond the wide heterogeneity in clinical&#xD;
+      presentation, neurological manifestation is one of the important systemic involvement of pSS.&#xD;
+      The prevalence of neurological involvement varies widely from 10% to 60% in different series.&#xD;
+&#xD;
+      Small fiber neuropathy (SFN) as a popular clinical entity in recent years targets nociceptive&#xD;
+      thinly myelinated A-delta and unmyelinated C-fiber nerves and is frequently associated with&#xD;
+      burning and allodynic pain. Previous studies have demonstrated that SFN is frequently seen in&#xD;
+      patients with pSS and has an important clinical importance because it cannot be detected by&#xD;
+      routine electrophysiological studies. Various methods can be used in the detection of SFN,&#xD;
+      and cutaneous silent period (CSP) measurement is gaining popularity recently due to its&#xD;
+      non-invasiveness and practical fashion.&#xD;
+&#xD;
+      In this study, the investigators aimed to compare CSP parameters as an indicator of SFN in&#xD;
+      patients with pSS and in the healthy population and to reveal its relationship with clinical&#xD;
+      parameters.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 4, 2021</start_date>
+  <completion_date type="Actual">February 28, 2022</completion_date>
+  <primary_completion_date type="Actual">January 28, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparing the prevalence of the small fiber neuropathy in both groups</measure>
+    <time_frame>At baseline</time_frame>
+    <description>Cutaneous silent period measurements are done for detecting small fiber neuropathy in both groups. The latency and duration of CSP are recorded.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the number of the patients with small fiber neuropathy and score of the clinical disease severity</measure>
+    <time_frame>At baseline</time_frame>
+    <description>For assessing clinical disease severity, EULAR Sjögren's Syndrome Patient Reported Index (ESSPRI) is used. The correlation between ESSPRI scores and CSP parameters is investigated. This assessment is done for only pSS group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the number of the patients with small fiber neuropathy and scores of quality of life assessment.</measure>
+    <time_frame>At baseline</time_frame>
+    <description>For assessing quality of life, Short Form-36 (SF-36) is used. The correlation between SF-36 scores and CSP parameters is investigated. This assessment is done for only pSS group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the number of the patients with small fiber neuropathy and scores of mood assessments.</measure>
+    <time_frame>At baseline</time_frame>
+    <description>For assessing mood, Hospital Anxiety and Depression Scale (HADS) is used. The correlation between HADS scores and CSP parameters is investigated. This assessment is done for only pSS group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the number of the patients with small fiber neuropathy and number of patients with neuropathic pain</measure>
+    <time_frame>At baseline</time_frame>
+    <description>For assessing neuropathic pain, Leeds Assessment of Neuropathic Symptoms and Signs (LANSS) is used. CSP parameters are compared between the patients with neuropathic pain according to the LANSS and the patients without neuropathic pain. This assessment is done for only pSS group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the number of the patients with small fiber neuropathy and number of patients with central sensitization</measure>
+    <time_frame>At baseline</time_frame>
+    <description>For assessing central sensitization, Central Sensitization Inventory (CSI) is used. CSP parameters are compared between the patients with central sensitization according to the CSI and the patients without central sensitization. This assessment is done for only pSS group.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">72</enrollment>
+  <condition>Small Fiber Neuropathy</condition>
+  <condition>Primary Sjögren Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Patients with primary Sjögren's syndrome</arm_group_label>
+    <description>Cutaneous silent period measurement was performed in patients with the primary Sjögren's syndrome classified according to the 2016 American College of Rheumatology (ACR)/ European Alliance of Associations for Rheumatology (EULAR) criteria.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy population</arm_group_label>
+    <description>Cutaneous silent period measurement was also performed in healthy population.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>cutaneous silent period (CSP) measurement</intervention_name>
+    <description>CSP recordings are performed in the upper extremities using the same surface bar recording electrodes. Filters are set at 2 Hertz (Hz) to 10 kilo Hz, sensitivity is 200 microVolts (µV) and sweep speed is set at 200 milliseconds (ms). Stimulating electrode is placed on the index finger and recording bar electrode is placed on the abductor pollicis brevis (APB) muscle. During steady submaximal (50% of the maximal contraction) thumb abduction, 10 consecutive painful electrical stimuli of standard 80-milli Ampere (mA) intensity and 0.5-ms duration are applied to the index finger and responses are superimposed. CSP latency and duration are calculated and recorded. CSP latency is defined as the time between the stimulation and the onset of the silent period. CSP duration is calculated as the time interval between the beginning and end of the CSP.</description>
+    <arm_group_label>Healthy population</arm_group_label>
+    <arm_group_label>Patients with primary Sjögren's syndrome</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population composed of two groups: the patient group including the participants&#xD;
+        diagnosed with pSS in accordance with the 2016 ACR/EULAR primary Sjögren's Syndrome&#xD;
+        classification criteria and the control group including the healthy participants.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Being between the ages of 18-65&#xD;
+&#xD;
+          -  For the patient group, patients followed up in accordance with the 2016 ACR/EULAR&#xD;
+             primary Sjögren's Syndrome classification criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any comorbidities that may cause neuropathy&#xD;
+&#xD;
+          -  Any drugs that may cause neuropathy&#xD;
+&#xD;
+          -  Chronic alcohol consumption&#xD;
+&#xD;
+          -  A history of disease that may affect the central nervous system&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ozge Kenis-Coskun, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Marmara University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Marmara University Pendik Education and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Pendik</state>
+        <zip>34899</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>January 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>May 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Small Fiber Neuropathy</keyword>
+  <keyword>Primary Sjögren Syndrome</keyword>
+  <keyword>Neuropathic Pain</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sjogren's Syndrome</mesh_term>
+    <mesh_term>Small Fiber Neuropathy</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

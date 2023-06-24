@@ -1,0 +1,189 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05481502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-A00472-41</org_study_id>
+    <secondary_id>2022/3404</secondary_id>
+    <nct_id>NCT05481502</nct_id>
+  </id_info>
+  <brief_title>An Exploratory Study to Evaluate Immune Determinants of the Response to Adoptive Cell Therapy (ACT) in Solid and Hematologic Tumors</brief_title>
+  <acronym>PIONEER</acronym>
+  <official_title>A Prospective Trial to Evaluate Immune Determinants of the Response and the Toxicity to Adoptive Cell Therapy (ACT) in Solid and Hematologic Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gustave Roussy, Cancer Campus, Grand Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gustave Roussy, Cancer Campus, Grand Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to explore the phenotypic and transcriptional changes of different cellular&#xD;
+      components in the tumor following the injection of somatic cell therapy drugs.&#xD;
+&#xD;
+      The second objective is to explore phenotypic and transcriptional changes of different&#xD;
+      cellular components in blood and bone marrow following injection of somatic cell therapy&#xD;
+      drugs.Then correlate the phenotypic and transcriptional profile of different tumor, blood and&#xD;
+      bone marrow immune populations with clinical response and/or toxicity. And to finish this&#xD;
+      study is designed in order to identify a phenotypic, transcriptional and epigenetic profile&#xD;
+      of intra-tumoral adoptive cells and correlate this profile with clinical response and/or&#xD;
+      toxicity.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 8, 2022</start_date>
+  <completion_date type="Anticipated">July 1, 2026</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparison of frequency, phenotype and transcriptional profile of the different immune subsets in the tumor following adoptive cell therapy infusion using spectral flow cytometry and RNA sequencing</measure>
+    <time_frame>3 months following ACT</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective Response</measure>
+    <time_frame>3 months following ACT</time_frame>
+    <description>Defined by RECIST 1.1 score for lymphoma and solid tumors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>5 years after first ACT infusion</time_frame>
+    <description>Defined as the time between the adoptive cell therapy and progression, or death whatever the cause, whichever occurs first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>5 years after first ACT infusion</time_frame>
+    <description>Defined as the time between the adoptive cell therapy injection and death whatever the cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of biopsies procedures (when applicable) graded according to CTCAE v5.0</measure>
+    <time_frame>From enrollment to 30 days after the last sample</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Solid Tumor, Adult</condition>
+  <condition>Solid Tumor, Childhood</condition>
+  <condition>Hematologic Cancer</condition>
+  <arm_group>
+    <arm_group_label>Patients receiving advanced therapy medicinal products</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Tumor biopsy</intervention_name>
+    <description>3 biopsies will be collected: at baseline, at day+15 and optionally at relapse</description>
+    <arm_group_label>Patients receiving advanced therapy medicinal products</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>7 blood samples (25ml) will be taken: at day-7 before treatment start, at day0, at day+3, day+7, day+15, month+3 and at relapse</description>
+    <arm_group_label>Patients receiving advanced therapy medicinal products</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bone marrow sample</intervention_name>
+    <description>If a bone marrow biopsy or aspiration is performed as part of routine care, 1 mL of bone marrow aspiration or one more biopsy will be sampled</description>
+    <arm_group_label>Patients receiving advanced therapy medicinal products</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient affiliated to a social security regimen&#xD;
+&#xD;
+          -  Tumor lesion accessible to core biopsies&#xD;
+&#xD;
+          -  Patient who is fully informed, able to comply with the protocol and who signed the&#xD;
+             informed consent&#xD;
+&#xD;
+          -  Pediatric patients &gt; than 2 years old can be included&#xD;
+&#xD;
+          -  No restriction about the Eastern Cooperative Oncology Group (ECOG) status&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Coagulation abnormality prohibiting a biopsy, (but patients can still give their&#xD;
+             consent for blood and bone marrow samples).&#xD;
+&#xD;
+          -  Tumor lesion not accessible to core biopsies.&#xD;
+&#xD;
+          -  Pregnant or nursing women cannot participate in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Camille BIGENWALD, Dr</last_name>
+    <phone>+33(0)142114229</phone>
+    <email>camille.bigenwald@gustaveroussy.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cristina CASTILLA LLORENTE, Dr</last_name>
+    <phone>+33(0)142114239</phone>
+    <email>cristina.castilla-llorente@gustaveroussy.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gustave Roussy Cancer Campus Grand Paris</name>
+      <address>
+        <city>Villejuif</city>
+        <state>Val De Marne</state>
+        <zip>94805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Camille BIGENWALD, Dr</last_name>
+      <phone>+33(0)142114229</phone>
+      <email>camille.bigenwald@gustaveroussy.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Clementine MAHAUT</last_name>
+      <phone>+33(0)142112334</phone>
+      <email>clementine.mahaut@gustaveroussy.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 1, 2022</study_first_posted>
+  <last_update_submitted>July 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,211 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT00739908"
+    ],
+    "org_study_id": [
+        "CX157-200"
+    ],
+    "nct_id": [
+        "NCT00739908"
+    ],
+    "brief_title": [
+        "A Study of CX157 (TriRima) for the Treatment of Depression"
+    ],
+    "acronym": [
+        "CX157-200"
+    ],
+    "official_title": [
+        "A Randomized, Double-Blind, Placebo-Controlled Parallel-Group, Assessment of the Efficacy, Safety and Tolerability of CX157 (TriRima) 60mg Three Times a Day (TID) in Subjects With Major Depressive Disorder"
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "CeNeRx BioPharma Inc."
+    ],
+    "has_dmc": [
+        "Yes"
+    ],
+    "textblock": [
+        "The purpose of this study is to examine the efficacy of CX157 60 mg administered three times\r\n      a day (180 mg daily dose) as compared to placebo in subjects with Major Depressive Disorder\r\n      (MDD). Secondary objectives are to evaluate the safety and tolerability and steady state\r\n      pharmacokinetic profile of CX157 in these subjects.",
+        "This is a Phase II, randomized, double-blind, placebo-controlled, parallel-group,\r\n      multi-center study comparing the efficacy, safety and tolerability of CX157 60mg TID and\r\n      placebo. This study will be conducted at approximately 12 investigative sites in the US.\r\n\r\n      Subjects with suspected Major Depressive Disorder (MDD) and experiencing a Major Depressive\r\n      Episode (MDE) who the investigator wishes to consider for enrollment in the study and who\r\n      provide written informed consent will initially be evaluated by the Inventory of Depressive\r\n      Symptomatology 30 item -Self Report (IDS-SR30) administered via Interactive Voice Response\r\n      System (IVRS). Subjects who meet the minimum score of 40 on the IDS-SR30 will proceed with\r\n      the remaining study related assessments at the Screening visit. Those subjects who meet all\r\n      inclusion criteria and none of the exclusion criteria will enter a one to two week Screening\r\n      period to confirm eligibility and to capture Screening data prior to Randomization. At the\r\n      Randomization visit, all eligibility requirements will be reconfirmed. The subjects who meet\r\n      all criteria will be randomized to study medication and enter into a six-week treatment\r\n      period and a subsequent one week Follow-Up period. The total duration of participation for\r\n      subjects who complete all phases of the study will be approximately 8-9 weeks. During the\r\n      treatment period, clinic visits will occur at Week 1, Week 2, Week 4, and Week 6. A\r\n      subsequent clinic visit will occur at the end of the one week Follow-Up period. The clinical\r\n      site will contact the subjects via telephone at Weeks 3 and 5 to inquire about their\r\n      wellbeing, query about adverse events and administer the suicidality scale.\r\n\r\n      Eligible subjects will be randomized (1:1) to receive:\r\n\r\n        -  CX157 60mg three times a day (TID) for a total daily dose of 180 mg, or\r\n\r\n        -  Placebo administered three times a day.\r\n\r\n      Subjects who discontinue from the study for any reason will not be replaced."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "start_date": [
+        "September 2008"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Estimate",
+        "Estimate",
+        "Estimate"
+    ],
+    "completion_date": [
+        "July 2009"
+    ],
+    "primary_completion_date": [
+        "July 2009"
+    ],
+    "phase": [
+        "Phase 2"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Randomized"
+    ],
+    "intervention_model": [
+        "Parallel Assignment"
+    ],
+    "primary_purpose": [
+        "Treatment"
+    ],
+    "masking": [
+        "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    ],
+    "measure": [
+        "Change From Randomization in Montgomery and Asberg Depression Rating Scale (MADRS)",
+        "Montgomery and Asberg Depression Rating Scale (MADRS) Response Rate",
+        "Montgomery and Asberg Depression Rating Scale (MADRS) Remitter Rate",
+        "The Hospital Anxiety and Depression Scale (HADS)",
+        "Inventory of Depressive Symptomatology 30 Item -Self Report (IDS -SR 30 Items)",
+        "Clinical Global Impression - Improvement of Illness (CGI-I)",
+        "Clinical Global Impression - Severity of Illness (CGI-S)"
+    ],
+    "time_frame": [
+        "Randomization and study end (Week 6).",
+        "Week 6 or the last available post treatment result (LOCF)",
+        "Week 6 or the last available post treatment result (LOCF)",
+        "Randomization and Week 6 or the last available post treatment result (LOCF)",
+        "Randomization and Week 6 or the last available post treatment result (LOCF)",
+        "Week 6 or the last available post treatment result (LOCF)",
+        "Week 6 or the last available post treatment result (LOCF)"
+    ],
+    "description": [
+        "The Montgomery-Asberg Depression Rating Scale (MADRS) is a 10-item checklist designed to measure the overall severity of depressive symptoms in patients with MDD [Montgomery, 1979]. Items are rated on a scale of 0-6, with scores ranging from 0 to 60 with 0 being symptom free and 60 being the most severe depression. MADRS was assessed at randomization and Weeks 1, 2, 4 and 6 of the study.",
+        "MADRS is a 10-item checklist designed to measure the overall severity of depressive symptoms in patients with MDD [Montgomery, 1979]. Items are rated on a scale of 0-6, with scores ranging from 0 to 60 with 0 being symptom free and 60 being the most severe depression. Percentage of participants who achieved a reduction in total MADRS score of at least 50% or more as compared to baseline. MADRS was assessed at randomization and Weeks 1, 2, 4, and 6 of the study. MADRS Responder rate at Week 6 or the last available post treatment result (LOCF) is reported here.",
+        "Percentage of participants with total MADRS score of 11 or less. MADRS was assessed at randomization and Weeks 1, 2, 4, and 6 of the study. MADRS Remitter rate at Week 6 or the last available post treatment result (LOCF)is reported here.",
+        "HADS is a subject-rated questionnaire designed to detect states of anxiety and depression. The HADS consists of 14 questions relating to anxiety or depression, each with a choice of four responses [Zigmond, 1983]. These responses are numerically scored 0-3, with 0 representing the least severe response and 3 representing the most severe response. The highest possible total score is 42. HADS was assessed at randomization and Weeks 1, 2, 4, and 6 of the study. Change from randomization in the HADS total score at Week 6 or the last available post treatment result (LOCF) is reported here.",
+        "IDSR-SR 30 measures the severity of depressive symptoms by subjects. This scale has 30 items. The minimum score is 0 and the maximum possible IDS-30 score is 90 (the highest severity). IDS-SR30 was administered at screening, randomization and Weeks 1, 2, 4, and 6. Change from randomization in the IDS-SR30 total score at Week 6 or the last available post treatment result (LOCF) is reported here.",
+        "The Clinical Global Impression - Improvement of Illness (CGI-I) was rated on a 7-point scale by the investigator to measure subject's total improvement compared to his/her condition at randomization according to the following scale: 0 = not assessed, 1 = very much improved, 2 = much improved, 3 = minimally improved, 4 = no change, 5 = minimally worse, 6 = much worse, and 7 = very much worse. CGI-I was measured at Weeks 1, 2, 4 and 6. Percentage of participants \"very much improved\" and \"much improved\" at Week 6 or the last available post treatment result (LOCF) is reported here.",
+        "CGI-S measures the study rater's assessment of the severity of depression illness. CGI-S is rated on a scale of 1-7 as follows: 0 = not assessed, 1 = normal, not at all ill, 2 = borderline mentally ill, 3 = mildly ill, 4 = moderately ill, 5 = markedly ill, 6 = severely ill, and 7 = among the most extremely ill patients. CGI-S was measured at randomization and Weeks 1, 2, 4 and 6. Percentage of subjects reported as normal, not at all ill; borderline mentally ill; and mildly ill is reported here at Week 6 or the last available post treatment result (LOCF).",
+        "Six capsules administered three times a day for six weeks.",
+        "Six capsules administered three times a day for six weeks."
+    ],
+    "number_of_arms": [
+        2.0
+    ],
+    "enrollment": [
+        285.0
+    ],
+    "condition": [
+        "Major Depressive Disorder"
+    ],
+    "arm_group_label": [
+        "CX157 (TriRima)",
+        "Placebo",
+        "CX157 (TriRima)",
+        "Placebo"
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Placebo Comparator"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "CX157 (TriRima)",
+        "Placebo"
+    ],
+    "other_name": [
+        "Sugar Pill"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [
+        "60 Years"
+    ],
+    "healthy_volunteers": [
+        "No"
+    ],
+    "last_name": [
+        "Daniel Burch, MD"
+    ],
+    "role": [
+        "Study Director"
+    ],
+    "affiliation": [
+        "CeNeRx BioPharma Inc."
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "verification_date": [
+        "June 2012"
+    ],
+    "study_first_submitted": [
+        "August 20, 2008"
+    ],
+    "study_first_submitted_qc": [
+        "August 21, 2008"
+    ],
+    "study_first_posted": [
+        "August 22, 2008"
+    ],
+    "results_first_submitted": [
+        "February 14, 2012"
+    ],
+    "results_first_submitted_qc": [
+        "June 26, 2012"
+    ],
+    "results_first_posted": [
+        "June 27, 2012"
+    ],
+    "last_update_submitted": [
+        "June 26, 2012"
+    ],
+    "last_update_submitted_qc": [
+        "June 26, 2012"
+    ],
+    "last_update_posted": [
+        "June 27, 2012"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "MDD"
+    ],
+    "mesh_term": [
+        "Depressive Disorder, Major"
+    ],
+    "participant_flow": [],
+    "baseline": [],
+    "outcome_list": [],
+    "reported_events": [],
+    "certain_agreements": [],
+    "limitations_and_caveats": [
+        "Subjects were asked to take 6 capsules 3 times a day for 6 weeks. Non-adherence with the study medication was high based on the population PK data. This likely contributed to the results in CX157 treatment group."
+    ],
+    "point_of_contact": []
+}

@@ -1,0 +1,175 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381896</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Bakircaymzeren06</org_study_id>
+    <nct_id>NCT05381896</nct_id>
+  </id_info>
+  <brief_title>The Effect of Inspiratory Muscle Training on Postural Stability, Posture Perception and Trunk Rotation in Children With Adolescent Idiopathic Scoliosis.</brief_title>
+  <official_title>The Effect of Inspiratory Muscle Training on Postural Stability, Posture Perception and Trunk Rotation in Children With Adolescent Idiopathic Scoliosis.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Izmir Bakircay University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bezmialem Vakif University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Istanbul Kent University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Izmir Bakircay University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Trunk rotation and distortion of the rib cage, which are common in patients with adolescent&#xD;
+      idiopathic scoliosis, result in abnormal configuration of the diaphragm and intercostal&#xD;
+      muscles. This reduces the capacity of the respiratory muscles to produce force, and results&#xD;
+      in respiratory muscle weakness. The diaphragm, which is the major respiratory muscle, is also&#xD;
+      a component of the core muscles responsible for postural stability. Therefore, diaphragm&#xD;
+      muscle weakness results in deterioration of postural stability. Our aim in this study is to&#xD;
+      investigate the effect of inspiratory muscle training added to the routine scoliosis exercise&#xD;
+      program on postural stability and posture perception.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 23, 2022</start_date>
+  <completion_date type="Actual">December 23, 2022</completion_date>
+  <primary_completion_date type="Actual">December 23, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline postural stability test score in Biodex Balance System SD at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline limits of stability test score in Biodex Balance System SD at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline &quot;Walter Reed Visual Assessment Scale&quot; at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Walter Reed Visual Assessment Scale evaluates posture perception. It consists of a visual test including seven items that deal with various aspects of the deformity. Each question has a set of five figures that represent degrees of severity of the deformity: spinal deformity, rib prominence, lumbar prominence, thoracic deformity, trunk imbalance, shoulder asymmetry and scapular asymmetry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline maximum inspiratory pressure (MIP) at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline maximum expiratory pressure (MEP) at 8 weeks</measure>
+    <time_frame>8 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline angle of trunk rotation at 8 weeks.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Angle of trunk rotation will be evaluated using Bunnell scoliometer in forward bending position</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Adolescent Scoliosis</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients in this group will receive conventional scoliosis exercise program for 1 hour, 6 days a week for 8 weeks. One exercise session will be supervised in a clinic per week, other sessions will be performed at home.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Training Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to the conventional scoliosis exercise program, patients in this group will also receive inspiratory muscle training for 15 minutes, twice a day, 6 days a week for 8 weeks. One exercise session will be supervised in a clinic per week, other sessions will be performed at home.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Conventional Scoliosis Exercise Program</intervention_name>
+    <description>Program will include breathing exercises, spinal stabilization and strengthening exercises, posture exercises and stretching execises.</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Training Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Inspiratory Muscle Training</intervention_name>
+    <description>Threshold IMT device will be used for the training. Training intensity will set at 30% of the maximum inspiratory pressure.</description>
+    <arm_group_label>Training Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Having adolescent idiopathic scoliosis with a Cobb angle of 20-50° diagnosed by an&#xD;
+             orthopedic surgeon&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Having a documented diagnosis of neurological disorders&#xD;
+&#xD;
+          -  Having a documented diagnosis of mental disorders which may affect cooperation&#xD;
+&#xD;
+          -  Having a documented diagnosis of chronic airway diseases&#xD;
+&#xD;
+          -  Having a documented diagnosis of orthopedic disorders which may affect mobility&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Bezmialem Vakif University</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>February 2023</verification_date>
+  <study_first_submitted>May 16, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>February 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>February 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 22, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Izmir Bakircay University</investigator_affiliation>
+    <investigator_full_name>Melih Zeren</investigator_full_name>
+    <investigator_title>asst. prof.</investigator_title>
+  </responsible_party>
+  <keyword>postural stability</keyword>
+  <keyword>posture perception</keyword>
+  <keyword>inspiratory muscle training</keyword>
+  <keyword>adolescent idiopathic scoliosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Scoliosis</mesh_term>
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,181 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT00739947",
+        "https://trialinfoemail.pfizer.com/pages/landing.aspx?StudyID=3202V1-1000&StudyName=Arthroscopic%20Surgical%20Outcome%20Study%20In%20Subjects%20With%20Rotator%20Cuff%20Tears"
+    ],
+    "org_study_id": [
+        "3202V1-1000"
+    ],
+    "secondary_id": [
+        "B1861001"
+    ],
+    "nct_id": [
+        "NCT00739947"
+    ],
+    "brief_title": [
+        "Arthroscopic Surgical Outcome Study In Subjects With Rotator Cuff Tears"
+    ],
+    "official_title": [
+        "A PROSPECTIVE STUDY TO EVALUATE SURGICAL OUTCOMES IN SUBJECTS WITH FULL-THICKNESS ROTATOR CUFF TEARS TREATED BY MEANS OF A DOUBLE-ROW ARTHROSCOPIC REPAIR."
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "Pfizer"
+    ],
+    "has_dmc": [
+        "No"
+    ],
+    "textblock": [
+        "This is an observational study that involves subjects with full-thickness rotator cuff tears\r\n      treated by means of arthroscopy surgical repair, also known as arthroscopic surgery. The\r\n      primary objective of this study is to observe the timing and rate of tendon retear in those\r\n      subjects.",
+        "Subjects will be recruited from each surgeon's surgical practice. They will be reviewed to\r\n      assure they meet all eligibility criteria prior to enrolling them into the study."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Estimate",
+        "Actual"
+    ],
+    "start_date": [
+        "October 13, 2008"
+    ],
+    "completion_date": [
+        "July 5, 2011"
+    ],
+    "primary_completion_date": [
+        "July 5, 2011"
+    ],
+    "study_type": [
+        "Observational"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "observational_model": [
+        "Cohort"
+    ],
+    "time_perspective": [
+        "Prospective"
+    ],
+    "measure": [
+        "The primary objective is to observe the rate and timing of tendon retear in subjects with full thickness rotator cuff tears (RCTs) treated by means of arthroscopic surgery.",
+        "Determine the correlation of functional outcomes over time in subjects with retears compared with subjects who have an intact cuff repair using the Constant Murley Shoulder Score as well as strength and range of motion.",
+        "Determination of the correlation between imaging biomarkers (muscle atrophy and fatty infiltration) and the subjects outcome (retear and function).",
+        "Estimation of the relationship between patient reported outcomes and subject's surgical and functional outcomes.",
+        "Evaluation of the ability to define",
+        "Observation of any comorbidity associated with the arthroscopic surgical procedure through the collection of adverse events to provide and SOC reference for future safety studies."
+    ],
+    "time_frame": [
+        "1 year",
+        "1 year",
+        "1 year",
+        "1 year",
+        "1 year",
+        "1 year"
+    ],
+    "number_of_groups": [
+        1.0
+    ],
+    "enrollment": [
+        162.0
+    ],
+    "condition": [
+        "Rotator Cuff",
+        "Arthroscopic Surgery"
+    ],
+    "arm_group_label": [
+        1.0,
+        1.0
+    ],
+    "description": [
+        "Standard of Care",
+        "Subjects return for 7 follow-up visits following arthroscopic repair of their rotator cuff. During the follow-up visits subjects undergo imaging with MRI and ultrasound.",
+        "To obtain contact information for a study center near you, click here."
+    ],
+    "intervention_type": [
+        "Other"
+    ],
+    "intervention_name": [
+        "Observational study of the surgical outcome"
+    ],
+    "study_pop": [],
+    "sampling_method": [
+        "Non-Probability Sample"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "21 Years"
+    ],
+    "maximum_age": [
+        "75 Years"
+    ],
+    "healthy_volunteers": [
+        "No"
+    ],
+    "last_name": [
+        "Pfizer CT.gov Call Center"
+    ],
+    "role": [
+        "Study Director"
+    ],
+    "affiliation": [
+        "Pfizer"
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "verification_date": [
+        "February 2021"
+    ],
+    "study_first_submitted": [
+        "August 21, 2008"
+    ],
+    "study_first_submitted_qc": [
+        "August 21, 2008"
+    ],
+    "study_first_posted": [
+        "August 22, 2008"
+    ],
+    "last_update_submitted": [
+        "February 12, 2021"
+    ],
+    "last_update_submitted_qc": [
+        "February 12, 2021"
+    ],
+    "last_update_posted": [
+        "February 16, 2021"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "Observational",
+        "rotator cuff tear",
+        "arthroscopic",
+        "surgical",
+        "outcome study"
+    ],
+    "mesh_term": [
+        "Rotator Cuff Injuries"
+    ],
+    "sharing_ipd": [
+        "No"
+    ],
+    "ipd_description": [
+        "Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests."
+    ]
+}

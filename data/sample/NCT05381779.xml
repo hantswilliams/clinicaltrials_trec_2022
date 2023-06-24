@@ -1,0 +1,317 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381779</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Gazi University4</org_study_id>
+    <nct_id>NCT05381779</nct_id>
+  </id_info>
+  <brief_title>Comparison the Effects of Inspiratory Muscle Training and Aerobic Exercise Training in Patients With Post COVID-19</brief_title>
+  <official_title>Comparison the Effects of Inspiratory Muscle Training and High Intensity Interval Aerobic Exercise Training in Patients With Post COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gazi University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gazi University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus-2019 (COVID-19) is a new virus that emerged in December 2019 and spread quickly&#xD;
+      all over the world. Problems such as hypoxia, dyspnea, increased fatigue, decreased exercise&#xD;
+      capacity and respiratory muscle strength occur in COVID-19 patients.In addition,&#xD;
+      abnormalities in skeletal muscles due to systemic inflammation, mechanical ventilation,&#xD;
+      sedation and prolonged bed rest in hospital and intensive care patients cause decreased&#xD;
+      exercise capacity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dyspnea is one of the most common long-term symptoms in COVID-19 patients. It has been&#xD;
+      determined that dyspnea that persists three and six months after hospital discharge is&#xD;
+      associated with peak oxygen consumption in hospitalized and discharged COVID-19 patients,&#xD;
+      while peak oxygen consumption decreases in patients with dyspnea.The effects of inspiratory&#xD;
+      muscle training have been investigated in different lung diseases. In these studies, it was&#xD;
+      reported that inspiratory muscle training increased respiratory muscle strength and&#xD;
+      endurance, exercise capacity and quality of life, and decreased fatigue and dyspnea. In&#xD;
+      addition, it has been found that high-intensity interval aerobic exercise training increases&#xD;
+      exercise capacity in patients with lung disease and heart failure.In heart failure patients,&#xD;
+      it was found that high-intensity interval aerobic exercise training increased peak oxygen&#xD;
+      consumption more than moderate-intensity continuous aerobic exercise training.Patients need&#xD;
+      exercise training because symptoms such as lung involvement, decreased exercise capacity,&#xD;
+      dyspnea and fatigue continue after the disease in patients who have had COVID-19.&#xD;
+&#xD;
+      The aim of this study is to comparison of the effects of inspiratory muscle training and high&#xD;
+      intensity interval aerobic exercise training in patients with COVID-19.&#xD;
+&#xD;
+      Primary outcome measurement will be oxygen consumption (cardiopulmonary exercise test).&#xD;
+&#xD;
+      Secondary outcome will be muscle oxygenation (Moxy device), physical activity level (multi&#xD;
+      sensor activity device), pulmonary function (spirometer), functional exercise capacity&#xD;
+      (six-minute walk test), respiratory (mouth pressure device) and peripheral muscle (hand-held&#xD;
+      dynamometer) strength, inspiratory muscle endurance (incremental threshold loading test),&#xD;
+      functional status (Post-COVID-19 Functional Status Scale), dyspnea (London Chest Daily Living&#xD;
+      Activity Scale), fatigue (Fatigue Severity Scale) and quality of life (Saint George&#xD;
+      Respiratory Questionnaire).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 5, 2022</start_date>
+  <completion_date type="Anticipated">August 5, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 5, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Triple (Participant, Investigator, Outcomes Assessor)Triple-blind study; the patients will not be informed about their groups (training group or the control group) and they will be evaluated and trained at different places and times.&#xD;
+Evaluations and interventions will be performed different physiotherapist. In addition, before statistical analysis patients' groups will be coded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxygen consumption</measure>
+    <time_frame>First Day</time_frame>
+    <description>Maximal exercise capacity will be assessed with symptom limited cardiopulmonary exercise test on a treadmill at a progressively increasing speed and grade. Oxygen consumption will be measured during the test.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Muscle Oxygenation</measure>
+    <time_frame>First and second day</time_frame>
+    <description>Muscle oxygenation will be measured with 'Moxy' muscle oxygenation device during cardiopulmonary exercise test and six-minute walk test. Measurements will be done over quadriceps femoris, locally. Local muscle oxygen saturation and total hemoglobin amount will be assessed during the both tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical activity level</measure>
+    <time_frame>Second day</time_frame>
+    <description>Physical activity level will be evaluated with multi sensor activity device. Patients will be asked to wear the device for five consecutive days on weekdays.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional exercise capacity</measure>
+    <time_frame>Second day</time_frame>
+    <description>Six-minute walk test will be used to evaluate functional exercise capacity. The test will be done according to American Thoracic Society and European Respiratory Society criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory muscle strength</measure>
+    <time_frame>Second day</time_frame>
+    <description>Respiratory muscle strength will be assessed with mouth pressure device. Maximal inspiratory and expiratory pressure will be measured during the test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral muscle strength</measure>
+    <time_frame>Second day</time_frame>
+    <description>Quadriceps femoris and shoulder abduction muscle strength will be measured by using hand-held dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inspiratory muscle endurance</measure>
+    <time_frame>Second day</time_frame>
+    <description>Inspiratory muscle endurance will be measured incremental threshold loading test, in which patients started an initial load of 30% of maximal inspiratory pressure and test load will be increased with among 10% of maximal inspiratory pressure every 2 minutes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional status</measure>
+    <time_frame>First day</time_frame>
+    <description>Functional status of patients after COVID-19 will be evaluated with Post COVID-19 Functional Status Scale (PCFS), which was developed specifically for COVID patients. Limitation and improvement in the functional status of patients after COVID could be assessed with this scale. Functional status were graded from 0 (no functional limitations) to 4 (severe functional limitations) in the scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnea</measure>
+    <time_frame>First day</time_frame>
+    <description>London Chest Activity of Daily Living scale (LCADL): LCADL evaluates the limitation to perform activities of daily living by dyspnea and looks at four domains: selfcare, domestic, physical and leisure. It is composed of 15 items, which are scored by the patient as follows: 0 (I do not perform this activity because I never had to do it or it is irrelevant), 1 (I do not feel any breathless when performing this activity), 2 (I feel moderate breathless when performing this activity), 3 (I feel a lot of breathless in doing this activity), 4 (I cannot perform this activity due to breathless and I have no one who can do the activity for me) or 5 (I cannot perform this activity anymore and I need someone to do it for me or help me because of breathless).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Associated Quality of Life (respiratory)</measure>
+    <time_frame>First Day</time_frame>
+    <description>St. George Respiratory Questionnaire (Turkish version) (respiratory) - St. George Respiratory Questionnaire (SGRQ) is a self-reported questionnaire. SGRQ evaluates patients' respiratory disease associated quality of life. This questionnaire includes 2 part (part one is about symptoms (one subsection) and part two is about activity (seven subsection)) and 50 items. Some items scored as Likert scale and others scored as dichotomous (true/false).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Aerobic Exercise</condition>
+  <condition>Inspiratory Muscle Training</condition>
+  <condition>Physical Activity</condition>
+  <condition>Oxygen Consumption</condition>
+  <arm_group>
+    <arm_group_label>Inspiratory Muscle Training Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the training group will be performed inspiratory muscle training with the PowerBreathe® (inspiratory muscle training device) device at 50% of the maximal inspiratory pressure.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Intensity Interval Training Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Training group will receive high-intensity interval aerobic exercise training on treadmill accompanied by physiotherapist for 8 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Breathing exercises will be given to control group as a home program for 8 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Inspiratory Muscle Training Group</intervention_name>
+    <description>Patients in the training group will receive inspiratory muscle training with the PowerBreathe® (inspiratory muscle training device) at 50% of the maximal inspiratory pressure.&#xD;
+Patients in the training group inspiratory muscle training will be given 2 sets of 15 minutes a day for a total of 30 minutes/per day or a single session for 30 minutes/week, 7 days/week for a total of 8 weeks.&#xD;
+Patients in the training group will be given respiratory muscle strength training with a home program 6 days a week under the supervision of a physiotherapist 1 day a week.</description>
+    <arm_group_label>Inspiratory Muscle Training Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>High Intensity Interval Training Group</intervention_name>
+    <description>High-intensity interval aerobic exercise training will be given to training group on treadmill 3 days in a week and 15-45 minutes in a day for 8 weeks with the assistance of a physiotherapist.&#xD;
+The training workload of the active phase of high-intensity interval aerobic exercise training will be applied at 80-100% of peak oxygen consumption or 85-95% of peak heart rate or according to Borg scale dyspnea/fatigue 15-18 points.&#xD;
+The training workload of the active recovery phase of high-intensity interval aerobic exercise training will be applied at 50-60% of peak oxygen consumption or 60-75% of peak heart rate or according to Borg scale dyspnea/fatigue 11-13 points.</description>
+    <arm_group_label>High Intensity Interval Training Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control Group</intervention_name>
+    <description>Breathing exercises will be given to the control group 120 times in a day and 7 days in a week for 8 weeks as a home program. The control group will be followed-up by telephone once a week.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Between the ages of 18-75&#xD;
+&#xD;
+          -  Diagnosed with COVID-19&#xD;
+&#xD;
+          -  COVID-19 Polymerase Chain Reaction (PCR) test result negative&#xD;
+&#xD;
+          -  Volunteer to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index &gt;35 kg/m2&#xD;
+&#xD;
+          -  Acute pulmonary exacerbation, acute upper or lower respiratory tract infection&#xD;
+&#xD;
+          -  Aortic stenosis, complex arrhythmia, aortic aneurysm&#xD;
+&#xD;
+          -  Serious neurological, neuromuscular, orthopedic, other systemic diseases or other&#xD;
+             diseases affecting physical functions&#xD;
+&#xD;
+          -  Cognitive impairment that causes difficulty in understanding and following exercise&#xD;
+             test instructions&#xD;
+&#xD;
+          -  Participated in a planned exercise program in the last three months&#xD;
+&#xD;
+          -  Bulla formation in the lung&#xD;
+&#xD;
+          -  Uncontrolled hypertension and/or diabetes mellitus, heart failure and cardiovascular&#xD;
+             disease&#xD;
+&#xD;
+          -  Contraindication for exercise testing and/or exercise training according to the&#xD;
+             American College of Sports Medicine&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Başak KAVALCI KOL, Pt. MSc.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ece BAYTOK, Pt. MSc.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nilgün YILMAZ DEMİRCİ, Assoc. Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Meral BOŞNAK GÜÇLÜ, Prof.Dr.</last_name>
+    <phone>+903122162647</phone>
+    <email>meralbosnak@gazi.edu.tr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Başak KAVALCI KOL, Pt. MSc.</last_name>
+    <email>kavalcibasak@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Gazi University, Faculty of Health Sciences, Department of Physiotherapy and Rehabilitation, Cardiopulmonary Rehabilitation Clinic</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06560</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meral Boşnak Güçlü, Prof. Dr.</last_name>
+      <phone>+903122162647</phone>
+      <email>meralbosnak@gazi.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Başak Kavalcı Kol, Pt. MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Debeaumont D, Boujibar F, Ferrand-Devouge E, Artaud-Macari E, Tamion F, Gravier FE, Smondack P, Cuvelier A, Muir JF, Alexandre K, Bonnevie T. Cardiopulmonary Exercise Testing to Assess Persistent Symptoms at 6 Months in People With COVID-19 Who Survived Hospitalization: A Pilot Study. Phys Ther. 2021 Jun 1;101(6):pzab099. doi: 10.1093/ptj/pzab099.</citation>
+    <PMID>33735374</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Abodonya AM, Abdelbasset WK, Awad EA, Elalfy IE, Salem HA, Elsayed SH. Inspiratory muscle training for recovered COVID-19 patients after weaning from mechanical ventilation: A pilot control clinical study. Medicine (Baltimore). 2021 Apr 2;100(13):e25339. doi: 10.1097/MD.0000000000025339.</citation>
+    <PMID>33787632</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Anastasio F, Barbuto S, Scarnecchia E, Cosma P, Fugagnoli A, Rossi G, Parravicini M, Parravicini P. Medium-term impact of COVID-19 on pulmonary function, functional capacity and quality of life. Eur Respir J. 2021 Sep 16;58(3):2004015. doi: 10.1183/13993003.04015-2020. Print 2021 Sep.</citation>
+    <PMID>33574080</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Carfi A, Bernabei R, Landi F; Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent Symptoms in Patients After Acute COVID-19. JAMA. 2020 Aug 11;324(6):603-605. doi: 10.1001/jama.2020.12603.</citation>
+    <PMID>32644129</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sawyer A, Cavalheri V, Hill K. Effects of high intensity interval training on exercise capacity in people with chronic pulmonary conditions: a narrative review. BMC Sports Sci Med Rehabil. 2020 Mar 30;12:22. doi: 10.1186/s13102-020-00167-y. eCollection 2020.</citation>
+    <PMID>32257221</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Donelli da Silveira A, Beust de Lima J, da Silva Piardi D, Dos Santos Macedo D, Zanini M, Nery R, Laukkanen JA, Stein R. High-intensity interval training is effective and superior to moderate continuous training in patients with heart failure with preserved ejection fraction: A randomized clinical trial. Eur J Prev Cardiol. 2020 Nov;27(16):1733-1743. doi: 10.1177/2047487319901206. Epub 2020 Jan 21.</citation>
+    <PMID>31964186</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Karadalli MN, Bosnak-Guclu M, Camcioglu B, Kokturk N, Turktas H. Effects of Inspiratory Muscle Training in Subjects With Sarcoidosis: A Randomized Controlled Clinical Trial. Respir Care. 2016 Apr;61(4):483-94. doi: 10.4187/respcare.04312. Epub 2015 Dec 29.</citation>
+    <PMID>26715771</PMID>
+  </results_reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>May 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>July 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gazi University</investigator_affiliation>
+    <investigator_full_name>Meral Boşnak Güçlü</investigator_full_name>
+    <investigator_title>Study director, PT, PhD, Prof.Dr. Faculty of Health Sciences, Department of Physiotherapy and Rehabilitation, Head of Cardiopulmonary Rehabilitation Clinic</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

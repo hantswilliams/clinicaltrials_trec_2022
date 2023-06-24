@@ -1,0 +1,262 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05381194</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BPaL</org_study_id>
+    <nct_id>NCT05381194</nct_id>
+  </id_info>
+  <brief_title>BPaL Regimen in FQ Resistant MDR-TB</brief_title>
+  <official_title>The 6-month BPaL Regimen for the Treatment of Patients With Fluoroquinolone Resistant MDR-TB: Multicenter, Single-arm, Operational Research, Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Funded by Korea Disease Control and Prevent Agency</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Masan National Tuberculosis Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pusan National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Severance Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chonnam National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>International Tuberculosis Research Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Investigational drug(Pretomanid) supported by Viatris Pharmaceutical</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Asan Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to analyze the efficacy of a new regimen using Bedaquiline,&#xD;
+      Pretomanid, and Linezolid for 26 weeks (6 months) for the treatment of FQ-resistant MDR-TB&#xD;
+      through the clinical trial. The recently completed Zenix trial observed that lower doses&#xD;
+      and/or shorter durations of linezolid than 1200mg for 6 months appear to have high efficacy&#xD;
+      and improved safety. Therefore, the primary objective of this study is to analyze the&#xD;
+      effectiveness and safety of the BPaL regimen including modified dosing of linezolid for the&#xD;
+      patients with fluoroquinolone-resistant MDR-TB.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 1, 2022</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2027</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A microbiological failure or clinical failure or relapse</measure>
+    <time_frame>until 12 months after the end of treatment</time_frame>
+    <description>A microbiological failure or clinical failure or relapse during the treatment period and the 12-month follow-up period after end of treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to sputum culture conversion during the treatment period</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Analyze the time to liquid and solid culture conversion and estimate the median value using the Kaplan-Meier Method</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of culture-negative patients at specific times (weeks 4, 8, 12, 16, and 26)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Frequency analysis of liquid and solid culture conversion at a specific time point</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prescribed dose of Linezolid</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Analyze the actual dose of linezolid prescribed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Analyze the frequency and fraction of deaths and estimate the median using the Kaplan-Meier Method</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Pre-XDR-TB</condition>
+  <arm_group>
+    <arm_group_label>single arm (investigational arm)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BPaL</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BPaL regimen</intervention_name>
+    <description>The regimen consists of only oral medication using bedaquiline, linezolid, and pretomanid for 26 weeks.&#xD;
+Bedaquiline (400 mg/day for the 2 weeks, 200mg/TIW afterward). Pretomanid 200mg/day. Linezolid 600mg/day for the 9 weeks, 300mg/day afterward.</description>
+    <arm_group_label>single arm (investigational arm)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. At least 19 years old at enrolment&#xD;
+&#xD;
+          2. Bodyweight over 35Kg&#xD;
+&#xD;
+          3. If culture positive in sputum or bronchoscopy specimen within 3 months of screening&#xD;
+             and confirmed as MDR-TB in the rapid or conventional DST.&#xD;
+&#xD;
+          4. Confirmed as resistance to fluoroquinolones in rapid and/or genotypic DST&#xD;
+&#xD;
+          5. If tuberculosis is confirmed by chest radiologic imaging&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Uncontrolled DM&#xD;
+&#xD;
+          2. Extrapulmonary TB that would require treatment longer than would be usual for&#xD;
+             pulmonary TB&#xD;
+&#xD;
+          3. Less than 30 Karnofsky score at enrolment&#xD;
+&#xD;
+          4. BMI less than 17&#xD;
+&#xD;
+          5. Known severe allergy to any of the BPaL component drugs&#xD;
+&#xD;
+          6. Medical history of Glucose-galactose malabsorption, galactose intolerance, and Lapp&#xD;
+             lactase deficiency&#xD;
+&#xD;
+          7. HIV-positive&#xD;
+&#xD;
+          8. When the QTcF interval exceeds 500 msec on the electrocardiogram at baseline&#xD;
+&#xD;
+          9. Patients who are at risk of Torsade de Pointes due to underlying heart diseases such&#xD;
+             as heart failure or arrhythmia&#xD;
+&#xD;
+         10. For women of childbearing potential if the pregnancy test is positive, women who are&#xD;
+             breastfeeding or planning to become pregnant within 6 months of&#xD;
+             discontinuation/termination of treatment during the study, or who do not want&#xD;
+             contraception (i.e., oral and subcutaneous hormonal contraceptives, condoms,&#xD;
+             diaphragms, intrauterine device, or use of appropriate contraceptive methods including&#xD;
+             abstinence)&#xD;
+&#xD;
+             *Note: Double contraception (e.g., when a male uses a barrier contraceptive method&#xD;
+             such as a condom, a female partner uses a hormonal contraceptive or an additional&#xD;
+             contraceptive method such as an intrauterine device) is required while taking the&#xD;
+             study drug and up to 6 months after stopping/terminating the study drug. In&#xD;
+             particular, taking the study drug may affect the efficacy of hormonal contraceptives,&#xD;
+             and even if you are using only barrier contraception at the same time with your&#xD;
+             partner, you cannot be sure of preventing pregnancy, so it is necessary to maintain&#xD;
+             double contraception.&#xD;
+&#xD;
+         11. Men who plan to become pregnant during the study period or within 6 months of&#xD;
+             discontinuation/termination of treatment, or who do not wish to use double&#xD;
+             contraception or abstinence during this period.&#xD;
+&#xD;
+         12. Patients who have Grade 3 or 4 or higher peripheral neuritis, or Grade 1 or 2 with a&#xD;
+             high probability of progression to peripheral neuritis,&#xD;
+&#xD;
+         13. Current use of monoamine oxidase Inhibitor or used 2 weeks before treatment&#xD;
+&#xD;
+         14. Use of serotonergic antidepressant within 3 days of treatment&#xD;
+&#xD;
+         15. Any contraindication that may affect QTc interval (amiodarone, chloroquine,&#xD;
+             chlorpromazine, clarithromycin, haloperidol, etc.)&#xD;
+&#xD;
+         16. Any contraindication that may cause myelosuppression&#xD;
+&#xD;
+         17. Taking drugs that affect the cytochrome P450 enzyme within 30 days (quinidine,&#xD;
+             tyramine, ketoconazole, fluconazole, testosterone, quinine, gestodene, metyrapone,&#xD;
+             phenelzine, doxorubicin, troleandomycin, cyclobenzaprine, erythromycin, cocaine,&#xD;
+             furafylline, cimetidine, dextromethorphan, etc.)&#xD;
+&#xD;
+         18. Previously treated with Bedaquiline or Linezolid for more than 4 weeks&#xD;
+&#xD;
+         19. Abnormal value of a blood test at baseline:&#xD;
+&#xD;
+               -  Hypokalemia, Hemoglobin &lt; 8.0 g/dL, Platelet &lt; 75,000/mm3, ANC &lt; 1000/mm3&#xD;
+&#xD;
+               -  AST or ALT &gt; 3 X ULN, Total bilirubin &gt;2.0 X ULN, Albumin &lt; 3.2 mg/dL&#xD;
+&#xD;
+               -  Serum creatinine &gt; 2 X ULN, Serum calcium &lt; LLN, Serum magnesium &lt; LLN&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tae Sun Shim, MD, PhD</last_name>
+    <phone>+82-2-3010-3892</phone>
+    <email>shimts@amc.seoul.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <state>Songpa-gu</state>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tae Sun Shim, MD, PhD</last_name>
+      <phone>+82-2-3010-3892</phone>
+      <email>shimts@amc.seoul.kr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>May 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>July 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Asan Medical Center</investigator_affiliation>
+    <investigator_full_name>Tae Sun Shim</investigator_full_name>
+    <investigator_title>Clinical professor, MD, PhD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

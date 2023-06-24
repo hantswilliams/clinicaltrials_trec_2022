@@ -1,0 +1,202 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT00055575"
+    ],
+    "org_study_id": [
+        30108.0
+    ],
+    "secondary_id": [
+        "03-M-0108"
+    ],
+    "nct_id": [
+        "NCT00055575"
+    ],
+    "brief_title": [
+        "Cholinergic Modulation of Condition and Emotion in Mood Disorders: Functional Neuroimaging Studies"
+    ],
+    "official_title": [
+        "Cholinergic Modulation of Cognition and Emotion in Mood Disorders: Functional Neuroimaging Studies"
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "National Institutes of Health Clinical Center (CC)"
+    ],
+    "is_fda_regulated_drug": [
+        "Yes"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "textblock": [
+        "This study looks at the role of a specific brain chemical system in the mood and attention\r\n      symptoms seen in major depression and bipolar disorders using functional brain imaging.",
+        "1. Objective\r\n\r\n           The goal of this research project is to evaluate the role of the cholinergic system in\r\n           behavioral and cognitive symptoms observed in mood disorders in humans, using functional\r\n           brain neuroimaging techniques. Specific aspects of behavior and cognition are impaired\r\n           in mood disorders, including selective attention, set-shifting and memory; and there is\r\n           also evidence that depressed subjects exhibit a mood congruent processing bias whereby\r\n           they more readily process negatively toned information as compared to positively toned\r\n           information. This cognitive pattern lends itself to evaluation with functional brain\r\n           imaging, both in terms of identifying the anatomical correlates of the specific\r\n           behavioral and cognitive deficits as well as characterizing the effects of\r\n           pharmacological manipulation.\r\n\r\n           Attention and memory functions are closely tied to the cholinergic neurotransmitter\r\n           system. The cholinergic system is one of the neurotransmitter systems implicated in the\r\n           pathophysiology of mood disorders. Evidence suggests that during major depressive\r\n           episodes, the cholinergic system is hypersensitive to acetylcholine. Agents that enhance\r\n           muscarinic cholinergic receptor function increase depressive symptoms in depressed\r\n           subjects, and can produce symptoms of depression in healthy subjects. The preclinical\r\n           literature more specifically implicates the muscarinic receptors and indicates that the\r\n           use of muscarinic antagonists, in the context of animal models of depression, results in\r\n           improvement in the behavioral analogs of depression.\r\n\r\n        2. Study Population\r\n\r\n           The accrual ceiling for this protocol is 388 participants. 143 currently depressed\r\n           patients with major depressive disorder, 100 currently depressed patients with bipolar\r\n           disorder, and 145 healthy controls will participate in this study.\r\n\r\n        3. Design\r\n\r\n           The antimuscarinic agent, scopolamine, will be administered in a double-blind, placebo\r\n           controlled manner across all studies. Clinical ratings, cognitive tasks and neuroimaging\r\n           will be conducted at various timepoints to evaluate the clinical effects of scopolamine\r\n           on depression, to assess the acute mood response to scopolamine; and to study the\r\n           neurobiological correlates of the clinical and behavioral drug effects.\r\n\r\n        4. Outcome Measures\r\n\r\n      The proposed inpatient or outpatient project investigates the role of cholinergic\r\n      neurotransmission in the behavioral and cognitive symptoms observed in the depressed phase of\r\n      both major depressive disorder (MDD) and bipolar disorder (BD). The studies proposed here\r\n      will identify anatomical correlates of the mood congruent processing bias, working memory,\r\n      attention and set-shifting deficits observed in depressed subjects. Further, these studies\r\n      will evaluate the effects of the cholinergic antagonist, scopolamine, both on the performance\r\n      deficits and on neural activity in brain regions recruited as subjects perform these tasks.\r\n\r\n      Dose escalation studies will be conducted to determine if higher doses of scopolamine will\r\n      increase the antidepressant response rate in patients with major depressive disorder. Based\r\n      on earlier work showing the predictive value in baseline neuroimaging data to predict\r\n      treatment outcome, we will stratify participants at baseline into groups based on expected\r\n      response to scopolamine treatment.\r\n\r\n      This approach is expected to reveal how neuromodulators influence processing in brain\r\n      structures recruited to perform these tasks, both in healthy subjects and in major depressive\r\n      disorders. The combined use of functional brain imaging and pharmacological manipulation to\r\n      evaluate the role of neurotransmitter dysfunction in depression may direct us to potential\r\n      therapeutic approaches."
+    ],
+    "overall_status": [
+        "Terminated"
+    ],
+    "start_date": [
+        "February 27, 2003"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Estimate",
+        "Actual",
+        "Actual"
+    ],
+    "completion_date": [
+        "February 2, 2015"
+    ],
+    "primary_completion_date": [
+        "February 2, 2015"
+    ],
+    "phase": [
+        "Phase 2"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Non-Randomized"
+    ],
+    "intervention_model": [
+        "Sequential Assignment"
+    ],
+    "primary_purpose": [
+        "Treatment"
+    ],
+    "masking": [
+        "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    ],
+    "measure": [
+        "Evaluation of the antidepressant effects of the antimuscarinic agent scopolamine"
+    ],
+    "time_frame": [
+        "5 to 10 years"
+    ],
+    "number_of_arms": [
+        3.0
+    ],
+    "enrollment": [
+        197.0
+    ],
+    "condition": [
+        "Mood Disorders",
+        "Healthy",
+        "Unipolar Depression",
+        "Bipolar Depression"
+    ],
+    "arm_group_label": [
+        "Depressed Patients with Major Depression DIsorder",
+        "Depressed Patients with Bipolar Disorder",
+        "Healthy Control",
+        "Healthy Control"
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Experimental",
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Drug"
+    ],
+    "intervention_name": [
+        "Scopolamine Nasal Spray"
+    ],
+    "criteria": [],
+    "gender": [
+        "All"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [
+        "55 Years"
+    ],
+    "healthy_volunteers": [
+        "Accepts Healthy Volunteers"
+    ],
+    "last_name": [
+        "Carlos A Zarate, M.D."
+    ],
+    "role": [
+        "Principal Investigator"
+    ],
+    "affiliation": [
+        "National Institute of Mental Health (NIMH)"
+    ],
+    "facility": [],
+    "country": [
+        "United States"
+    ],
+    "citation": [
+        "Elliott R, Rubinsztein JS, Sahakian BJ, Dolan RJ. Selective attention to emotional stimuli in a verbal go/no-go task: an fMRI study. Neuroreport. 2000 Jun 5;11(8):1739-44. doi: 10.1097/00001756-200006050-00028.",
+        "Murphy FC, Sahakian BJ, Rubinsztein JS, Michael A, Rogers RD, Robbins TW, Paykel ES. Emotional bias and inhibitory control processes in mania and depression. Psychol Med. 1999 Nov;29(6):1307-21. doi: 10.1017/s0033291799001233.",
+        "Murray LA, Whitehouse WG, Alloy LB. Mood congruence and depressive deficits in memory: a forced-recall analysis. Memory. 1999 Mar;7(2):175-96. doi: 10.1080/741944068."
+    ],
+    "PMID": [
+        10852235.0,
+        10616937.0,
+        10645378.0
+    ],
+    "verification_date": [
+        "February 2, 2015"
+    ],
+    "study_first_submitted": [
+        "March 6, 2003"
+    ],
+    "study_first_submitted_qc": [
+        "March 5, 2003"
+    ],
+    "study_first_posted": [
+        "March 6, 2003"
+    ],
+    "disposition_first_submitted": [
+        "September 3, 2020"
+    ],
+    "disposition_first_submitted_qc": [
+        "March 17, 2021"
+    ],
+    "disposition_first_posted": [
+        "March 22, 2021"
+    ],
+    "last_update_submitted": [
+        "March 17, 2021"
+    ],
+    "last_update_submitted_qc": [
+        "March 17, 2021"
+    ],
+    "last_update_posted": [
+        "March 22, 2021"
+    ],
+    "responsible_party_type": [
+        "Sponsor"
+    ],
+    "keyword": [
+        "Scopolamine",
+        "Depression",
+        "fMRI",
+        "Cognition",
+        "Emotion",
+        "Brain",
+        "Bipolar Disorder",
+        "Major Depressive Disorder",
+        "MDD",
+        "Healthy Volunteer",
+        "HV"
+    ],
+    "mesh_term": [
+        "Bipolar Disorder",
+        "Butylscopolammonium Bromide"
+    ]
+}

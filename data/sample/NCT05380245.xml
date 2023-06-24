@@ -1,0 +1,246 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on May 09, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05380245</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Dir/A&amp;R/AWKUM/2018/1408-25</org_study_id>
+    <secondary_id>AWKUM-16002974</secondary_id>
+    <nct_id>NCT05380245</nct_id>
+  </id_info>
+  <brief_title>Drug-Drug Interaction Study of Voriconazole With Clarithromycin.</brief_title>
+  <official_title>Pharmacokinetic Drug-Drug Interaction Study of Voriconazole With Clarithromycin.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abdul Wali Khan University Mardan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Abdul Wali Khan University Mardan</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current study evaluated the Pharmacokinetic (PK) drug-drug interaction (PK-DDI) of&#xD;
+      voriconazole with clarithromycin in healthy male volunteers. The drug interaction study was&#xD;
+      designed as a single oral dose, open-label, crossover, and randomized trial. In the first&#xD;
+      phase of the study, the principal investigator developed a high-performance-liquid&#xD;
+      chromatography (HPLC) method and validation according to standard ICH guidelines for the&#xD;
+      quantification of voriconazole in the biological matrix. During the second step, Enrolled&#xD;
+      volunteers were divided randomly into group A and group B by the &quot;permuted block&#xD;
+      randomization&quot; technique. Then, voriconazole either alone (2 x 200mg, tab, P/O) or in&#xD;
+      combination with clarithromycin (Voriconazole 2 x 200mg, tab + clarithromycin 500mg, tab,&#xD;
+      P/O) was administered to enrolled volunteers in two sequences. Finally, sample collection was&#xD;
+      carried out and blood samples were collected at specified time periods (i.e., 0.0 (pre-dose),&#xD;
+      0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 4.0, 6.0, 8.0, 12, and 24 hours) in EDTA or heparinized tubes&#xD;
+      from the enrolled human volunteers. Further processing of the sample was done for extractions&#xD;
+      and subsequent analysis with the developed analytical method.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Design and Ethical Approval: The drug interaction study was designed as a single oral&#xD;
+      dose, open-label, randomized, cross-over study of healthy volunteers. The ethical approval of&#xD;
+      the protocol was taken from the Advanced Studies and Research Board (ASRB) of the Pharmacy&#xD;
+      department, Abdul Wali Khan University, Mardan before initiation. This study followed the&#xD;
+      &quot;ethical principles of the Helsinki declaration for medical research involving human&#xD;
+      subjects&quot; and &quot;good clinical practice guidelines&quot;. The clinical trial of this study followed&#xD;
+      the guidelines of CONSORT. Written consent was obtained from all included volunteers in the&#xD;
+      DDI study. The study was comprised of two treatment sequences with a two-week washout period&#xD;
+&#xD;
+      Randomization and Drug administration: Enrolled volunteers were divided randomly into Group A&#xD;
+      and Group B by the &quot;permuted block randomization&quot; technique. Computed the volunteer data into&#xD;
+      an excel sheet and applied a RAND* function; selected two groups (G-A and G-B) sized, finally&#xD;
+      assigned 6 participants in each study group for two (Voriz (alone) or Voriz + CLRM)&#xD;
+      intervention arms, for the execution of block randomization. A balance (1:1) was acquired&#xD;
+      across both intervention arms through this randomization technique. Treatment drugs were&#xD;
+      administered to enrolled volunteers in two sequences,&#xD;
+&#xD;
+      Sequence-I: In the first phase, group-A volunteers on day-1 received oral voriconazole (2 x&#xD;
+      200mg, tab, P/O) while group-B volunteers received oral clarithromycin (500mg, tab, P/O)&#xD;
+      along with voriconazole (2 x 200mg, tab, P/O). A two-week wash-out period was allocated that&#xD;
+      started on day-2 to day-15 for avoiding the carry-over effect.&#xD;
+&#xD;
+      Sequence-II: On day-16, the second phase of the trial was conducted in which group-A&#xD;
+      volunteers received voriconazole (2 x 200mg, tab, P/O) along with clarithromycin (500mg, tab,&#xD;
+      P/O) while group-B volunteers received Voriz (2 x 200mg, tab, P/O) only. Voriconazole and&#xD;
+      clarithromycin were administered to the overnight fasted volunteers corresponding to the&#xD;
+      sequences. All volunteers took the medication with a glass of water (250mL). On day-1 and 16&#xD;
+      (treatment days), standard breakfast and lunch were served two and six hours after drug&#xD;
+      administration to all volunteers, respectively.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 1, 2018</start_date>
+  <completion_date type="Actual">November 30, 2018</completion_date>
+  <primary_completion_date type="Actual">November 16, 2018</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>A single dose, randomized, crossover, open-labeled and two sequence study with a two-week washout period, evaluated the impact of clarithromycin on the pharmacokinetics (PK) profile of voriconazole Pakistani healthy male volunteers.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma Concentration of voriconazole</measure>
+    <time_frame>At &quot;Day 1&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At &quot;Day 16&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose.</time_frame>
+    <description>Determine the Plasma Concentration particularly the Maximum Plasma Concentration (Cmax) of voriconazole either alone or co-administration with clarithromycin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the Plasma Concentration versus Time Curve (AUC) of voriconazole</measure>
+    <time_frame>At &quot;Day 1&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At &quot;Day 16&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose.</time_frame>
+    <description>Determine the Area under the Plasma Concentration versus Time Curve (AUC) of voriconazole either alone or co-administration with clarithromycin.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Time to Reach (Cmax) of voriconazole (Tmax)</measure>
+    <time_frame>At &quot;Day 1&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At &quot;Day 16&quot; Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose.</time_frame>
+    <description>Tmax of voriconazole either alone or co-administration with clarithromycin.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Treatment Voriconazole (alone), then Voriconazole + Clarithromycin.</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>On Day-1, Group-A participants first received Voriconazole (alone) (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral). After a washout period of two weeks. Then, on Day-16 they received Voriconazole (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral) along with Clarithromycin (Name of medication of Intervention Formulation: Tablet Klaricid, Dose: 500mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Voriconazole + Clarithromycin, then Voriconazole (alone).</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>On Day-1, Group-B participants first received Voriconazole (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral) along with Clarithromycin (Name of medication of Intervention Formulation: Tablet Klaricid, Dose: 500mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).After a washout period of two weeks. Then, on Day-16 they received Voriconazole (alone) (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Voriconazole 200 mg x 2 Tablets</intervention_name>
+    <description>Name of medication of Reference Formulation: Tablets Voriconazole Vfend®, 200 mg by Pfizer, Inc. (USA), (Batch No: 00005505; Mfg. date 09/2016).</description>
+    <arm_group_label>Treatment Voriconazole (alone), then Voriconazole + Clarithromycin.</arm_group_label>
+    <arm_group_label>Treatment Voriconazole + Clarithromycin, then Voriconazole (alone).</arm_group_label>
+    <other_name>Vfend®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clarithromycin 500 mg x 1Tablets</intervention_name>
+    <description>Name of medication of Intervention Formulation: Tablet Klaricid, 500 mg by Abbott, Lab Pvt. Ltd. (Karachi, Pakistan), Batch No: 81573XU; Mfg. date 10/2017.</description>
+    <arm_group_label>Treatment Voriconazole (alone), then Voriconazole + Clarithromycin.</arm_group_label>
+    <arm_group_label>Treatment Voriconazole + Clarithromycin, then Voriconazole (alone).</arm_group_label>
+    <other_name>klaricid®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        • Male Pakistani volunteers in good health aged 18-35 years were enrolled as participants&#xD;
+        in this study.&#xD;
+&#xD;
+        The selection was based on:&#xD;
+&#xD;
+          -  A complete detailed medical history,&#xD;
+&#xD;
+          -  Clinical examination,&#xD;
+&#xD;
+          -  Voriconazole hypersensitivity test,&#xD;
+&#xD;
+          -  Evaluation of various biochemical tests like Blood Glucose Level, Hemoglobin (Hb)&#xD;
+             Level, Serum Glutamic-Pyruvic Transaminase (SGPT) Or Alanine Amino Transferase and&#xD;
+             Aspartate (ALT and AST, respectively) Level, Urine Test, Albumin to Creatinine Ratio&#xD;
+             (ACR) Test, Glomerular Filtration Rate (GFR) Level, etc.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those volunteers were having a history of voriconazole hypersensitivity reaction were&#xD;
+             excluded from the study.&#xD;
+&#xD;
+          -  Deviation from normal values in the biochemical test report was excluded from the&#xD;
+             study.&#xD;
+&#xD;
+          -  Having any pathology like chronic renal disease, and hepatic impairment was excluded&#xD;
+             from the study.&#xD;
+&#xD;
+          -  Having any cardiovascular, gastrointestinal tract, and hematopoietic disorders were&#xD;
+             excluded from the study.&#xD;
+&#xD;
+          -  Alcohol addicted, smokers and volunteers who cannot sign the permission consent form&#xD;
+             were excluded from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Mehwish Mushtaq, MPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Abdul Wali Khan University Mardan (AWKUM), Pakistan / Metrics Research Organization CRO, Pakistan.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dr. Yasar Shah, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Abdul Wali Khan University Mardan (AWKUM), Pakistan.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical Dispensary, Abdul Wali Khan University Mardan, Pakistan.</name>
+      <address>
+        <city>Mardan</city>
+        <state>KPK</state>
+        <zip>25000</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 3, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2022</study_first_posted>
+  <last_update_submitted>May 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Abdul Wali Khan University Mardan</investigator_affiliation>
+    <investigator_full_name>Dr. Yasar Shah</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Voriconazole (Voriz)</keyword>
+  <keyword>Clarithromycin (CLRM)</keyword>
+  <keyword>Washout period</keyword>
+  <keyword>Randomized</keyword>
+  <keyword>Pharmacokinetic drug-drug interaction (PK-DDI)</keyword>
+  <keyword>Clinical significance</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Clarithromycin</mesh_term>
+    <mesh_term>Voriconazole</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>To keep the confidentiality of the study participants, however, data would be made available to the Ethics Committee of the institute upon requirement.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 28, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/45/NCT05380245/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

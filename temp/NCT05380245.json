@@ -1,0 +1,220 @@
+{
+    "download_date": [
+        "ClinicalTrials.gov processed this data on May 09, 2023"
+    ],
+    "link_text": [
+        "Link to the current ClinicalTrials.gov record."
+    ],
+    "url": [
+        "https://clinicaltrials.gov/show/NCT05380245"
+    ],
+    "org_study_id": [
+        "Dir/A&R/AWKUM/2018/1408-25"
+    ],
+    "secondary_id": [
+        "AWKUM-16002974"
+    ],
+    "nct_id": [
+        "NCT05380245"
+    ],
+    "brief_title": [
+        "Drug-Drug Interaction Study of Voriconazole With Clarithromycin."
+    ],
+    "official_title": [
+        "Pharmacokinetic Drug-Drug Interaction Study of Voriconazole With Clarithromycin."
+    ],
+    "lead_sponsor": [],
+    "source": [
+        "Abdul Wali Khan University Mardan"
+    ],
+    "has_dmc": [
+        "Yes"
+    ],
+    "is_fda_regulated_drug": [
+        "Yes"
+    ],
+    "is_fda_regulated_device": [
+        "No"
+    ],
+    "is_us_export": [
+        "Yes"
+    ],
+    "textblock": [
+        "The current study evaluated the Pharmacokinetic (PK) drug-drug interaction (PK-DDI) of\r\n      voriconazole with clarithromycin in healthy male volunteers. The drug interaction study was\r\n      designed as a single oral dose, open-label, crossover, and randomized trial. In the first\r\n      phase of the study, the principal investigator developed a high-performance-liquid\r\n      chromatography (HPLC) method and validation according to standard ICH guidelines for the\r\n      quantification of voriconazole in the biological matrix. During the second step, Enrolled\r\n      volunteers were divided randomly into group A and group B by the \"permuted block\r\n      randomization\" technique. Then, voriconazole either alone (2 x 200mg, tab, P/O) or in\r\n      combination with clarithromycin (Voriconazole 2 x 200mg, tab + clarithromycin 500mg, tab,\r\n      P/O) was administered to enrolled volunteers in two sequences. Finally, sample collection was\r\n      carried out and blood samples were collected at specified time periods (i.e., 0.0 (pre-dose),\r\n      0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 4.0, 6.0, 8.0, 12, and 24 hours) in EDTA or heparinized tubes\r\n      from the enrolled human volunteers. Further processing of the sample was done for extractions\r\n      and subsequent analysis with the developed analytical method.",
+        "Study Design and Ethical Approval: The drug interaction study was designed as a single oral\r\n      dose, open-label, randomized, cross-over study of healthy volunteers. The ethical approval of\r\n      the protocol was taken from the Advanced Studies and Research Board (ASRB) of the Pharmacy\r\n      department, Abdul Wali Khan University, Mardan before initiation. This study followed the\r\n      \"ethical principles of the Helsinki declaration for medical research involving human\r\n      subjects\" and \"good clinical practice guidelines\". The clinical trial of this study followed\r\n      the guidelines of CONSORT. Written consent was obtained from all included volunteers in the\r\n      DDI study. The study was comprised of two treatment sequences with a two-week washout period\r\n\r\n      Randomization and Drug administration: Enrolled volunteers were divided randomly into Group A\r\n      and Group B by the \"permuted block randomization\" technique. Computed the volunteer data into\r\n      an excel sheet and applied a RAND* function; selected two groups (G-A and G-B) sized, finally\r\n      assigned 6 participants in each study group for two (Voriz (alone) or Voriz + CLRM)\r\n      intervention arms, for the execution of block randomization. A balance (1:1) was acquired\r\n      across both intervention arms through this randomization technique. Treatment drugs were\r\n      administered to enrolled volunteers in two sequences,\r\n\r\n      Sequence-I: In the first phase, group-A volunteers on day-1 received oral voriconazole (2 x\r\n      200mg, tab, P/O) while group-B volunteers received oral clarithromycin (500mg, tab, P/O)\r\n      along with voriconazole (2 x 200mg, tab, P/O). A two-week wash-out period was allocated that\r\n      started on day-2 to day-15 for avoiding the carry-over effect.\r\n\r\n      Sequence-II: On day-16, the second phase of the trial was conducted in which group-A\r\n      volunteers received voriconazole (2 x 200mg, tab, P/O) along with clarithromycin (500mg, tab,\r\n      P/O) while group-B volunteers received Voriz (2 x 200mg, tab, P/O) only. Voriconazole and\r\n      clarithromycin were administered to the overnight fasted volunteers corresponding to the\r\n      sequences. All volunteers took the medication with a glass of water (250mL). On day-1 and 16\r\n      (treatment days), standard breakfast and lunch were served two and six hours after drug\r\n      administration to all volunteers, respectively."
+    ],
+    "overall_status": [
+        "Completed"
+    ],
+    "type": [
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual",
+        "Actual"
+    ],
+    "start_date": [
+        "November 1, 2018"
+    ],
+    "completion_date": [
+        "November 30, 2018"
+    ],
+    "primary_completion_date": [
+        "November 16, 2018"
+    ],
+    "phase": [
+        "Phase 4"
+    ],
+    "study_type": [
+        "Interventional"
+    ],
+    "has_expanded_access": [
+        "No"
+    ],
+    "allocation": [
+        "Randomized"
+    ],
+    "intervention_model": [
+        "Crossover Assignment"
+    ],
+    "intervention_model_description": [
+        "A single dose, randomized, crossover, open-labeled and two sequence study with a two-week washout period, evaluated the impact of clarithromycin on the pharmacokinetics (PK) profile of voriconazole Pakistani healthy male volunteers."
+    ],
+    "primary_purpose": [
+        "Health Services Research"
+    ],
+    "masking": [
+        "None (Open Label)"
+    ],
+    "measure": [
+        "Plasma Concentration of voriconazole",
+        "Area under the Plasma Concentration versus Time Curve (AUC) of voriconazole",
+        "Maximum Time to Reach (Cmax) of voriconazole (Tmax)"
+    ],
+    "time_frame": [
+        "At \"Day 1\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At \"Day 16\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose.",
+        "At \"Day 1\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At \"Day 16\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose.",
+        "At \"Day 1\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose and At \"Day 16\" Pre-dose, 0.5hour, 1hour, 1.5hour, 2hour, 3hour, 4hour, 6hour, 8hour, 12hour, 24hour post-dose."
+    ],
+    "description": [
+        "Determine the Plasma Concentration particularly the Maximum Plasma Concentration (Cmax) of voriconazole either alone or co-administration with clarithromycin.",
+        "Determine the Area under the Plasma Concentration versus Time Curve (AUC) of voriconazole either alone or co-administration with clarithromycin.",
+        "Tmax of voriconazole either alone or co-administration with clarithromycin.",
+        "On Day-1, Group-A participants first received Voriconazole (alone) (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral). After a washout period of two weeks. Then, on Day-16 they received Voriconazole (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral) along with Clarithromycin (Name of medication of Intervention Formulation: Tablet Klaricid, Dose: 500mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).",
+        "On Day-1, Group-B participants first received Voriconazole (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral) along with Clarithromycin (Name of medication of Intervention Formulation: Tablet Klaricid, Dose: 500mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).After a washout period of two weeks. Then, on Day-16 they received Voriconazole (alone) (Dose: 400mg, Dosage form: Tablet, Frequency: Once (OD), Duration of administration: Single Dose, Kind of administration: Oral).",
+        "Name of medication of Reference Formulation: Tablets Voriconazole Vfend\u00ae, 200 mg by Pfizer, Inc. (USA), (Batch No: 00005505; Mfg. date 09/2016).",
+        "Name of medication of Intervention Formulation: Tablet Klaricid, 500 mg by Abbott, Lab Pvt. Ltd. (Karachi, Pakistan), Batch No: 81573XU; Mfg. date 10/2017."
+    ],
+    "number_of_arms": [
+        2.0
+    ],
+    "enrollment": [
+        12.0
+    ],
+    "condition": [
+        "Healthy"
+    ],
+    "arm_group_label": [
+        "Treatment Voriconazole (alone), then Voriconazole + Clarithromycin.",
+        "Treatment Voriconazole + Clarithromycin, then Voriconazole (alone).",
+        "Treatment Voriconazole + Clarithromycin, then Voriconazole (alone).",
+        "Treatment Voriconazole + Clarithromycin, then Voriconazole (alone)."
+    ],
+    "arm_group_type": [
+        "Experimental",
+        "Experimental"
+    ],
+    "intervention_type": [
+        "Drug",
+        "Drug"
+    ],
+    "intervention_name": [
+        "Voriconazole 200 mg x 2 Tablets",
+        "Clarithromycin 500 mg x 1Tablets"
+    ],
+    "other_name": [
+        "Vfend\u00ae",
+        "klaricid\u00ae"
+    ],
+    "criteria": [],
+    "gender": [
+        "Male"
+    ],
+    "minimum_age": [
+        "18 Years"
+    ],
+    "maximum_age": [
+        "35 Years"
+    ],
+    "healthy_volunteers": [
+        "Accepts Healthy Volunteers"
+    ],
+    "last_name": [
+        "Dr. Mehwish Mushtaq, MPhil",
+        "Dr. Yasar Shah, Ph.D."
+    ],
+    "role": [
+        "Principal Investigator",
+        "Study Director"
+    ],
+    "affiliation": [
+        "Abdul Wali Khan University Mardan (AWKUM), Pakistan / Metrics Research Organization CRO, Pakistan.",
+        "Abdul Wali Khan University Mardan (AWKUM), Pakistan."
+    ],
+    "facility": [],
+    "country": [
+        "Pakistan"
+    ],
+    "verification_date": [
+        "May 2022"
+    ],
+    "study_first_submitted": [
+        "April 3, 2022"
+    ],
+    "study_first_submitted_qc": [
+        "May 14, 2022"
+    ],
+    "study_first_posted": [
+        "May 18, 2022"
+    ],
+    "last_update_submitted": [
+        "May 14, 2022"
+    ],
+    "last_update_submitted_qc": [
+        "May 14, 2022"
+    ],
+    "last_update_posted": [
+        "May 18, 2022"
+    ],
+    "responsible_party_type": [
+        "Principal Investigator"
+    ],
+    "investigator_affiliation": [
+        "Abdul Wali Khan University Mardan"
+    ],
+    "investigator_full_name": [
+        "Dr. Yasar Shah"
+    ],
+    "investigator_title": [
+        "Associate Professor"
+    ],
+    "keyword": [
+        "Voriconazole (Voriz)",
+        "Clarithromycin (CLRM)",
+        "Washout period",
+        "Randomized",
+        "Pharmacokinetic drug-drug interaction (PK-DDI)",
+        "Clinical significance"
+    ],
+    "mesh_term": [
+        "Voriconazole"
+    ],
+    "sharing_ipd": [
+        "No"
+    ],
+    "ipd_description": [
+        "To keep the confidentiality of the study participants, however, data would be made available to the Ethics Committee of the institute upon requirement."
+    ],
+    "provided_document": []
+}
