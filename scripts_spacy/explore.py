@@ -27,15 +27,33 @@ nlp = medspacy.load()
 ### CDC: https://www.cdc.gov/eis/field-epi-manual/chapters/Biologic-Toxic-Agents.html 
 
 
+#### basics of term frequency / inverse docuemnt frequency
+## https://towardsdatascience.com/lovecraft-with-natural-language-processing-part-3-tf-idf-vectors-8c2d4df98621 
+## https://tfidf.com/ 
+## https://www.analyticsvidhya.com/blog/2021/09/creating-a-movie-reviews-classifier-using-tf-idf-in-python/
+## http://www.sefidian.com/2022/07/28/understanding-tf-idf-with-python-example/ 
+## https://python.plainenglish.io/text-classification-using-python-spacy-7a414abcc83a
+## https://www.kaggle.com/code/satishgunjal/tutorial-text-classification-using-spacy
+
+#### Additional stop words to add should be the names of the columns that are common: 
+### can go back to this doc: https://github.com/hantswilliams/clinicaltrials_trec_2022/blob/3aa29cc3774aad0aef7cd42de87fdab86c03a1af/prisma/schema.prisma
+## or potentially repull those terms that are common, e.g., all of the keys in the json files
+
+
+
+
 ## load json file as dictionary
 with open('temp/NCT00055081.json', 'r') as f:
     jsonData = json.load(f)
 
-## the only interesting part here to perform the analysis on is the text 
+## the only interesting part here to perform the analysis on is the text, but can 
+## also add in the other fields, just need to include updated stop words to remove
+## those keys  
 textBlock = jsonData['textblock'][0]
 
 print(nlp.Defaults.stop_words)
 len(nlp.Defaults.stop_words)
+#### need to add my custom stop words 
 
 
 ## create a spacy doc object
