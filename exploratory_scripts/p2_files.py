@@ -3,12 +3,12 @@ import os
 def get_files_paths():
 
     folderpaths = [
-        # '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials0',
+        '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials0',
         '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials1',
-        # '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials2',
-        # '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials3',
-        # '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials4',
-        # '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials5',
+        '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials2',
+        '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials3',
+        '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials4',
+        '/home/ubuntu/trial_data/ClinicalTrials.2023-05-08.trials5',
     ]
 
     filenames = []

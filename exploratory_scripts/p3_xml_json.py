@@ -3,19 +3,6 @@ import json
 from exploratory_scripts.p2_files import get_files_paths
 import datetime
 
-
-# ##### AWS S3 #####
-# import boto3
-# import dotenv
-# dotenv.load_dotenv()
-# session = boto3.Session(
-#     profile_name='nhit', 
-#     region_name='us-east-1',
-#     aws_access_key_id=os.getenv('AWS_ACCESS_KEY'),
-#     aws_secret_access_key=os.getenv('AWS_SECRET_ACCESS_KEY')
-# )
-# s3 = session.resource('s3')
-
 ##### GET FILES 
 files = get_files_paths()
 # files = files[0:100]
@@ -26,6 +13,7 @@ errors = []
 
 starttime = datetime.datetime.now().strftime("%H:%M:%S")
 for i in range(len(files)):
+
     print('working on file: ', files[i])
 
     ## just get the filename without the path
@@ -52,27 +40,9 @@ for i in range(len(files)):
     with open(f'temp/{file_name}.json', 'w') as f:
         json.dump(studyobject_flat, default=lambda x: x.tolist(), fp=f)
 
-    # ## using io create a temp file in memory
-    # temp = io.StringIO()
-
-    # ## dump json to temp file
-    # json.dump(studyobject_flat, default=lambda x: x.tolist(), fp=temp)
-
-    ## print temp file
-    # print(temp.getvalue())
-
-    # try:
-    #     s3.Object('clinicaltrials-gov', f'{file_name}.json').put(Body=temp.getvalue())
-    # except Exception as e:
-    #     print(e)
-    #     errors.append(files[i])
-    #     pass
-
-    ## print completion number remaining
-    # print('completed: ', files[i], ' | ', i, ' of ', total_count)
-
     ## print number of files remaining
     print('files remaining: ', total_count - i)
+    
 endtime = datetime.datetime.now().strftime("%H:%M:%S")
 total_time_minutes = (datetime.datetime.strptime(endtime, "%H:%M:%S") - datetime.datetime.strptime(starttime, "%H:%M:%S")).total_seconds() / 60
 
