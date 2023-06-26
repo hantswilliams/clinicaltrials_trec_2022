@@ -3,6 +3,25 @@
 ## about the data source
 - data: https://www.trec-cds.org/2023.html 
 
+## tech
+- DB: cloud managed psql: timescale  
+- DB management: prisma 
+- Languages:
+    - analyses: python
+    - db management: typescript/js 
+
+## to do
+- create a data pipeline:
+    - XML -> JSON -> S3 -> CRAWLER/GLUE -> ATHENA 
+- create a API endpoint, lambda, that can be used to analyze (w/ spacy/medspacy/etc..) a new XML file
+- create some type of dashboard 
+
+## part 1 
+- load up ec2 instance, download files to that instance (want aws machine because transfer speeds between server and s3 will be quicker)
+- run through files on that machine, converting all to json locally there (should take X period of time)
+- run through those json files, performing batch upload `s3-parallel-put --put=stupid` () or `aws s3 sync` (10mins) https://stackoverflow.com/questions/42235618/s3-how-to-upload-large-number-of-files 
+
+
 ## ideas
 - non-ML: 
     - lots of structured data, e.g., XML fields 
