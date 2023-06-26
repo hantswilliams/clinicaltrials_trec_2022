@@ -1,15 +1,13 @@
 import pandas as pd
 import json
-import io
-import os
 from exploratory_scripts.p2_files import get_files_paths
-import boto3
-import dotenv
 import datetime
 
-dotenv.load_dotenv()
 
 # ##### AWS S3 #####
+# import boto3
+# import dotenv
+# dotenv.load_dotenv()
 # session = boto3.Session(
 #     profile_name='nhit', 
 #     region_name='us-east-1',
