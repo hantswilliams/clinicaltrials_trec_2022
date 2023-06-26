@@ -1,7 +1,7 @@
 import os
 
 ## set variables
-folderlocation = '/Users/hantswilliams/Documents/development/python_projects/clinicaltrials_trec_2022/temp'
+folderlocation = '/home/ubuntu/clinicaltrials_trec_2022/temp'
 s3bucketname = 'clinicaltrials-gov'
 
 ## set commands

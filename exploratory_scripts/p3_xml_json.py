@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import io
 import os
-from exploratory_scripts.p0_files import get_files_paths
+from exploratory_scripts.p2_files import get_files_paths
 import boto3
 import dotenv
 import datetime
@@ -16,7 +16,6 @@ dotenv.load_dotenv()
 #     aws_access_key_id=os.getenv('AWS_ACCESS_KEY'),
 #     aws_secret_access_key=os.getenv('AWS_SECRET_ACCESS_KEY')
 # )
-
 # s3 = session.resource('s3')
 
 ##### GET FILES 
