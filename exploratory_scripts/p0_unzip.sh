@@ -6,4 +6,5 @@ cd "$input_folder"
 
 for file in *.zip; do
   unzip "$file"
+  rm "$file"
 done
