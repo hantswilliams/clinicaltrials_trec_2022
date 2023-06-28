@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:10000]
+filelist = filelist[:100000]
 
 ## define the function to process a single file
 def process_file(file):
@@ -88,7 +88,6 @@ all_terms = set()
 for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
 
-
 ######## CALCULATIONS ########
 ## Progress bar 
 progress_bar2 = tqdm(all_terms, desc="Calculating IDF", unit="term")
@@ -108,6 +107,9 @@ idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
 idf_df = idf_df.sort_values(by="idf", ascending=False)
 print(f"IDF dataframe sorted by IDF value: {idf_df.head(10)}")
 print(f"IDF dataframe sorted by IDF value: {idf_df.tail(10)}")
+
+## save output to csv
+idf_df.to_csv('./data/spacy_output/idf.csv')
 
 # ## Calculate TF-IDF for each term in each document
 # tf_idf = []
