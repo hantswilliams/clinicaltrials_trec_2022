@@ -96,4 +96,11 @@ for term in all_terms:
     most_common_terms[term] = term_count
 print(f"Most common terms: {most_common_terms}")
 
+## Calculate IDF for each term across all documents
+idf = {}
+for term in all_terms:
+    doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
+    idf[term] = math.log(total_documents / (1 + doc_count))
 
+## Print the IDF for each term
+print(f"IDF for each term: {idf}")
