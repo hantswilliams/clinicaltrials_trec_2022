@@ -78,7 +78,7 @@ def process_files():
     #     documents = pool.map(load_and_clean_file, file_paths)
     #     documents = [doc for doc in documents if doc is not None]
 
-    with Pool(processes=5) as pool:
+    with Pool() as pool:
         documents = []
         total_files = len(file_paths)
 
@@ -102,7 +102,7 @@ def process_files():
     processed_documents = manager.list()
 
     # Use multiprocessing to parallelize the document processing
-    with Pool(processes=5) as pool:
+    with Pool() as pool:
         pool.starmap(process_document, [(doc, processed_documents) for doc in documents])
 
     tokenized_documents = list(processed_documents)
@@ -125,7 +125,7 @@ def process_files():
     #     idf_results = pool.starmap(calculate_idf, [(term, tokenized_documents, total_documents) for term in all_terms])
     #     idf = dict(idf_results)
 
-    with Pool(processes=5) as pool:
+    with Pool() as pool:
         idf_results = []
         total_terms = len(all_terms)
 
