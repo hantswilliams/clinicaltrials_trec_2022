@@ -10,11 +10,15 @@
     - analyses: python
     - db management: typescript/js 
 
-## to do
-- create a data pipeline:
+## Part 1
+- Create a data pipeline:
     - XML -> JSON -> S3 -> CRAWLER/GLUE -> ATHENA 
-- create a API endpoint, lambda, that can be used to analyze (w/ spacy/medspacy/etc..) a new XML file
-- create some type of dashboard 
+- Create a API endpoint, lambda, that can be used to analyze (w/ spacy/medspacy/etc..) a new XML file
+- Create some type of dashboard 
+
+## MedSpacy
+- Different models: https://allenai.github.io/scispacy/ - links from medspacy alternative - scispacy
+
 
 ## part 1 
 - load up ec2 instance, download files to that instance (want aws machine because transfer speeds between server and s3 will be quicker)

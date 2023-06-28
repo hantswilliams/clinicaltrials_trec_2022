@@ -2,3 +2,8 @@
 
 # Database creds
 timescale-db-51063-credentials.sql
+
+# ignore all files in s3_bucket/json/
+s3_bucket/json/*
+
+

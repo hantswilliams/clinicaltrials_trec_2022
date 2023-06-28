@@ -1,3 +1,5 @@
 pandas
 lxml
-
+gensim
+medspacy
+scispacy
