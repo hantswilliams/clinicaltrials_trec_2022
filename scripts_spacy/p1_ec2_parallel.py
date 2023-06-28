@@ -149,7 +149,7 @@ def process_files():
         with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
             # Submit tasks using apply_async
             tasks = [
-                pool.apply_async(calculate_idf_with_progress, (term, tokenized_documents, total_documents))
+                pool.apply_async(calculate_idf_with_progress, ((term, tokenized_documents, total_documents),))
                 for term in all_terms
             ]
 
