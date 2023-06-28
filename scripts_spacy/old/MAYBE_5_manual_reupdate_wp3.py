@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:500]
+filelist = filelist[:5000]
 
 ## define the function to process a single file
 def process_file(file):
