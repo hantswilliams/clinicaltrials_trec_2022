@@ -102,9 +102,11 @@ for doc in tokenized_documents:
     all_terms.update(doc)
 
 ## Calculate the number of documents that contain each term
+print("Calculating document frequency...")
 doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms}
 
 ## Calculate the IDF for each term across all documents
+print("Calculating IDF...")
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
 
 ## Print the IDF values
