@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:1000]
+filelist = filelist[:500]
 
 ## define the function to process a single file
 def process_file(file):
@@ -88,20 +88,14 @@ for term_freq in term_frequencies:
 
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
-print("IDF values:")
-print(idf)
-
-print('done with all files, now creating dataframe...')
-print('\n')
-
-## Convert the IDF values to a dataframe
-idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["IDF"])
-idf_df.index.name = "Term"
-idf_df = idf_df.sort_values(by="IDF", ascending=False)
-print(idf_df.head(10))
+## Print the IDF values
+for term, value in idf.items():
+    print(term, value)
 
 ## capture end time
 endtime = time.time()
 print("Execution Time:", endtime - starttime, "seconds")
 
+print('done with all files, now creating dataframe...')
+print('\n')
 
