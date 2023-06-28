@@ -50,11 +50,13 @@ def process_files():
     ## load in json files
     filelist = os.listdir('./s3_bucket/json/')
 
-    ## create shared list for tokenized documents and shared dictionary for idf, progress
+    ## create shared list for tokenized documents and shared dictionary for idf
     manager = multiprocessing.Manager()
     tokenized_documents = manager.list()
     idf = manager.dict()
-    progress = manager.dict()
+
+    ## create shared array for progress
+    progress = multiprocessing.Array('c', len(filelist))
 
     # multiprocessing
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
@@ -70,8 +72,9 @@ def process_files():
     pool.join()
 
     # print progress status
-    for file, status in progress.items():
-        print(f"File: {file}, Status: {status}, Files Remaining: {len(filelist) - len(progress)}")
+    for idx, status in enumerate(progress):
+        file = filelist[idx]
+        print(f"File: {file}, Status: {status.decode()}, Files Remaining: {len(filelist) - idx - 1}")
 
     ## calculate elapsed time
     elapsedtime = time.time() - starttime
@@ -79,11 +82,6 @@ def process_files():
 
     ## Files Processed
     print("Total Files Processed: ", len(filelist))
-
-    # ## Print IDF dictionary
-    # print("IDF Dictionary:")
-    # for term, value in idf.items():
-    #     print(f"{term}: {value}")
 
     ## create dataframe from idf dictionary
     idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
