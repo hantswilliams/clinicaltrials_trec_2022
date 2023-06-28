@@ -94,6 +94,12 @@ print(idf)
 print('done with all files, now creating dataframe...')
 print('\n')
 
+## Convert the IDF values to a dataframe
+idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["IDF"])
+idf_df.index.name = "Term"
+idf_df = idf_df.sort_values(by="IDF", ascending=False)
+print(idf_df.head(10))
+
 ## capture end time
 endtime = time.time()
 print("Execution Time:", endtime - starttime, "seconds")
