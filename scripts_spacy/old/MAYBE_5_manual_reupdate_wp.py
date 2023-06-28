@@ -8,9 +8,6 @@ from functools import partial
 
 
 def process_file(file, tokenized_documents, idf, progress):
-    # update the progress
-    progress[file] = 'Processing'
-
     ## 1 load in json file
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
@@ -21,9 +18,15 @@ def process_file(file, tokenized_documents, idf, progress):
         progress[file] = 'Error'
         return None
 
+    # update the progress
+    progress[file] = 'Tokenizing'
+
     ## Step 2: Tokenize
     tokenized_doc = doc.split()  # Tokenize the document
     tokenized_documents.append(tokenized_doc)
+
+    # update the progress
+    progress[file] = 'Calculating IDF'
 
     ## Step 3: Calculate IDF
     total_documents = len(tokenized_documents)
@@ -88,15 +91,5 @@ def process_files():
     print(idf_df.head(10))
 
 
-
-################################################################################################
-################################################################################################
-
-
 if __name__ == "__main__":
     process_files()
-
-
-
-
-
