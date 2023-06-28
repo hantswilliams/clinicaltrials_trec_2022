@@ -10,6 +10,7 @@ from functools import partial
 def process_file(file, tokenized_documents, idf, progress):
     ## 1 load in json file
     try:
+        print(f"Processing file: {file}")
         with open('./s3_bucket/json/' + file, 'r') as f:
             jsonData = json.load(f)
             doc = jsonData['textblock'][0]
@@ -41,6 +42,7 @@ def process_file(file, tokenized_documents, idf, progress):
 
     # update the progress
     progress[file] = 'Done'
+    print(f"Finished processing file: {file}")
 
 
 def process_files():
@@ -71,6 +73,8 @@ def process_files():
 
     # execute function
     pool.map(process_file_partial, filelist)
+
+    # close the pool and wait for the processes to complete
     pool.close()
     pool.join()
 
