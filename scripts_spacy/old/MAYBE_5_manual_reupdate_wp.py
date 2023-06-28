@@ -55,8 +55,8 @@ def process_files():
     tokenized_documents = manager.list()
     idf = manager.dict()
 
-    ## create shared array for progress
-    progress = multiprocessing.Array('c', len(filelist))
+    ## create shared list for progress
+    progress = manager.list(['Processing'] * len(filelist))
 
     # multiprocessing
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
@@ -74,7 +74,7 @@ def process_files():
     # print progress status
     for idx, status in enumerate(progress):
         file = filelist[idx]
-        print(f"File: {file}, Status: {status.decode()}, Files Remaining: {len(filelist) - idx - 1}")
+        print(f"File: {file}, Status: {status}, Files Remaining: {len(filelist) - idx - 1}")
 
     ## calculate elapsed time
     elapsedtime = time.time() - starttime
