@@ -49,6 +49,12 @@ def process_file(file):
     else:
         idf = {term: 0 for term in all_terms}
 
+    # Preview the first 10 terms
+    if file == filelist[0]:
+        print('Preview of first 10 terms:')
+        print(list(idf.items())[:10])
+        print('\n')
+
     ## Step 4: Close JSON and remove assets from memory
     f.close()
     del jsonData, doc, all_terms, tokenized_doc
