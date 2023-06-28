@@ -47,11 +47,10 @@ def process_file(file):
             idf_value = math.log(len(tokenized_documents) / (1 + count))
             idf[term] = idf.get(term, 0) + idf_value
 
-    ## Step 4: Close JSON and remove assets from memory
-    f.close()
-    del jsonData, doc, all_terms, tokenized_doc
+    ## Step 4: Clear Memory
+    del jsonData, doc, all_terms
 
-    return idf
+    return tokenized_doc
 
 ## initialize the progress bar with the total number of files
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
@@ -63,10 +62,10 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures:
-        idf_result = future.result()
+        tokenized_doc = future.result()
 
-        if idf_result is not None:
-            tokenized_documents.append(idf_result)
+        if tokenized_doc is not None:
+            tokenized_documents.append(tokenized_doc)
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
