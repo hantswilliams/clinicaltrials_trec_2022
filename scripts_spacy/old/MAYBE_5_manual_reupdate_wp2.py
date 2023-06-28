@@ -8,15 +8,6 @@ from concurrent import futures
 import re
 import medspacy
 
-######## SIMPLIFIED STEPS ########
-# 1 load in json file
-# 2 tokenize
-# 3 calculate
-# 4 clear memory
-# 1 load in new json file (repeat)
-# .....perform 2-5 again (repeat)
-########################
-
 ### Helper Functions ###
 def json_cleaning(text):
     pattern = r"[^\w\s]"
@@ -39,7 +30,7 @@ filelist = filelist[:10000]
 def process_file(file):
 
     tokenized_doc = []  # Initialize tokenized_doc list
-    idf_result = {}  # Initialize idf_result dictionary
+    df_result = {}  # Initialize df_result dictionary
     
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
@@ -47,26 +38,21 @@ def process_file(file):
             doc = json_cleaning(jsonData['textblock'][0])
     except:
         print("Error loading file: " + file)
-        return tokenized_doc, idf_result  # Return empty values
+        return tokenized_doc, df_result  # Return empty values
     
     ## Step 2: Tokenize and clean
     tokenized_doc = doc.split()  # Tokenize the document
     tokenized_doc = [word for word in tokenized_doc if word not in nlp.Defaults.stop_words]
 
-    ## Step 3: Calculate IDF
+    ## Step 3: Calculate document frequency (df)
     all_terms = set(tokenized_doc)
-    doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) + (term in tokenized_doc) for term in all_terms}
-    idf_result = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
+    df_result = {term: 1 for term in all_terms}  # For each term in doc, df is 1
 
-    ## Step 4: Close JSON and remove assets from memory
-    f.close()
-    del jsonData, doc, all_terms
+    return tokenized_doc, df_result
 
-    return tokenized_doc, idf_result
-
-## create empty list for tokenized documents and idf dictionary
+## create empty list for tokenized documents and df dictionary
 tokenized_documents = []
-idf = {}
+df = {}
 
 ## initialize the progress bar with the total number of files
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
@@ -78,17 +64,17 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures.as_completed(future_results):
-        tokenized_doc, idf_result = future.result()
+        tokenized_doc, df_result = future.result()
 
         if tokenized_doc is not None:
             tokenized_documents.append(tokenized_doc)
 
-        if idf_result is not None:
-            for term, value in idf_result.items():
-                if term in idf:
-                    idf[term] += value
+        if df_result is not None:
+            for term, value in df_result.items():
+                if term in df:
+                    df[term] += value
                 else:
-                    idf[term] = value
+                    df[term] = value
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
@@ -96,8 +82,8 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
-## Step 5: Divide IDF values by the number of files to get the average
-idf = {term: value / len(filelist) for term, value in idf.items()}
+## Step 5: Calculate IDF from DF
+idf = {term: math.log((len(filelist) / (value + 1)) + 1) for term, value in df.items()}
 
 ## Print the IDF values
 for term, value in idf.items():
@@ -106,7 +92,6 @@ for term, value in idf.items():
 ## capture end time
 endtime = time.time()
 print("Execution Time:", endtime - starttime, "seconds")
-
 
 ################################################################################################
 ################################################################################################
