@@ -79,31 +79,24 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
-## print the term frequencies for the first document
-print('TERM FREQUENCIES 1st DOC')
-print(term_frequencies[0])
-print('\n')
-print('Term freuqnecies for first 10 documents')
-print(term_frequencies[:10])
+## Step 5: Calculate IDF
+## create a set of all terms
 
-
-## Step 5: Calculate IDF for each term after all documents have been processed
-idf = {}
+all_terms = set()
 for term_freq in term_frequencies:
-    for term, freq in term_freq.items():
-        if term not in idf:
-            idf[term] = sum(1 for doc_freq in term_frequencies if term in doc_freq)
+    all_terms.update(term_freq.keys())
 
-idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
+## calculate the IDF for each term
+total_documents = len(term_frequencies)
 
-# ## Print the IDF values
-# for term, value in idf.items():
-#     print(term, value)
+idf = {}
+for term in all_terms:
+    doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
+    idf[term] = math.log(total_documents / (1 + doc_count))
 
-# ## capture end time
-# endtime = time.time()
-# print("Execution Time:", endtime - starttime, "seconds")
-
-# print('done with all files, now creating dataframe...')
-# print('\n')
-
+## conver idf to a dataframe
+idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
+idf_df.index.name = "term"
+## sort the dataframe by IDF
+idf_df = idf_df.sort_values(by="idf", ascending=False)
+print(idf_df.head(10))
