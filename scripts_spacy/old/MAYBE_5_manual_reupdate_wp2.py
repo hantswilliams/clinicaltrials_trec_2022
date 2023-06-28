@@ -5,6 +5,8 @@ import pandas as pd
 import time
 from tqdm import tqdm
 from concurrent import futures
+import re
+import medspacy
 
 ######## SIMPLIFIED STEPS ########
 # 1 load in json file
@@ -15,6 +17,16 @@ from concurrent import futures
 # .....perform 2-5 again (repeat)
 ########################
 
+### Helper Functions ###
+def json_cleaning(text):
+    pattern = r"[^\w\s]"
+    clean_text = re.sub(pattern, '', text)    
+    clean_text = clean_text.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
+    clean_text = ' '.join(clean_text.split())
+    return clean_text
+
+nlp = medspacy.load("en_core_sci_sm")
+
 ## capture start time
 starttime = time.time()
 
@@ -24,19 +36,21 @@ filelist = filelist[:10000]
 
 ## define the function to process a single file
 def process_file(file):
+    
     tokenized_doc = []  # Initialize tokenized_doc list
     idf_result = {}  # Initialize idf_result dictionary
     
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
             jsonData = json.load(f)
-            doc = jsonData['textblock'][0]
+            doc = json_cleaning(jsonData['textblock'][0])
     except:
         print("Error loading file: " + file)
         return tokenized_doc, idf_result  # Return empty values
     
-    ## Step 2: Tokenize
+    ## Step 2: Tokenize and clean
     tokenized_doc = doc.split()  # Tokenize the document
+    tokenized_doc = [word for word in tokenized_doc if word not in nlp.Defaults.stop_words]
 
     ## Step 3: Calculate IDF
     all_terms = set(tokenized_doc)
