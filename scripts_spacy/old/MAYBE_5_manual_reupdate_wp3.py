@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:5000]
+filelist = filelist[:10000]
 
 ## define the function to process a single file
 def process_file(file):
@@ -88,7 +88,9 @@ all_terms = set()
 for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
 
-## progress bar 2 for calculating IDF
+
+######## CALCULATIONS ########
+## Progress bar 
 progress_bar2 = tqdm(all_terms, desc="Calculating IDF", unit="term")
 
 ## Calculate IDF for each term across all documents
@@ -119,8 +121,6 @@ print(f"IDF dataframe sorted by IDF value: {idf_df.tail(10)}")
 #     term_count = sum(1 for term_freq in term_frequencies if term in term_freq)
 #     most_common_terms[term] = term_count
 # print(f"Most common terms: {most_common_terms}")
-
-
 
 ## Print the total time taken
 print(f"Total time taken: {time.time() - starttime} seconds")
