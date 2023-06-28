@@ -97,7 +97,6 @@ with futures.ProcessPoolExecutor() as executor:
                     idf[term] += value
                 else:
                     idf[term] = value
-                    idf[term] = 0  # Add this line to initialize the IDF value for a new term
 
                 idf[term] += value  # Accumulate the IDF value across different documents
 
