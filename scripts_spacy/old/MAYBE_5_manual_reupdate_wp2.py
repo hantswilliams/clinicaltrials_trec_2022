@@ -49,12 +49,6 @@ def process_file(file):
     else:
         idf = {term: 0 for term in all_terms}
 
-    # Preview the first 10 terms
-    if file == filelist[0]:
-        print('Preview of first 10 terms:')
-        print(list(idf.items())[:10])
-        print('\n')
-
     ## Step 4: Close JSON and remove assets from memory
     f.close()
     del jsonData, doc, all_terms, tokenized_doc
@@ -87,6 +81,12 @@ progress_bar.close()
 
 print('done with all files, now creating dataframe...')
 print('\n')
+
+print('tokenized_documents: ', tokenized_documents)
+print('Length of tokenized_documents: ', len(tokenized_documents))
+print('\n')
+print('idf: ', idf)
+print('Length of idf: ', len(idf))
 
 ## create dataframe from idf dictionary
 idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
