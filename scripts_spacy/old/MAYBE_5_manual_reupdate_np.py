@@ -21,7 +21,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:100]
+filelist = filelist[:10000]
 
 ## create empty list for tokenized documents and idf dictionary
 tokenized_documents = []
