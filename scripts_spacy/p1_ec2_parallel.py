@@ -130,7 +130,7 @@ def process_files():
             for result in pool.imap(
                 calculate_idf_with_progress,
                 [(term, tokenized_documents, total_documents) for term in all_terms],
-                chunksize=500,  # Set an appropriate chunksize for efficient processing, was previously 100
+                chunksize=100,  # Set an appropriate chunksize for efficient processing, was previously 100
             ):
                 idf_results.append(result)
                 pbar.update()
