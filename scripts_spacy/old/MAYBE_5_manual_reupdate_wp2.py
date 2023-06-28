@@ -22,6 +22,7 @@ def json_cleaning(text):
     pattern = r"[^\w\s]"
     clean_text = re.sub(pattern, '', text)    
     clean_text = clean_text.replace('\n', ' ').replace('\t', ' ').replace('\r', ' ')
+    clean_text = clean_text.lower()
     clean_text = ' '.join(clean_text.split())
     return clean_text
 
@@ -36,7 +37,7 @@ filelist = filelist[:10000]
 
 ## define the function to process a single file
 def process_file(file):
-    
+
     tokenized_doc = []  # Initialize tokenized_doc list
     idf_result = {}  # Initialize idf_result dictionary
     
