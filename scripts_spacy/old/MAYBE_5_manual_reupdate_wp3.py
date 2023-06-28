@@ -88,13 +88,11 @@ for term_freq in term_frequencies:
 
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
-# ## Print the IDF values
-# for term, value in idf.items():
-#     print(term, value)
-
-## Print the IDF values in descending order
-for term, value in sorted(idf.items(), key=lambda item: item[1], reverse=True):
-    print(term, value)
+## Convert the IDF values to a dataframe
+idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["IDF"])
+idf_df.index.name = "Term"
+idf_df = idf_df.sort_values(by="IDF", ascending=False)
+idf_df.head(10)
 
 ## capture end time
 endtime = time.time()
