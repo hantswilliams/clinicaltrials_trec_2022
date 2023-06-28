@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:1000]
+filelist = filelist[:5000]
 
 ## define the function to process a single file
 def process_file(file):
@@ -87,37 +87,37 @@ print(f"Total documents processed: {total_documents}")
 all_terms = set()
 for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
-print(f"Total unique terms found: {len(all_terms)}")
 
-## Calculate the most common terms
-most_common_terms = {}
-for term in all_terms:
-    term_count = sum(1 for term_freq in term_frequencies if term in term_freq)
-    most_common_terms[term] = term_count
-print(f"Most common terms: {most_common_terms}")
+## progress bar 2 for calculating IDF
+progress_bar2 = tqdm(all_terms, desc="Calculating IDF", unit="term")
 
 ## Calculate IDF for each term across all documents
 idf = {}
 for term in all_terms:
     doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
     idf[term] = math.log(total_documents / (1 + doc_count))
+    ## update the progress bar
+    progress_bar2.set_postfix(term=term)
+    progress_bar2.update(1)
 
-## Print the IDF for each term
-print(f"IDF for each term: {idf}")
-
-## Convert idf to a dataframe
 idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
-print(f"IDF dataframe: {idf_df}")
-
-## Sort the IDF dataframe by IDF value
 idf_df = idf_df.sort_values(by="idf", ascending=False)
-print(f"IDF dataframe sorted by IDF value: {idf_df}")
+print(f"IDF dataframe sorted by IDF value: {idf_df.head(50)}")
 
 # ## Calculate TF-IDF for each term in each document
 # tf_idf = []
 # for term_freq in term_frequencies:
 #     tf_idf.append({term: tf * idf[term] for term, tf in term_freq.items()})
 # print(f"TF-IDF for each term in each document: {tf_idf}")
+
+# ## Calculate the most common terms
+# most_common_terms = {}
+# for term in all_terms:
+#     term_count = sum(1 for term_freq in term_frequencies if term in term_freq)
+#     most_common_terms[term] = term_count
+# print(f"Most common terms: {most_common_terms}")
+
+
 
 ## Print the total time taken
 print(f"Total time taken: {time.time() - starttime} seconds")
