@@ -6,14 +6,6 @@ import time
 import multiprocessing
 from functools import partial
 
-######## SIMPLIFIED STEPS ########
-# 1 load in json file
-# 2 tokenize
-# 3 calculate
-# 4 clear memory
-# 1 load in new json file (repeat)
-# .....perform 2-5 again (repeat)
-########################
 
 def process_file(file, tokenized_documents, idf, progress):
     # update the progress
@@ -30,20 +22,19 @@ def process_file(file, tokenized_documents, idf, progress):
         return None
 
     ## Step 2: Tokenize
-    all_terms = set()
     tokenized_doc = doc.split()  # Tokenize the document
     tokenized_documents.append(tokenized_doc)
-    all_terms.update(tokenized_doc)
 
     ## Step 3: Calculate IDF
     total_documents = len(tokenized_documents)
+    all_terms = set(tokenized_doc)
     for term in all_terms:
         doc_count = sum(1 for doc in tokenized_documents if term in doc)
         idf[term] = math.log(total_documents / (1 + doc_count))
 
-    ## Step 4 Close JSON and remove assets from memory
+    ## Step 4: Close JSON and remove assets from memory
     f.close()
-    del jsonData, doc, all_terms, tokenized_doc, total_documents, term
+    del jsonData, doc, tokenized_doc
 
     # update the progress
     progress[file] = 'Done'
@@ -56,12 +47,11 @@ def process_files():
     ## load in json files
     filelist = os.listdir('./s3_bucket/json/')
 
-    ## create empty list for tokenized documents and idf dictionary
-    tokenized_documents = []
-    idf = {}
-
-    ## initialize the progress dictionary
-    progress = multiprocessing.Manager().dict()
+    ## create shared list for tokenized documents and shared dictionary for idf, progress
+    manager = multiprocessing.Manager()
+    tokenized_documents = manager.list()
+    idf = manager.dict()
+    progress = manager.dict()
 
     # multiprocessing
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
@@ -87,15 +77,15 @@ def process_files():
     ## Files Processed
     print("Total Files Processed: ", len(filelist))
 
-    print ('done with all files, now creating dataframe...')
-    print ('\n')
+    # ## Print IDF dictionary
+    # print("IDF Dictionary:")
+    # for term, value in idf.items():
+    #     print(f"{term}: {value}")
 
-    print(idf)
-
-    # ## create dataframe from idf dictionary
-    # idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
-    # idf_df = idf_df.sort_values(by=['idf'], ascending=False)
-    # print(idf_df.head(10))
+    ## create dataframe from idf dictionary
+    idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
+    idf_df = idf_df.sort_values(by=['idf'], ascending=False)
+    print(idf_df.head(10))
 
 
 
