@@ -4,7 +4,7 @@ import json
 import pandas as pd
 import time
 from tqdm import tqdm
-from concurrent.futures import ProcessPoolExecutor
+from concurrent import futures
 
 ######## SIMPLIFIED STEPS ########
 # 1 load in json file
@@ -54,12 +54,12 @@ def process_file(file):
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
 
 ## create a ProcessPoolExecutor with the number of desired processors
-with ProcessPoolExecutor() as executor:
+with futures.ProcessPoolExecutor() as executor:
     ## loop through each filelist item and submit the tasks to the executor
     futures = [executor.submit(process_file, file) for file in filelist]
 
     ## iterate over the completed futures to get the results
-    for future in concurrent.futures.as_completed(futures):
+    for future in futures.as_completed():
         idf_result = future.result()
 
         if idf_result is not None:
