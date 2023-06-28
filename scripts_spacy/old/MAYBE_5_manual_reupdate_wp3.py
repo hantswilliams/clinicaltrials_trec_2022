@@ -79,26 +79,15 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
-## Step 5: Calculate IDF
-## create a set of all terms
+## Count the total number of documents processed
+total_documents = len(term_frequencies)
+print(f"Total documents processed: {total_documents}")
 
+## Print the unique number of terms found within each doc
 all_terms = set()
 for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
+print(f"Total unique terms found: {len(all_terms)}")
 
-## calculate the IDF for each term
-total_documents = len(term_frequencies)
 
-idf = {}
-for term in all_terms:
-    doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
-    print("Term:", term)
-    print("Term Frequency:", term_freq)
-    idf[term] = math.log(total_documents / (1 + doc_count))
 
-## conver idf to a dataframe
-idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
-idf_df.index.name = "term"
-## sort the dataframe by IDF
-idf_df = idf_df.sort_values(by="idf", ascending=False)
-print(idf_df.head(10))
