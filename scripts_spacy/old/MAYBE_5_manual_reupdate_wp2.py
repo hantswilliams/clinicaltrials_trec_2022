@@ -13,7 +13,7 @@ from concurrent import futures
 # 4 clear memory
 # 1 load in new json file (repeat)
 # .....perform 2-5 again (repeat)
-#########################
+########################
 
 ## capture start time
 starttime = time.time()
@@ -21,10 +21,6 @@ starttime = time.time()
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
 filelist = filelist[:10000]
-
-## create empty list for tokenized documents and idf dictionary
-tokenized_documents = []
-idf = {}
 
 ## define the function to process a single file
 def process_file(file):
@@ -42,13 +38,17 @@ def process_file(file):
     ## Step 3: Calculate IDF
     all_terms = set(tokenized_doc)
     doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms}
-    idf = {term: math.log(len(tokenized_documents) / (1 + count)) if count > 0 else 0 for term, count in doc_count.items()}
+    idf_result = {term: math.log(len(tokenized_documents) / (1 + count)) if count > 0 else 0 for term, count in doc_count.items()}
 
     ## Step 4: Close JSON and remove assets from memory
     f.close()
     del jsonData, doc, all_terms, tokenized_doc
 
-    return idf
+    return tokenized_doc, idf_result
+
+## create empty list for tokenized documents and idf dictionary
+tokenized_documents = []
+idf = {}
 
 ## initialize the progress bar with the total number of files
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
@@ -60,16 +60,21 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures:
-        idf_result = future.result()
+        tokenized_doc, idf_result = future.result()
+
+        if tokenized_doc is not None:
+            tokenized_documents.append(tokenized_doc)
 
         if idf_result is not None:
-            tokenized_documents.append(idf_result)
+            for term, value in idf_result.items():
+                idf[term] = value
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
         progress_bar.update(1)
 
 progress_bar.close()
+
 
 ################################################################################################
 ################################################################################################
