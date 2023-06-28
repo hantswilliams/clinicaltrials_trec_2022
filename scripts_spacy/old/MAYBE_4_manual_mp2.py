@@ -20,7 +20,8 @@ def json_cleaning(text):
     clean_text = ' '.join(clean_text.split())
     return clean_text
 
-def calculate_idf_with_progress(term, docs, total_docs):
+def calculate_idf_with_progress(args):
+    term, docs, total_docs = args
     doc_count = sum(1 for doc in docs if term in doc)
     return term, math.log(total_docs / (1 + doc_count))
 
