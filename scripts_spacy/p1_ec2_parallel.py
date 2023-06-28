@@ -121,45 +121,41 @@ def process_files():
     total_documents = len(documents)
     starttime = time.time()
 
-    # with Pool(processes=5) as pool:
-    #     idf_results = pool.starmap(calculate_idf, [(term, tokenized_documents, total_documents) for term in all_terms])
-    #     idf = dict(idf_results)
-
-    # # Use multiprocessing to parallelize the IDF calculation WITH IMAP and PROGRESS BAR 
-    # with Pool() as pool:
-    #     idf_results = []
-    #     total_terms = len(all_terms)
-
-    #     with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
-    #         for result in pool.imap(
-    #             calculate_idf_with_progress,
-    #             [(term, tokenized_documents, total_documents) for term in all_terms],
-    #             chunksize=500,  # Set an appropriate chunksize for efficient processing
-    #         ):
-    #             idf_results.append(result)
-    #             pbar.update()
-
-    #     idf = dict(idf_results)
-
-    # # Use multiprocessing to parallelize IDF calculation with ASYNC and PROGRESS BAR
+    # Use multiprocessing to parallelize the IDF calculation WITH IMAP and PROGRESS BAR 
     with Pool() as pool:
         idf_results = []
         total_terms = len(all_terms)
 
         with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
-            # Submit tasks using apply_async
-            tasks = [
-                pool.apply_async(calculate_idf_with_progress, ((term, tokenized_documents, total_documents),))
-                for term in all_terms
-            ]
-
-            # Collect results using get
-            for task in tasks:
-                result = task.get()
+            for result in pool.imap(
+                calculate_idf_with_progress,
+                [(term, tokenized_documents, total_documents) for term in all_terms],
+                chunksize=500,  # Set an appropriate chunksize for efficient processing, was previously 100
+            ):
                 idf_results.append(result)
                 pbar.update()
 
         idf = dict(idf_results)
+
+    # # # Use multiprocessing to parallelize IDF calculation with ASYNC and PROGRESS BAR
+    # with Pool() as pool:
+    #     idf_results = []
+    #     total_terms = len(all_terms)
+
+    #     with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
+    #         # Submit tasks using apply_async
+    #         tasks = [
+    #             pool.apply_async(calculate_idf_with_progress, ((term, tokenized_documents, total_documents),))
+    #             for term in all_terms
+    #         ]
+
+    #         # Collect results using get
+    #         for task in tasks:
+    #             result = task.get()
+    #             idf_results.append(result)
+    #             pbar.update()
+
+    #     idf = dict(idf_results)
 
 
 
