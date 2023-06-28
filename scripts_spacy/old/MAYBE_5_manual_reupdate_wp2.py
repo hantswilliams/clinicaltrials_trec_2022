@@ -97,7 +97,7 @@ with futures.ProcessPoolExecutor() as executor:
 progress_bar.close()
 
 ## Step 5: Divide IDF values by the number of files to get the average
-# idf = {term: value / len(filelist) for term, value in idf.items()}
+idf = {term: value / len(filelist) for term, value in idf.items()}
 
 ## Print the IDF values
 for term, value in idf.items():
