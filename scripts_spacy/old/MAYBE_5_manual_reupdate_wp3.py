@@ -104,3 +104,16 @@ for term in all_terms:
 
 ## Print the IDF for each term
 print(f"IDF for each term: {idf}")
+
+## Convert idf to a dataframe
+idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
+print(f"IDF dataframe: {idf_df}")
+
+## Calculate TF-IDF for each term in each document
+tf_idf = []
+for term_freq in term_frequencies:
+    tf_idf.append({term: tf * idf[term] for term, tf in term_freq.items()})
+print(f"TF-IDF for each term in each document: {tf_idf}")
+
+## Print the total time taken
+print(f"Total time taken: {time.time() - starttime} seconds")
