@@ -13,7 +13,7 @@ from concurrent import futures
 # 4 clear memory
 # 1 load in new json file (repeat)
 # .....perform 2-5 again (repeat)
-########################
+#########################
 
 ## capture start time
 starttime = time.time()
