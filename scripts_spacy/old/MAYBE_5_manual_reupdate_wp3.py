@@ -11,7 +11,7 @@ import medspacy
 ######## SIMPLIFIED STEPS ########
 # 1 load in json file
 # 2 tokenize
-# 3 store term frequency
+# 3 calculate term frequency
 # 4 clear memory
 # 1 load in new json file (repeat)
 # .....perform 2-4 again (repeat)
@@ -34,7 +34,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:5000]
+filelist = filelist[:1000]
 
 ## define the function to process a single file
 def process_file(file):
@@ -51,12 +51,12 @@ def process_file(file):
     tokenized_doc = [word for word in tokenized_doc if word not in nlp.Defaults.stop_words]
     
     ## Step 3: Calculate term frequency
-    term_set = set(tokenized_doc)
+    term_freq = {term: tokenized_doc.count(term) for term in set(tokenized_doc)}
 
-    return term_set
+    return term_freq
 
 ## create empty list for term frequency dictionaries
-term_sets = []
+term_frequencies = []
 
 ## initialize the progress bar with the total number of files
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
@@ -68,10 +68,10 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures.as_completed(future_results):
-        term_set = future.result()
+        term_freq = future.result()
 
-        if term_set is not None:
-            term_sets.append(term_set)
+        if term_freq is not None:
+            term_frequencies.append(term_freq)
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
@@ -81,10 +81,10 @@ progress_bar.close()
 
 ## Step 5: Calculate IDF for each term after all documents have been processed
 idf = {}
-for term_set in term_sets:
-    for term in term_set:
+for term_freq in term_frequencies:
+    for term, freq in term_freq.items():
         if term not in idf:
-            idf[term] = sum(1 for doc_set in term_sets if term in doc_set)
+            idf[term] = sum(1 for doc_freq in term_frequencies if term in doc_freq)
 
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
@@ -98,3 +98,4 @@ print("Execution Time:", endtime - starttime, "seconds")
 
 print('done with all files, now creating dataframe...')
 print('\n')
+
