@@ -24,8 +24,9 @@ filelist = filelist[:10000]
 
 ## define the function to process a single file
 def process_file(file):
+    tokenized_doc = []  # Initialize tokenized_doc list
+    idf_result = {}  # Initialize idf_result dictionary
     
-    ## Step 1: Load in JSON file
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
             jsonData = json.load(f)
