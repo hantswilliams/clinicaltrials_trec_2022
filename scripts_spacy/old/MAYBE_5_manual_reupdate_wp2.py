@@ -59,10 +59,10 @@ progress_bar = tqdm(filelist, desc="Processing files", unit="file")
 ## create a ProcessPoolExecutor with the number of desired processors
 with futures.ProcessPoolExecutor() as executor:
     ## loop through each filelist item and submit the tasks to the executor
-    futures = [executor.submit(process_file, file) for file in filelist]
+    future_results = [executor.submit(process_file, file) for file in filelist]
 
     ## wait for all futures to complete
-    for future in futures:
+    for future in futures.as_completed(future_results):
         tokenized_doc, idf_result = future.result()
 
         if tokenized_doc is not None:
@@ -70,13 +70,28 @@ with futures.ProcessPoolExecutor() as executor:
 
         if idf_result is not None:
             for term, value in idf_result.items():
-                idf[term] = value
+                if term in idf:
+                    idf[term] += value
+                else:
+                    idf[term] = value
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
         progress_bar.update(1)
 
 progress_bar.close()
+
+## Step 5: Divide IDF values by the number of files to get the average
+idf = {term: value / len(filelist) for term, value in idf.items()}
+
+## Print the IDF values
+for term, value in idf.items():
+    print(term, value)
+
+## capture end time
+endtime = time.time()
+print("Execution Time:", endtime - starttime, "seconds")
+
 
 ################################################################################################
 ################################################################################################
