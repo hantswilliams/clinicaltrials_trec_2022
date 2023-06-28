@@ -3,7 +3,6 @@ from collections import Counter
 import time
 import pandas as pd
 import medspacy
-import spacy
 
 import os
 import json
@@ -49,11 +48,12 @@ def load_and_clean_files(file_paths):
 
 def process_files():
     ##### Data files 
-    directory = "./s3_bucket/json/"
+    directory = "./s3_bucket/"
     fileNames = os.listdir(directory)
 
     ## load first X files from fileNames into a list of strings, just the textblock
     file_paths = [os.path.join(directory, file_name) for file_name in fileNames]
+    file_paths = file_paths[0:1000]
 
     # Use multiprocessing to parallelize the file loading and cleaning
     with Pool(processes=5) as pool:
@@ -126,11 +126,11 @@ def process_files():
             doc_weights[newFileNames[i]][term] = score
 
     # Save the document weights to a file
-    with open('/Users/hantswilliams/Documents/clinicaltrials_trec_2022/data/spacy_output/doc_weights.json', 'w') as f:
+    with open('/home/ubuntu/clinicaltrials_trec_2022/data/spacy_output/doc_weights.json', 'w') as f:
         json.dump(doc_weights, f)
 
     # save termweights_df to csv
-    termweights_df.to_csv('/Users/hantswilliams/Documents/clinicaltrials_trec_2022/data/spacy_output/termweights.csv')
+    termweights_df.to_csv('/home/ubuntu/clinicaltrials_trec_2022/data/spacy_output/termweights.csv')
     print("termweights saved as termweights.csv and doc_weights saved as doc_weights.json")
     print("\n All Done! \n")
 
