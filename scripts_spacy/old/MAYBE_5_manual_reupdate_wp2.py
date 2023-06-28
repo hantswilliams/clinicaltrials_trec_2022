@@ -98,7 +98,6 @@ with futures.ProcessPoolExecutor() as executor:
                 else:
                     idf[term] = value
 
-                idf[term] += value  # Accumulate the IDF value across different documents
 
 
         # update the progress bar
