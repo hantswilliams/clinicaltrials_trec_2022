@@ -53,7 +53,7 @@ def process_files():
 
     ## load first X files from fileNames into a list of strings, just the textblock
     file_paths = [os.path.join(directory, file_name) for file_name in fileNames]
-    file_paths = file_paths[0:1000]
+    # file_paths = file_paths[0:1000]
 
     # Use multiprocessing to parallelize the file loading and cleaning
     with Pool(processes=5) as pool:
@@ -63,6 +63,9 @@ def process_files():
     newFileCount = len(documents)
     newFileNames = fileNames[0:newFileCount]
 
+    print("Number of files loaded: " + str(newFileCount))
+    print("\n All files loaded! \n")
+
     manager = Manager()
     processed_documents = manager.list()
 
@@ -71,6 +74,9 @@ def process_files():
         pool.starmap(process_document, [(doc, processed_documents) for doc in documents])
 
     tokenized_documents = list(processed_documents)
+
+    print("Documents have been tokenized and processed")
+    print("\n TOKENIZED DONE \n")
 
     # Calculate the term frequency for each document
     term_frequency = [Counter(doc) for doc in tokenized_documents]
@@ -89,6 +95,9 @@ def process_files():
 
     endtime = time.time()
     print("Time to calculate IDF: " + str(endtime - starttime))
+
+    print("CALUATION OF IDF DONE")
+    print("\n IDF DONE \n")
 
     # Calculate the TF-IDF for each term in each document
     tf_idf = []  # CONTAINS ALL THE TF-IDF SCORES
