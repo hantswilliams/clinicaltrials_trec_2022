@@ -55,8 +55,8 @@ def process_file(file):
 
     ## Step 3: Calculate IDF
     all_terms = set(tokenized_doc)
-    doc_count = sum(1 for doc in tokenized_documents if term in doc)
-    idf_result = math.log(len(filelist) / (1 + doc_count))
+    doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) + (term in tokenized_doc) for term in all_terms}
+    idf_result = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
 
     ## Step 4: Close JSON and remove assets from memory
     f.close()
