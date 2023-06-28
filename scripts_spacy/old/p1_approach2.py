@@ -5,7 +5,7 @@ import re
 import time
 import medspacy
 import numpy as np
-from scripts_spacy.customStopwords import customStopwords
+from scripts_spacy.old.customStopwords import customStopwords
 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer

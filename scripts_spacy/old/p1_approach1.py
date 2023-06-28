@@ -4,7 +4,7 @@ import os
 import re
 import time
 import medspacy
-from scripts_spacy.customStopwords import customStopwords
+from scripts_spacy.old.customStopwords import customStopwords
 from tqdm import tqdm
 import functools
 
