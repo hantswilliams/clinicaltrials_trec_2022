@@ -89,5 +89,11 @@ for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
 print(f"Total unique terms found: {len(all_terms)}")
 
+## Calculate the most common terms
+most_common_terms = {}
+for term in all_terms:
+    term_count = sum(1 for term_freq in term_frequencies if term in term_freq)
+    most_common_terms[term] = term_count
+print(f"Most common terms: {most_common_terms}")
 
 
