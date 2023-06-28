@@ -83,7 +83,7 @@ with futures.ProcessPoolExecutor() as executor:
 progress_bar.close()
 
 ## Step 5: Calculate IDF from DF
-idf = {term: math.log((len(filelist) / (value + 1)) + 1) for term, value in df.items()}
+idf = {term: math.log(len(filelist) / (df[term])) for term in df}
 
 ## Print the IDF values
 for term, value in idf.items():
