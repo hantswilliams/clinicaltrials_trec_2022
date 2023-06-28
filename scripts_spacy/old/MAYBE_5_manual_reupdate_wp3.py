@@ -82,6 +82,9 @@ progress_bar.close()
 ## print the term frequencies for the first document
 print('TERM FREQUENCIES 1st DOC')
 print(term_frequencies[0])
+print('\n')
+print('Term freuqnecies for first 10 documents')
+print(term_frequencies[:10])
 
 
 ## Step 5: Calculate IDF for each term after all documents have been processed
