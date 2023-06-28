@@ -5,6 +5,7 @@ import pandas as pd
 import time
 from tqdm import tqdm
 from concurrent import futures
+import multiprocessing
 import re
 import medspacy
 import boto3
@@ -90,18 +91,37 @@ for term_freq in term_frequencies:
     all_terms.update(term_freq.keys())
 
 ######## CALCULATIONS ########
-## Progress bar 
-progress_bar2 = tqdm(all_terms, desc="Calculating IDF", unit="term")
-
-## Calculate IDF for each term across all documents
-idf = {}
-for term in all_terms:
+# Function to calculate IDF for a given term
+def calculate_idf(term):
     doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
-    idf[term] = math.log(total_documents / (1 + doc_count))
-    progress_bar2.set_postfix(term=term)
-    progress_bar2.update(1)
+    return term, math.log(total_documents / (1 + doc_count))
 
-progress_bar2.close()
+# Create a shared queue to store the results
+results_queue = multiprocessing.Queue()
+
+# Use parallel processing to calculate IDF
+with multiprocessing.Pool() as pool:
+    # Apply async function to map the tasks
+    results = [pool.apply_async(calculate_idf, args=(term,), callback=results_queue.put) for term in all_terms]
+
+    # Create a tqdm progress bar
+    progress_bar = tqdm(total=len(all_terms))
+
+    # Keep track of completed tasks
+    completed_tasks = 0
+
+    # Update progress bar as results become available
+    while completed_tasks < len(all_terms):
+        while not results_queue.empty():
+            results_queue.get()
+            completed_tasks += 1
+            progress_bar.update(1)
+
+    # Get the results from the async tasks
+    idf = {term: result.get()[1] for term, result in zip(all_terms, results)}
+
+    # Close the progress bar
+    progress_bar.close()
 
 idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
 idf_df = idf_df.sort_values(by="idf", ascending=False)
