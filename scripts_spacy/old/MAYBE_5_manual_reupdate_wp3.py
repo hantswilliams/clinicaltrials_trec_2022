@@ -104,7 +104,8 @@ progress_bar2.close()
 
 idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["idf"])
 idf_df = idf_df.sort_values(by="idf", ascending=False)
-print(f"IDF dataframe sorted by IDF value: {idf_df.head(1000)}")
+print(f"IDF dataframe sorted by IDF value: {idf_df.head(10)}")
+print(f"IDF dataframe sorted by IDF value: {idf_df.tail(10)}")
 
 # ## Calculate TF-IDF for each term in each document
 # tf_idf = []
