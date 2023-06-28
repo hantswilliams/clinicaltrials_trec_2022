@@ -92,6 +92,8 @@ total_documents = len(term_frequencies)
 idf = {}
 for term in all_terms:
     doc_count = sum(1 for term_freq in term_frequencies if term in term_freq)
+    print("Term:", term)
+    print("Term Frequency:", term_freq)
     idf[term] = math.log(total_documents / (1 + doc_count))
 
 ## conver idf to a dataframe
