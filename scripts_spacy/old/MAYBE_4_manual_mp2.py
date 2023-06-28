@@ -20,6 +20,10 @@ def json_cleaning(text):
     clean_text = ' '.join(clean_text.split())
     return clean_text
 
+def calculate_idf_with_progress(term, docs, total_docs):
+    doc_count = sum(1 for doc in docs if term in doc)
+    return term, math.log(total_docs / (1 + doc_count))
+
 def calculate_idf(term, docs, total_docs):
     doc_count = sum(1 for doc in docs if term in doc)
     return term, math.log(total_docs / (1 + doc_count))
@@ -101,7 +105,7 @@ def process_files():
 
         with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
             for result in pool.imap(
-                calculate_idf,
+                calculate_idf_with_progress,
                 [(term, tokenized_documents, total_documents) for term in all_terms],
                 chunksize=100,  # Set an appropriate chunksize for efficient processing
             ):
