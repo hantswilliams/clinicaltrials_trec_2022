@@ -79,6 +79,11 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
+## print the term frequencies for the first document
+print('TERM FREQUENCIES 1st DOC')
+print(term_frequencies[0])
+
+
 ## Step 5: Calculate IDF for each term after all documents have been processed
 idf = {}
 for term_freq in term_frequencies:
@@ -88,14 +93,14 @@ for term_freq in term_frequencies:
 
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
-## Print the IDF values
-for term, value in idf.items():
-    print(term, value)
+# ## Print the IDF values
+# for term, value in idf.items():
+#     print(term, value)
 
-## capture end time
-endtime = time.time()
-print("Execution Time:", endtime - starttime, "seconds")
+# ## capture end time
+# endtime = time.time()
+# print("Execution Time:", endtime - starttime, "seconds")
 
-print('done with all files, now creating dataframe...')
-print('\n')
+# print('done with all files, now creating dataframe...')
+# print('\n')
 
