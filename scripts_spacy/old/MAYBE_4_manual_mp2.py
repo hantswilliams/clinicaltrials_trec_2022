@@ -38,6 +38,16 @@ def load_and_clean_file(file_path):
     except:
         print("Error loading file: " + file_path)
         return None
+    
+def load_and_clean_file_with_progress(file_path):
+    try:
+        with open(file_path, 'r') as f:
+            jsonData = json.load(f)
+            jsonData['textblock'][0] = json_cleaning(jsonData['textblock'][0])
+            return jsonData['textblock'][0]
+    except:
+        print("Error loading file: " + file_path)
+        return None
 
 def process_document(doc, processed_documents):
     doc = doc.split()
@@ -53,6 +63,8 @@ def load_and_clean_files(file_paths):
             documents.append(document)
     return list(documents)
 
+
+
 def process_files():
     ##### Data files 
     directory = "./s3_bucket/"
@@ -62,10 +74,24 @@ def process_files():
     file_paths = [os.path.join(directory, file_name) for file_name in fileNames]
     # file_paths = file_paths[0:1000]
 
-    # Use multiprocessing to parallelize the file loading and cleaning
+    # # Use multiprocessing to parallelize the file loading and cleaning
+    # with Pool(processes=5) as pool:
+    #     documents = pool.map(load_and_clean_file, file_paths)
+    #     documents = [doc for doc in documents if doc is not None]
+
     with Pool(processes=5) as pool:
-        documents = pool.map(load_and_clean_file, file_paths)
-        documents = [doc for doc in documents if doc is not None]
+        documents = []
+        total_files = len(file_paths)
+
+        with tqdm(total=total_files, ncols=80, unit="file") as pbar:
+            for result in pool.imap(
+                load_and_clean_file_with_progress,
+                file_paths,
+                chunksize=100,  # Set an appropriate chunksize for efficient processing
+            ):
+                if result is not None:
+                    documents.append(result)
+                pbar.update()
 
     newFileCount = len(documents)
     newFileNames = fileNames[0:newFileCount]
