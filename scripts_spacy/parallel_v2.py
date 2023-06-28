@@ -7,6 +7,7 @@ from tqdm import tqdm
 from concurrent import futures
 import re
 import medspacy
+import boto3
 
 ######## SIMPLIFIED STEPS ########
 # 1 load in json file
@@ -34,7 +35,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:100000]
+filelist = filelist[:1000]
 
 ## define the function to process a single file
 def process_file(file):
@@ -109,7 +110,23 @@ print(f"IDF dataframe sorted by IDF value: {idf_df.head(10)}")
 print(f"IDF dataframe sorted by IDF value: {idf_df.tail(10)}")
 
 ## save output to csv
-idf_df.to_csv('./data/spacy_output/idf.csv')
+print("Saving output to csv...")
+try:
+    idf_df.to_csv('./data/spacy_output/idf.csv')
+    print("Output saved to csv")
+except:
+    print("Error saving to csv")
+
+## idf_df to s3
+print("Saving output to s3...")
+try:
+    s3 = boto3.resource('s3')
+    s3.meta.client.upload_file('./data/spacy_output/idf.csv', 'clinicaltrials-gov', 'idf.csv')
+    print("Output saved to s3")
+except:
+    print("Error saving to s3")
+
+
 
 # ## Calculate TF-IDF for each term in each document
 # tf_idf = []
