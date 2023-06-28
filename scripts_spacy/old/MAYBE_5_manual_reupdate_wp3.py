@@ -77,7 +77,9 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures.as_completed(future_results):
-        tokenized_doc, idf_result = future
+        result = future.result()
+        tokenized_doc, idf_result = result  # Unpack the result tuple
+
         if tokenized_doc is not None:
             tokenized_documents.append(tokenized_doc)
 
