@@ -43,8 +43,9 @@ def process_file(file):
     all_terms = set(tokenized_doc)
     doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms}
     for term, count in doc_count.items():
-        idf_value = math.log(len(tokenized_documents) / (1 + count))
-        idf[term] = idf.get(term, 0) + idf_value
+        if count > 0:
+            idf_value = math.log(len(tokenized_documents) / (1 + count))
+            idf[term] = idf.get(term, 0) + idf_value
 
     ## Step 4: Close JSON and remove assets from memory
     f.close()
