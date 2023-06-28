@@ -88,6 +88,9 @@ for term_freq in term_frequencies:
 
 idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
+print("IDF values:")
+print(idf)
+
 ## Convert the IDF values to a dataframe
 idf_df = pd.DataFrame.from_dict(idf, orient="index", columns=["IDF"])
 idf_df.index.name = "Term"
