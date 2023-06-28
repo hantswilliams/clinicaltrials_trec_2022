@@ -56,7 +56,7 @@ def process_file(file):
     ## Step 3: Calculate IDF
     all_terms = set(tokenized_doc)
     # doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) + (term in tokenized_doc) for term in all_terms}
-    doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms}
+    doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms} # TEMP CODE 
     idf_result = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
 
     ## Step 4: Close JSON and remove assets from memory
@@ -84,12 +84,23 @@ with futures.ProcessPoolExecutor() as executor:
         if tokenized_doc is not None:
             tokenized_documents.append(tokenized_doc)
 
+        # if idf_result is not None:
+        #     for term, value in idf_result.items():
+        #         if term in idf:
+        #             idf[term] += value
+        #         else:
+        #             idf[term] = value
+
         if idf_result is not None:
             for term, value in idf_result.items():
                 if term in idf:
                     idf[term] += value
                 else:
                     idf[term] = value
+                    idf[term] = 0  # Add this line to initialize the IDF value for a new term
+
+                idf[term] += value  # Accumulate the IDF value across different documents
+
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
