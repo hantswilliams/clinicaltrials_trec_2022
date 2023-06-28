@@ -96,8 +96,16 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
-## Step 5: Divide IDF values by the number of files to get the average
-idf = {term: value / len(filelist) for term, value in idf.items()}
+## Get the unique terms from all documents
+all_terms = set()
+for doc in tokenized_documents:
+    all_terms.update(doc)
+
+## Calculate the number of documents that contain each term
+doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) for term in all_terms}
+
+## Calculate the IDF for each term across all documents
+idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
 
 ## Print the IDF values
 for term, value in idf.items():
@@ -125,6 +133,8 @@ print('Length of idf: ', len(idf))
 idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
 idf_df = idf_df.sort_values(by=['idf'], ascending=False)
 print(idf_df.head(10))
+print('\n')
+print(idf_df.tail(10))
 ## save dataframe to csv
 
 endtime = time.time()
