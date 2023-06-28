@@ -58,8 +58,8 @@ with futures.ProcessPoolExecutor() as executor:
     ## loop through each filelist item and submit the tasks to the executor
     futures = [executor.submit(process_file, file) for file in filelist]
 
-    ## iterate over the completed futures to get the results
-    for future in futures.as_completed():
+    ## wait for all futures to complete
+    for future in futures:
         idf_result = future.result()
 
         if idf_result is not None:
