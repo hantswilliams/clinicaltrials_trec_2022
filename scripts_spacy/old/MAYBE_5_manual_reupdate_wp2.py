@@ -24,13 +24,16 @@ filelist = filelist[:10000]
 
 ## define the function to process a single file
 def process_file(file):
+    tokenized_doc = []  # Initialize tokenized_doc list
+    idf_result = {}  # Initialize idf_result dictionary
+    
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
             jsonData = json.load(f)
             doc = jsonData['textblock'][0]
     except:
         print("Error loading file: " + file)
-        return None
+        return tokenized_doc, idf_result  # Return empty values
     
     ## Step 2: Tokenize
     tokenized_doc = doc.split()  # Tokenize the document
@@ -42,7 +45,7 @@ def process_file(file):
 
     ## Step 4: Close JSON and remove assets from memory
     f.close()
-    del jsonData, doc, all_terms, tokenized_doc
+    del jsonData, doc, all_terms
 
     return tokenized_doc, idf_result
 
@@ -74,7 +77,6 @@ with futures.ProcessPoolExecutor() as executor:
         progress_bar.update(1)
 
 progress_bar.close()
-
 
 ################################################################################################
 ################################################################################################
