@@ -3,6 +3,8 @@ from collections import Counter
 import time
 import pandas as pd
 import medspacy
+from tqdm import tqdm
+
 
 import os
 import json
@@ -89,8 +91,23 @@ def process_files():
     total_documents = len(documents)
     starttime = time.time()
 
+    # with Pool(processes=5) as pool:
+    #     idf_results = pool.starmap(calculate_idf, [(term, tokenized_documents, total_documents) for term in all_terms])
+    #     idf = dict(idf_results)
+
     with Pool(processes=5) as pool:
-        idf_results = pool.starmap(calculate_idf, [(term, tokenized_documents, total_documents) for term in all_terms])
+        idf_results = []
+        total_terms = len(all_terms)
+
+        with tqdm(total=total_terms, ncols=80, unit="term") as pbar:
+            for result in pool.imap(
+                calculate_idf,
+                [(term, tokenized_documents, total_documents) for term in all_terms],
+                chunksize=100,  # Set an appropriate chunksize for efficient processing
+            ):
+                idf_results.append(result)
+                pbar.update()
+
         idf = dict(idf_results)
 
     endtime = time.time()
