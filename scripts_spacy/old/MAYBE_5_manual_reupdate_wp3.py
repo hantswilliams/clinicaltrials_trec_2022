@@ -11,10 +11,11 @@ import medspacy
 ######## SIMPLIFIED STEPS ########
 # 1 load in json file
 # 2 tokenize
-# 3 calculate
+# 3 calculate term frequency
 # 4 clear memory
 # 1 load in new json file (repeat)
-# .....perform 2-5 again (repeat)
+# .....perform 2-4 again (repeat)
+# calculate IDF for each term after all documents have been processed
 ########################
 
 ### Helper Functions ###
@@ -35,37 +36,27 @@ starttime = time.time()
 filelist = os.listdir('./s3_bucket/json/')
 filelist = filelist[:10000]
 
-## create empty list for tokenized documents and idf dictionaries
-tokenized_documents = []
-idf_results = []
-
 ## define the function to process a single file
 def process_file(file):
-    tokenized_doc = []  # Initialize tokenized_doc list
-    idf_result = {}  # Initialize idf_result dictionary
-    
     try:
         with open('./s3_bucket/json/' + file, 'r') as f:
             jsonData = json.load(f)
             doc = json_cleaning(jsonData['textblock'][0])
     except:
         print("Error loading file: " + file)
-        return tokenized_doc, idf_result  # Return empty values
+        return None  # Return None if error occurs
     
     ## Step 2: Tokenize and clean
     tokenized_doc = doc.split()  # Tokenize the document
     tokenized_doc = [word for word in tokenized_doc if word not in nlp.Defaults.stop_words]
+    
+    ## Step 3: Calculate term frequency
+    term_freq = {term: tokenized_doc.count(term) for term in set(tokenized_doc)}
 
-    ## Step 3: Calculate IDF
-    all_terms = set(tokenized_doc)
-    doc_count = {term: sum(1 for doc in tokenized_documents if term in doc) + (term in tokenized_doc) for term in all_terms}
-    idf_result = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in doc_count.items()}
+    return term_freq
 
-    ## Step 4: Close JSON and remove assets from memory
-    f.close()
-    del jsonData, doc, all_terms
-
-    return tokenized_doc, idf_result
+## create empty list for term frequency dictionaries
+term_frequencies = []
 
 ## initialize the progress bar with the total number of files
 progress_bar = tqdm(filelist, desc="Processing files", unit="file")
@@ -77,14 +68,10 @@ with futures.ProcessPoolExecutor() as executor:
 
     ## wait for all futures to complete
     for future in futures.as_completed(future_results):
-        result = future.result()
-        tokenized_doc, idf_result = result  # Unpack the result tuple
+        term_freq = future.result()
 
-        if tokenized_doc is not None:
-            tokenized_documents.append(tokenized_doc)
-
-        if idf_result is not None:
-            idf_results.append(idf_result)
+        if term_freq is not None:
+            term_frequencies.append(term_freq)
 
         # update the progress bar
         progress_bar.set_postfix(completed=f"{progress_bar.n}/{progress_bar.total}")
@@ -92,18 +79,14 @@ with futures.ProcessPoolExecutor() as executor:
 
 progress_bar.close()
 
-## Combine IDF dictionaries and calculate average IDF values
-combined_idf = {}
-for idf_result in idf_results:
-    for term, value in idf_result.items():
-        if term in combined_idf:
-            combined_idf[term] += value
-        else:
-            combined_idf[term] = value
+## Step 5: Calculate IDF for each term after all documents have been processed
+idf = {}
+for term_freq in term_frequencies:
+    for term, freq in term_freq.items():
+        if term not in idf:
+            idf[term] = sum(1 for doc_freq in term_frequencies if term in doc_freq)
 
-## Calculate average IDF values
-num_files = len(filelist)
-idf = {term: value / num_files for term, value in combined_idf.items()}
+idf = {term: math.log((len(filelist) + 1) / (count + 1)) for term, count in idf.items()}
 
 ## Print the IDF values
 for term, value in idf.items():
@@ -113,23 +96,6 @@ for term, value in idf.items():
 endtime = time.time()
 print("Execution Time:", endtime - starttime, "seconds")
 
-################################################################################################
-################################################################################################
-
 print('done with all files, now creating dataframe...')
 print('\n')
 
-print('tokenized_documents: ', tokenized_documents)
-print('Length of tokenized_documents: ', len(tokenized_documents))
-print('\n')
-print('idf: ', idf)
-print('Length of idf: ', len(idf))
-
-## create dataframe from idf dictionary
-idf_df = pd.DataFrame.from_dict(idf, orient='index', columns=['idf'])
-idf_df = idf_df.sort_values(by=['idf'], ascending=False)
-print(idf_df.head(10))
-## save dataframe to csv
-
-endtime = time.time()
-print('total time: ', endtime - starttime)
