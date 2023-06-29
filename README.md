@@ -1,14 +1,16 @@
-# clinicaltrials_trec_2022
+# Clinicaltrials_trec_2022
 
-## preliminary visualizations / summary: 
-- Data dashboard: https://trials.appliedhealthinformatics.com 
-- github repo for frontend: https://github.com/hantswilliams/clinicaltrials_trec_2022_frontend
+## Preliminary visualizations / summary: 
+#### EXAMPLE DATA dashboard for previewing TREC output: 
+- PLEASE VISIT: **https://trials.appliedhealthinformatics.com** 
+    - github repo for this frontend: https://github.com/hantswilliams/clinicaltrials_trec_2022_frontend
+    - this is just a quick example to put something together, showing off frontend + data sci skills; 
 
-## data source
+## Original data source
 - data: https://www.trec-cds.org/2023.html 
 - original data purpose: clinical trial data. major pain point for clinical trials is recruitment. purpose of this dataset was to combine information related to clinial trials, and a subset of fake patient bios, to try and automatically pair patients with clinical trials. this type of technology is now common, and found in products like TriNetX (currently use this at Stony Brook)
 
-## pre-processing: data transformation and persistance 
+## Pre-processing: data transformation and persistance 
 - first that data is pre-processed, transformed from XML to JSON 
     - file locations: `scripts/p1_scripts_dataLoading_aws` 
         - p0 script: bash script for downloading
@@ -28,7 +30,7 @@
     - in addition, with this approach, the crawler approach could be automatically triggered later with new data being pushed into the bucket (e.g., via streamling data approach or batch)
     - to see some of the athena queries that are then performed and data generated, please see: `./athena` folder with the outputs and queries subfolders; there is a separate readme.md in there
 
-## processing: perform TD / IDF 
+## Processing: perform TD / IDF 
 - script locations: `scripts/p2_scripts_spacy` 
 - there are two scripts in the folder, one that performs the IDF without parallel processing, and one that does 
 - based on my description above, the only field within each document that we are performing the analysis on is the `textblock` field which is a free text field, that could benefit from doing the TD / IDF analysis 
