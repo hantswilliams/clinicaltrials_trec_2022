@@ -31,7 +31,7 @@
     - to see some of the athena queries that are then performed and data generated, please see: `./athena` folder with the outputs and queries subfolders; there is a separate readme.md in there
 
 ## Processing: perform TD / IDF 
-- script locations: `scripts/p2_scripts_spacy` 
+- script locations: `scripts/p2_scripts_spacy/analysis_tf_idf` 
 - there are two scripts in the folder, one that performs the IDF without parallel processing, and one that does 
 - based on my description above, the only field within each document that we are performing the analysis on is the `textblock` field which is a free text field, that could benefit from doing the TD / IDF analysis 
 - the parallel processing script, not fully optimized, currently takes about ~1 hr to run (3468.879439353943 seconds)
