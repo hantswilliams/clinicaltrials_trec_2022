@@ -9,6 +9,7 @@ import multiprocessing
 import re
 import medspacy
 import boto3
+import pickle
 
 ######## SIMPLIFIED STEPS ########
 #### Part 1
@@ -40,7 +41,7 @@ starttime = time.time()
 
 ## load in json files
 filelist = os.listdir('./s3_bucket/json/')
-filelist = filelist[:1000]
+filelist = filelist[:500]
 
 ## define the function to process a single file
 def process_file(file):
@@ -136,16 +137,10 @@ idf_df = idf_df.sort_values(by="idf", ascending=False)
 print(f"IDF dataframe sorted by IDF value: {idf_df.head(10)}")
 print(f"IDF dataframe sorted by IDF value: {idf_df.tail(10)}")
 
-## Calculate TF-IDF for each term in each document
+## Create TF-IDF dictionary that shows each term in each document
 tf_idf = []
 for term_freq in term_frequencies:
     tf_idf.append({term: tf * idf[term] for term, tf in term_freq.items()})
-
-## Create a dataframe from the results
-tf_idf_df = pd.DataFrame.from_records(tf_idf)
-print(f"TF-IDF dataframe: {tf_idf_df.head(10)}")
-
-
 
 # ## Calculate the most common terms
 # most_common_terms = {}
@@ -161,7 +156,7 @@ print(f"TF-IDF dataframe: {tf_idf_df.head(10)}")
 #########################  Saving   ####################################
 ########################################################################
 
-# ## save output to csv
+# ## save output to csv for idf weights locally
 # print("Saving output to csv...")
 # try:
 #     idf_df.to_csv('./data/spacy_output/idf.csv')
@@ -177,6 +172,24 @@ print(f"TF-IDF dataframe: {tf_idf_df.head(10)}")
 #     print("Output saved to s3")
 # except:
 #     print("Error saving to s3")
+
+## save tf_idf with pickle locally 
+print("Saving output to pickle...")
+try:
+    with open('./data/spacy_output/tf_idf.pickle', 'wb') as f:
+        pickle.dump(tf_idf, f)
+    print("Output saved to pickle")
+except:
+    print("Error saving to pickle")
+
+## tf_idf pickle to s3
+print("Saving output to s3...")
+try:
+    s3 = boto3.resource('s3')
+    s3.meta.client.upload_file('./data/spacy_output/tf_idf.pickle', 'clinicaltrials-gov', 'tf_idf.pickle')
+    print("Output saved to s3")
+except:
+    print("Error saving to s3")
 
 
 
