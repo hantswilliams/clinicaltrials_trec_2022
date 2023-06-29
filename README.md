@@ -11,7 +11,7 @@
 - original data purpose: clinical trial data. major pain point for clinical trials is recruitment. purpose of this dataset was to combine information related to clinial trials, and a subset of fake patient bios, to try and automatically pair patients with clinical trials. this type of technology is now common, and found in products like TriNetX (currently use this at Stony Brook)
 
 ## Pre-processing: data transformation and persistance 
-- first that data is pre-processed, transformed from XML to JSON 
+- first the data is pre-processed, transformed from XML to JSON 
     - file locations: `scripts/p1_scripts_dataLoading_aws` 
         - p0 script: bash script for downloading
         - p1 script: unzipping 
