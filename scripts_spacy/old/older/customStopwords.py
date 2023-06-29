@@ -1,3 +1,0 @@
-customStopwords = [
-    'new'
-]
