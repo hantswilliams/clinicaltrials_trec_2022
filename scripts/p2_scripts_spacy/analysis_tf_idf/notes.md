@@ -36,3 +36,17 @@
         | 2          | 4      | 2     |
         | 2          | 5      | 0     |
         | ...        | ...    | ...   |
+
+- would then be able to use a query such as below, to compute IDF very quickly (?):
+    ```
+    SELECT
+        t.TermID,
+        t.Term,
+        LOG10(CAST(COUNT(*) AS FLOAT) / (SELECT COUNT(DISTINCT DocumentID) FROM DocumentTerm)) AS IDF
+    FROM
+        Terms t
+    JOIN
+        DocumentTerm dt ON t.TermID = dt.TermID
+    GROUP BY
+        t.TermID, t.Term;
+    ```
