@@ -142,59 +142,45 @@ tf_idf = []
 for term_freq in term_frequencies:
     tf_idf.append({term: tf * idf[term] for term, tf in term_freq.items()})
 
-# ## Calculate the most common terms
-# most_common_terms = {}
-# for term in all_terms:
-#     term_count = sum(1 for term_freq in term_frequencies if term in term_freq)
-#     most_common_terms[term] = term_count
-# print(f"Most common terms: {most_common_terms}")
-
-
-
 
 ########################################################################
 #########################  Saving   ####################################
 ########################################################################
 
-# ## save output to csv for idf weights locally
-# print("Saving output to csv...")
-# try:
-#     idf_df.to_csv('./data/spacy_output/idf.csv')
-#     print("Output saved to csv")
-# except:
-#     print("Error saving to csv")
+## save output to csv for idf weights locally
+print("Saving output to csv...")
+try:
+    idf_df.to_csv('./data/spacy_output/idf.csv')
+    print("idf_df Output saved to csv")
+except:
+    print("idf_df Error saving to csv")
 
-# ## idf_df to s3
-# print("Saving output to s3...")
-# try:
-#     s3 = boto3.resource('s3')
-#     s3.meta.client.upload_file('./data/spacy_output/idf.csv', 'clinicaltrials-gov', 'idf.csv')
-#     print("Output saved to s3")
-# except:
-#     print("Error saving to s3")
+## idf_df to s3
+print("Saving output to s3...")
+try:
+    s3 = boto3.resource('s3')
+    s3.meta.client.upload_file('./data/spacy_output/idf.csv', 'clinicaltrials-gov', 'idf.csv')
+    print("idf_df Output saved to s3")
+except:
+    print("idf_df Error saving to s3")
 
 ## save tf_idf with pickle locally 
 print("Saving output to pickle...")
 try:
     with open('./data/spacy_output/tf_idf.pickle', 'wb') as f:
         pickle.dump(tf_idf, f)
-    print("Output saved to pickle")
+    print("Pickle Output saved to pickle")
 except:
-    print("Error saving to pickle")
+    print("Pickle Error saving to pickle")
 
 ## tf_idf pickle to s3
 print("Saving output to s3...")
 try:
     s3 = boto3.resource('s3')
     s3.meta.client.upload_file('./data/spacy_output/tf_idf.pickle', 'clinicaltrials-gov', 'tf_idf.pickle')
-    print("Output saved to s3")
+    print("Pickle Output saved to s3")
 except:
-    print("Error saving to s3")
-
-
-
-
-
+    print("Pickle Error saving to s3")
 
 ## Print the total time taken
 print(f"Total time taken: {time.time() - starttime} seconds")
