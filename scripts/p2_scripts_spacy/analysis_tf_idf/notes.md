@@ -1,15 +1,13 @@
 ## Notes
 
-### TF 
+### TF and IDF 
 - Currently TF is set, but no data is pushed back into athena 
-- To make this more effective, should probably update the JSON file in S3 with the new TF infomation 
-- The TF could be pushed back into the json file into S3, and then detected by the web crawler 
+- To make this more effective, could do a combination of things, such as updating the JSON file in S3 with the new TF infomation which will then be consumed by crawler/athena, or could send it directly to a relational DB, creating a term table and document-term table as describe below  
 
 ### IDF 
-- This needs to be optimized 
-- There should probably be another table that contains the TF, each row is a different record (trial) + TF 
-- Approach could then be performed via SQL perhaps? writting script that performs the IDF analysis 
-- Would potneitally have two tables: 
+- Optimization of this thinking for now should be SQL - two tables: (1) term table and (2) term-document-count table
+- Could then use a sql query to perform the IDF analysis  
+- So would potentially have two tables: 
     a. Term table 
 
         | TermID | Term      |
@@ -39,6 +37,7 @@
 
 - would then be able to use a query such as below, to compute IDF very quickly (?):
     ```
+    CREATE VIEW IDFView AS
     SELECT
         t.TermID,
         t.Term,
