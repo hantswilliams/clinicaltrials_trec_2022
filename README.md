@@ -1,5 +1,9 @@
 # clinicaltrials_trec_2022
 
+## preliminary visualizations / summary: 
+- Data dashboard: https://trials.appliedhealthinformatics.com 
+- github repo for frontend: https://github.com/hantswilliams/clinicaltrials_trec_2022_frontend
+
 ## data source
 - data: https://www.trec-cds.org/2023.html 
 - original data purpose: clinical trial data. major pain point for clinical trials is recruitment. purpose of this dataset was to combine information related to clinial trials, and a subset of fake patient bios, to try and automatically pair patients with clinical trials. this type of technology is now common, and found in products like TriNetX (currently use this at Stony Brook)
