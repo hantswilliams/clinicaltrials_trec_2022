@@ -6,4 +6,6 @@ timescale-db-51063-credentials.sql
 # ignore all files in s3_bucket/json/
 data/s3_bucket_testing/json/*
 
+# ignore the env folder
+env/*
 

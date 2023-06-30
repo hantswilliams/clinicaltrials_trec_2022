@@ -1,0 +1,51 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// // for SQLite
+// datasource db {
+//   provider = "sqlite"
+//   url      = "file:./dev.db"
+// }
+
+// for PlanetScale
+datasource db {
+  provider = "mysql"
+  url      = env("planetScaleDB")
+  relationMode = "prisma"
+}
+
+// for Cockroachdb
+// datasource db {
+//   provider = "cockroachdb"
+//   url      = env("DATABASE_URL")
+// }
+
+model terms {
+  id           Int            @id @default(autoincrement())
+  term         String         @unique
+  definition   String?
+  examples     String?
+  tags         String?
+  synonyms     String?
+  antonyms     String?
+  related      String?
+  createdAt    DateTime       @default(now())
+  documentterm documentterm[]
+}
+
+model documentterm {
+  id        Int      @id @default(autoincrement())
+  document  String
+  termId    Int
+  count     Int
+  createdAt DateTime @default(now())
+  terms     terms    @relation(fields: [termId], references: [id])
+}
+
+
+
+

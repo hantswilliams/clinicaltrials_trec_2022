@@ -1,4 +1,4 @@
-## Notes 
+## FUTURE SECTION 
 
 - Pull down S3 file (json) - individual file 
 - Analyze it for entity detection; perhaps begin with SDoH related terms
